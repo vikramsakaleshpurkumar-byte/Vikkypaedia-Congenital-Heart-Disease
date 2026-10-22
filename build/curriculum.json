@@ -1,0 +1,2865 @@
+{
+  "modules": [
+    {
+      "num": 1,
+      "title": "Introduction: Formulation of the problem",
+      "hook": "The same congenital lesion can behave differently in a fetus, a newborn and an adult. Begin with anatomy and physiology, then predict the findings.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L001-1",
+          "objective_id": "O001-1",
+          "objective": "Explain why congenital heart disease is a life-course condition",
+          "title": "A changing condition",
+          "level": "Clinical Application",
+          "text": "Congenital anatomy can acquire changing physiologic expression over time. A congenital malformation may evolve during gestation and extrauterine life; a bicuspid valve can become stenotic decades after birth.",
+          "card_id": "fc-001-1",
+          "question_id": "q-001-1",
+          "pdf_page": 15,
+          "printed_page": "1"
+        },
+        {
+          "id": "L001-2",
+          "objective_id": "O001-2",
+          "objective": "Recognize that important congenital disorders may be electrical",
+          "title": "Beyond visible malformation",
+          "level": "Essentials",
+          "text": "Congenital functional abnormalities can exist without a gross structural defect. The source includes congenital complete heart block among functionally significant conditions that need not be gross structural defects.",
+          "card_id": "fc-001-2",
+          "question_id": "q-001-2",
+          "pdf_page": 15,
+          "printed_page": "1"
+        },
+        {
+          "id": "L001-3",
+          "objective_id": "O001-3",
+          "objective": "Relate postnatal pulmonary adaptation to changing shunt physiology",
+          "title": "Birth changes the physiology",
+          "level": "Clinical Application",
+          "text": "Lung expansion and falling pulmonary vascular resistance redistribute flow. Lung expansion, rising oxygen tension, reduced pulmonary resistance and elimination of the placental circulation substantially alter cardiovascular physiology.",
+          "card_id": "fc-001-3",
+          "question_id": "q-001-3",
+          "pdf_page": 15,
+          "printed_page": "1"
+        },
+        {
+          "id": "L001-4",
+          "objective_id": "O001-4",
+          "objective": "Combine bedside observations and imaging in diagnostic reasoning",
+          "title": "Clinical synthesis",
+          "level": "Clinical Application",
+          "text": "Integrate the imaging with prior clinical observations and predicted physiology. The diagnostic approach synthesizes history, examination, ECG, radiography and advanced imaging into a coherent anatomic–physiologic explanation.",
+          "card_id": "fc-001-4",
+          "question_id": "q-001-4",
+          "pdf_page": 16,
+          "printed_page": "2"
+        },
+        {
+          "id": "L001-5",
+          "objective_id": "O001-5",
+          "objective": "Adapt the order of assessment while preserving diagnostic synthesis",
+          "title": "Flexible examination sequence",
+          "level": "Clinical Application",
+          "text": "Examine while calm and integrate the history and other findings afterward. The depth and synthesis of analysis matter more than a rigid order; examining an infant during a calm interval may improve the assessment.",
+          "card_id": "fc-001-5",
+          "question_id": "q-001-5",
+          "pdf_page": 16,
+          "printed_page": "2"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 2,
+      "title": "Functional murmurs",
+      "hook": "A murmur is a finding to explain, not a diagnosis. Use its timing, location, quality, context and response to position before assigning a cause.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L002-1",
+          "objective_id": "O002-1",
+          "objective": "Recognize the typical clinical pattern of a Still murmur",
+          "title": "The vibratory childhood murmur",
+          "level": "Clinical Application",
+          "text": "A Still murmur. The typical Still murmur is vibratory or buzzing, midsystolic and most prominent between the apex and lower left sternal edge in the supine child.",
+          "card_id": "fc-002-1",
+          "question_id": "q-002-1",
+          "pdf_page": 20,
+          "printed_page": "6"
+        },
+        {
+          "id": "L002-2",
+          "objective_id": "O002-2",
+          "objective": "Recognize the distribution and interpretive limits of neonatal branch pulmonary murmurs",
+          "title": "Transient branch pulmonary flow",
+          "level": "Clinical Application",
+          "text": "Transient disparity between the pulmonary trunk and its branch sizes. The neonatal pulmonary trunk–branch size disparity and branch geometry can produce widely transmitted systolic turbulence; the murmur alone does not distinguish transient physiology from fixed branch stenosis.",
+          "card_id": "fc-002-2",
+          "question_id": "q-002-2",
+          "pdf_page": 21,
+          "printed_page": "7"
+        },
+        {
+          "id": "L002-3",
+          "objective_id": "O002-3",
+          "objective": "Distinguish a venous hum from other continuous murmurs",
+          "title": "Position-dependent continuous sound",
+          "level": "Clinical Application",
+          "text": "A cervical venous hum. Recumbency, neutral neck position and reduced jugular flow can diminish or abolish the venous hum.",
+          "card_id": "fc-002-3",
+          "question_id": "q-002-3",
+          "pdf_page": 27,
+          "printed_page": "13"
+        },
+        {
+          "id": "L002-4",
+          "objective_id": "O002-4",
+          "objective": "Recognize the localization and shoulder response of an arterial supraclavicular murmur",
+          "title": "Supraclavicular arterial origin",
+          "level": "Clinical Application",
+          "text": "Flow vibrations near the origins of the major brachiocephalic arteries. The supraclavicular arterial murmur is systolic, maximal above the clavicles and may diminish or disappear with shoulder hyperextension.",
+          "card_id": "fc-002-4",
+          "question_id": "q-002-4",
+          "pdf_page": 22,
+          "printed_page": "8"
+        },
+        {
+          "id": "L002-5",
+          "objective_id": "O002-5",
+          "objective": "Evaluate the proposed relationship between ventricular bands and a Still murmur",
+          "title": "Association is not a settled mechanism",
+          "level": "Deep Dive",
+          "text": "Band prevalence persists across ages while Still murmur prevalence falls toward adolescence. The mismatch between age-related murmur prevalence and band prevalence, and the source’s explicit uncertainty, prevent treating the association as a settled universal mechanism.",
+          "card_id": "fc-002-5",
+          "question_id": "q-002-5",
+          "pdf_page": 20,
+          "printed_page": "6"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-002",
+        "intro": "A fictional 7-year-old is referred after a murmur is heard during a routine visit. Exercise tolerance, pulses and oxygenation are normal.",
+        "stages": [
+          {
+            "information": "The sound is vibratory and midsystolic, loudest between the apex and lower left sternal edge when the child is supine. Other heart sounds are normal.",
+            "prompt": "Which source-described pattern best fits this sound?",
+            "options": [
+              "A Still murmur",
+              "A purely diastolic regurgitant murmur",
+              "A cervical venous hum",
+              "A continuous ductal murmur"
+            ],
+            "answer": 0,
+            "feedback": "A vibratory midsystolic sound in this location and context is the characteristic Still pattern. The interpretation still uses the whole clinical assessment.",
+            "pdf_page": 20
+          },
+          {
+            "information": "A separate continuous sound is then heard above the right clavicle while sitting upright. It disappears with recumbency; it is distinct from the original precordial systolic sound.",
+            "prompt": "How should this second sound be interpreted?",
+            "options": [
+              "A venous hum can coexist as a separate functional flow sound",
+              "Every continuous sound establishes a patent ductus",
+              "The systolic sound has necessarily become a diastolic valve lesion",
+              "The new sound proves the earlier examination was impossible"
+            ],
+            "answer": 0,
+            "feedback": "A supraclavicular continuous sound with this positional behavior fits a venous hum. Distinguishing the two sounds avoids forcing separate observations into one incorrect mechanism.",
+            "pdf_page": 27
+          },
+          {
+            "information": "Imaging obtained during the referral shows no important structural defect and an incidental left ventricular band. A learner claims this proves the cause of every Still murmur.",
+            "prompt": "Which explanation best respects the source evidence?",
+            "options": [
+              "Every ventricular band is an obstructive valve lesion",
+              "The association does not establish a universal mechanism",
+              "An incidental band makes the rest of the assessment irrelevant",
+              "All Still murmurs must disappear only after a band is removed"
+            ],
+            "answer": 1,
+            "feedback": "The source explicitly leaves the mechanism unsettled and notes the mismatch between band prevalence and the age-related prevalence of the murmur. Association does not establish a necessary cause.",
+            "pdf_page": 20
+          }
+        ],
+        "debrief": "Describe timing, quality and distribution before assigning a mechanism. Positional behavior can help distinguish an additional venous hum. Do not convert an anatomic association into a universal causal explanation."
+      }
+    },
+    {
+      "num": 3,
+      "title": "The cardiac malpositions",
+      "hook": "A heart on the right does not tell you every chamber’s identity or connection. Describe position, situs and sequential segmental anatomy separately.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L003-1",
+          "objective_id": "O003-1",
+          "objective": "Distinguish a secondary shift of the heart from an intrinsic positional arrangement",
+          "title": "Position and displacement",
+          "level": "Essentials",
+          "text": "Secondary cardiac displacement. Cardiac displacement is a secondary shift in intrathoracic position, such as one produced by diaphragmatic eventration.",
+          "card_id": "fc-003-1",
+          "question_id": "q-003-1",
+          "pdf_page": 30,
+          "printed_page": "16"
+        },
+        {
+          "id": "L003-2",
+          "objective_id": "O003-2",
+          "objective": "Trace cardiac components without substituting side labels for morphology",
+          "title": "Sequential segmental analysis",
+          "level": "Clinical Application",
+          "text": "Identify the atria, valves, ventricles and arterial connections systematically. The source describes systematic attention to morphology, atrioventricular connections, ventriculoarterial connections and great-artery relationships.",
+          "card_id": "fc-003-2",
+          "question_id": "q-003-2",
+          "pdf_page": 31,
+          "printed_page": "17"
+        },
+        {
+          "id": "L003-3",
+          "objective_id": "O003-3",
+          "objective": "Recognize the combined visceral and cardiac pattern of situs inversus with dextrocardia",
+          "title": "Mirror-image arrangement",
+          "level": "Clinical Application",
+          "text": "Situs inversus with dextrocardia. The described heart and abdominal viscera are in the mirror-image positions of the usual arrangement.",
+          "card_id": "fc-003-3",
+          "question_id": "q-003-3",
+          "pdf_page": 33,
+          "printed_page": "19"
+        },
+        {
+          "id": "L003-4",
+          "objective_id": "O003-4",
+          "objective": "Explain physiologic correction through atrioventricular and ventriculoarterial discordance",
+          "title": "The effect of two discordant connections",
+          "level": "Clinical Application",
+          "text": "Two discordant connections restore the appropriate destinations of blood. Atrioventricular and ventriculoarterial discordance can together produce physiologic correction of blood-flow destinations.",
+          "card_id": "fc-003-4",
+          "question_id": "q-003-4",
+          "pdf_page": 31,
+          "printed_page": "17"
+        },
+        {
+          "id": "L003-5",
+          "objective_id": "O003-5",
+          "objective": "Identify bilateral right-sided morphology without equating it with position alone",
+          "title": "Isomerism is a morphologic descriptor",
+          "level": "Essentials",
+          "text": "Right isomerism. Right isomerism describes bilateral morphologically right characteristics in structures normally different on the two sides.",
+          "card_id": "fc-003-5",
+          "question_id": "q-003-5",
+          "pdf_page": 30,
+          "printed_page": "16"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-003",
+        "intro": "A fictional adult has an unusual cardiac position discovered during routine chest imaging. No anatomy or physiology is assumed from the word dextrocardia alone.",
+        "stages": [
+          {
+            "information": "The cardiac silhouette and stomach are on the right, and the liver is on the left.",
+            "prompt": "Which arrangement best describes these findings?",
+            "options": [
+              "Bilateral left isomerism established by position alone",
+              "Situs inversus with dextrocardia",
+              "Situs inversus with levocardia",
+              "Situs solitus with levocardia"
+            ],
+            "answer": 1,
+            "feedback": "Right thoracic cardiac position with reversed abdominal viscera is the source-described mirror-image arrangement. Isomerism requires morphologic assessment.",
+            "pdf_page": 33
+          },
+          {
+            "information": "A standard ECG shows inverted P waves in lead I and an upright P wave in aVR. The tracing is being interpreted for the first time.",
+            "prompt": "Which step belongs before interpreting these as pathologic electrical findings?",
+            "options": [
+              "Ignore the cardiac position because every ECG has the same orientation",
+              "Declare atrial situs from one wave without checking technical placement",
+              "Verify lead attachment and interpret the tracing in the documented atrial and cardiac arrangement",
+              "Assume these findings establish myocardial infarction"
+            ],
+            "answer": 2,
+            "feedback": "The source emphasizes checking lead attachment first. Mirror-image atrial depolarization changes expected limb-lead patterns, and interpretation depends on the documented situs.",
+            "pdf_page": 37
+          },
+          {
+            "information": "Echocardiography identifies a left-sided morphologic right atrium connected through a tricuspid valve to a morphologic right ventricle; the corresponding morphologic left chambers are on the right. Further arterial connections are traced directly.",
+            "prompt": "How should the atrioventricular connection be described?",
+            "options": [
+              "A single-ventricle connection proven by the side labels",
+              "Morphologically concordant despite the reversed locations",
+              "Discordant solely because the right ventricle is left-sided",
+              "Undefined because position always replaces morphology"
+            ],
+            "answer": 1,
+            "feedback": "Concordance describes the appropriate morphologic atrial–ventricular pairing, not whether a chamber occupies a familiar side of the chest. Continue tracing the arterial connections rather than assuming them.",
+            "pdf_page": 30
+          }
+        ],
+        "debrief": "Describe position and visceral situs, check ECG technique, then identify morphology and trace connections. A side label is not a substitute for segmental anatomy or its resulting physiology."
+      }
+    },
+    {
+      "num": 4,
+      "title": "Isolated congenital complete heart block",
+      "hook": "A slow pulse can reveal an electrical problem even when cardiac anatomy appears normal. Link the venous pulse and heart sounds to the ECG.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L004-1",
+          "objective_id": "O004-1",
+          "objective": "Describe a source-supported mechanism of isolated congenital heart block",
+          "title": "Passive autoimmunity",
+          "level": "Essentials",
+          "text": "Transplacental transfer of maternal IgG with injury to fetal conduction tissue. The source describes passive autoimmunity involving maternal IgG antibodies, including Ro/SSA and La/SSB associations; maternal lupus can become apparent only later.",
+          "card_id": "fc-004-1",
+          "question_id": "q-004-1",
+          "pdf_page": 53,
+          "printed_page": "39"
+        },
+        {
+          "id": "L004-2",
+          "objective_id": "O004-2",
+          "objective": "Recognize the ECG relationship in complete atrioventricular block",
+          "title": "Electrical independence",
+          "level": "Clinical Application",
+          "text": "Atrial and ventricular activation are independent. In complete heart block, P waves and QRS complexes occur independently, rather than maintaining a fixed conducted relationship.",
+          "card_id": "fc-004-2",
+          "question_id": "q-004-2",
+          "pdf_page": 56,
+          "printed_page": "42"
+        },
+        {
+          "id": "L004-3",
+          "objective_id": "O004-3",
+          "objective": "Explain intermittent large jugular A waves in atrioventricular dissociation",
+          "title": "Cannon venous waves",
+          "level": "Clinical Application",
+          "text": "Right atrial contraction against a closed tricuspid valve. Independent atrial and ventricular activity can bring atrial contraction against the closed tricuspid valve, abruptly amplifying the venous A wave.",
+          "card_id": "fc-004-3",
+          "question_id": "q-004-3",
+          "pdf_page": 55,
+          "printed_page": "41"
+        },
+        {
+          "id": "L004-4",
+          "objective_id": "O004-4",
+          "objective": "Relate changing atrioventricular timing to variable first-sound intensity",
+          "title": "Variable first heart sound",
+          "level": "Clinical Application",
+          "text": "The changing atrial–ventricular timing alters valve position at ventricular systole. Because atria and ventricles beat independently, the PR relationship changes and first-sound intensity can vary widely.",
+          "card_id": "fc-004-4",
+          "question_id": "q-004-4",
+          "pdf_page": 55,
+          "printed_page": "41"
+        },
+        {
+          "id": "L004-5",
+          "objective_id": "O004-5",
+          "objective": "Choose the appropriate test when conduction disease is suspected",
+          "title": "Normal radiography does not exclude block",
+          "level": "Clinical Application",
+          "text": "Assess the atrial–ventricular relationship on a standard ECG. The radiographic appearance can be normal; the source emphasizes the standard ECG for establishing complete heart block.",
+          "card_id": "fc-004-5",
+          "question_id": "q-004-5",
+          "pdf_page": 59,
+          "printed_page": "45"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-004",
+        "intro": "A fictional child is followed from fetal recognition of bradycardia into childhood. The case teaches source-edition mechanisms and recognition rather than a pacing or resuscitation protocol.",
+        "stages": [
+          {
+            "information": "Fetal assessment identifies persistent bradycardia and no major structural malformation. Maternal testing identifies anti-Ro/SSA antibodies despite no established clinical diagnosis of lupus.",
+            "prompt": "Which mechanism should be considered?",
+            "options": [
+              "Direct transmission of the maternal cardiac rhythm",
+              "Exclusion of immune injury because maternal lupus is not clinically established",
+              "Passive immune injury from transplacental maternal IgG",
+              "The need for a gross ventricular septal defect before conduction disease can occur"
+            ],
+            "answer": 2,
+            "feedback": "The source describes maternal antibody-mediated fetal conduction injury and notes that overt maternal lupus may not be apparent at the time of the infant’s diagnosis.",
+            "pdf_page": 53
+          },
+          {
+            "information": "After birth, the ECG records independent atrial P waves and a slower regular ventricular rhythm with narrow QRS complexes.",
+            "prompt": "Which interpretation best explains the electrical relationship?",
+            "options": [
+              "A fixed 2:1 conducted rhythm established by the description",
+              "A structural shunt diagnosed from the QRS width alone",
+              "Physiologic sinus bradycardia with an intact fixed PR relationship",
+              "Complete atrioventricular block with an independent escape rhythm"
+            ],
+            "answer": 3,
+            "feedback": "Independent P waves and QRS complexes establish atrioventricular dissociation. The common narrow complex reflects the usual activation pattern but is interpreted within the complete tracing.",
+            "pdf_page": 56
+          },
+          {
+            "information": "Years later, after a largely asymptomatic interval, the child develops an unexplained syncopal episode.",
+            "prompt": "Which conclusion is most appropriate?",
+            "options": [
+              "Use one age-independent pulse cutoff as a complete management plan",
+              "Assume congenital block can never cause symptoms in children",
+              "Reassess rhythm and hemodynamic status; prior symptom-free periods do not establish permanent stability",
+              "Exclude an arrhythmic cause because the prior chest radiograph was normal"
+            ],
+            "answer": 2,
+            "feedback": "The source describes Stokes–Adams episodes and serious rhythm-related events even in previously asymptomatic young patients. Assessment must consider the rhythm, ventricular function and clinical presentation.",
+            "pdf_page": 54
+          }
+        ],
+        "debrief": "An apparently normal structure does not establish normal conduction. Connect maternal antibody exposure, ECG evidence and later symptoms without substituting this teaching scenario for individual clinical assessment."
+      }
+    },
+    {
+      "num": 5,
+      "title": "Congenital abnormalities of the pericardium",
+      "hook": "An unusual cardiac silhouette may reflect its pericardial support rather than a primary chamber lesion. Relate the radiograph to motion and cross-sectional anatomy.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L005-1",
+          "objective_id": "O005-1",
+          "objective": "Recognize the source-described radiographic clue to partial left pericardial absence",
+          "title": "A focal left-border bulge",
+          "level": "Clinical Application",
+          "text": "Herniation of the left atrial appendage through a partial left pericardial defect. Partial absence of the left pericardium may permit left atrial appendage herniation, producing the described convex left-border shadow.",
+          "card_id": "fc-005-1",
+          "question_id": "q-005-1",
+          "pdf_page": 63,
+          "printed_page": "49"
+        },
+        {
+          "id": "L005-2",
+          "objective_id": "O005-2",
+          "objective": "Recognize displacement and lung interposition in complete pericardial absence",
+          "title": "Mobility with complete absence",
+          "level": "Clinical Application",
+          "text": "Loss of normal pericardial restraint. Complete absence can produce striking cardiac mobility, leftward/posterior displacement and interposed lung tissue.",
+          "card_id": "fc-005-2",
+          "question_id": "q-005-2",
+          "pdf_page": 64,
+          "printed_page": "50"
+        },
+        {
+          "id": "L005-3",
+          "objective_id": "O005-3",
+          "objective": "Distinguish suggestive echocardiographic findings from definitive cross-sectional assessment",
+          "title": "Confirm the anatomy",
+          "level": "Clinical Application",
+          "text": "Thoracic CT or cardiac MRI. The source identifies CT and MRI as definitive modalities; echocardiography may suggest complete absence and identify coexisting defects.",
+          "card_id": "fc-005-3",
+          "question_id": "q-005-3",
+          "pdf_page": 64,
+          "printed_page": "50"
+        },
+        {
+          "id": "L005-4",
+          "objective_id": "O005-4",
+          "objective": "Recognize the typical radiographic location of a congenital pericardial cyst",
+          "title": "A cardiophrenic cyst pattern",
+          "level": "Clinical Application",
+          "text": "A congenital pericardial cyst. A congenital pericardial cyst typically forms a smooth homogeneous density at the right cardiophrenic angle.",
+          "card_id": "fc-005-4",
+          "question_id": "q-005-4",
+          "pdf_page": 63,
+          "printed_page": "49"
+        },
+        {
+          "id": "L005-5",
+          "objective_id": "O005-5",
+          "objective": "Explain right-sided chamber enlargement in the absence of normal pericardial constraint",
+          "title": "Constraint and right-sided dimensions",
+          "level": "Deep Dive",
+          "text": "Reduced pericardial restraint particularly affects the relatively thin-walled right-sided chambers. Loss of normal pericardial constraint particularly affects the right ventricle and right atrium and can alter systemic venous return and septal motion.",
+          "card_id": "fc-005-5",
+          "question_id": "q-005-5",
+          "pdf_page": 64,
+          "printed_page": "50"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 6,
+      "title": "Congenitally corrected transposition of the great arteries",
+      "hook": "A circulation can be physiologically in series while its valves, ventricles and conduction system remain abnormal.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L006-1",
+          "objective_id": "O006-1",
+          "objective": "Trace blood through discordant atrioventricular and arterial connections",
+          "title": "Double discordance",
+          "level": "Essentials",
+          "text": "Atrioventricular and ventriculoarterial discordance. Two discordant junctions place systemic venous blood in the pulmonary circuit and pulmonary venous blood in the systemic circuit, so the circulations are in series.",
+          "card_id": "fc-006-1",
+          "question_id": "q-006-1",
+          "pdf_page": 68,
+          "printed_page": "54"
+        },
+        {
+          "id": "L006-2",
+          "objective_id": "O006-2",
+          "objective": "Explain why an anatomically corrected circulation remains vulnerable",
+          "title": "Systemic ventricular burden",
+          "level": "Clinical Application",
+          "text": "The systemic morphologic right ventricle must sustain a workload for which its usual geometry and blood supply are not designed. The systemic right ventricle retains right-ventricular geometry and a morphologically right coronary supply despite systemic loading.",
+          "card_id": "fc-006-2",
+          "question_id": "q-006-2",
+          "pdf_page": 71,
+          "printed_page": "57"
+        },
+        {
+          "id": "L006-3",
+          "objective_id": "O006-3",
+          "objective": "Identify the valve responsible for left-sided atrioventricular regurgitation",
+          "title": "Systemic atrioventricular valve",
+          "level": "Clinical Application",
+          "text": "Morphologic tricuspid valve. The inverted left atrioventricular valve is morphologically tricuspid; Ebstein-like abnormalities and age-related regurgitation are important.",
+          "card_id": "fc-006-3",
+          "question_id": "q-006-3",
+          "pdf_page": 72,
+          "printed_page": "58"
+        },
+        {
+          "id": "L006-4",
+          "objective_id": "O006-4",
+          "objective": "Explain an age-related substrate for atrioventricular block",
+          "title": "Progressive conduction disease",
+          "level": "Deep Dive",
+          "text": "Replacement of conduction fibers by fibrous tissue in the long penetrating bundle. Fibrous replacement in the long penetrating bundle contributes to age-related atrioventricular block; defects may occur at several conduction levels.",
+          "card_id": "fc-006-4",
+          "question_id": "q-006-4",
+          "pdf_page": 77,
+          "printed_page": "63"
+        },
+        {
+          "id": "L006-5",
+          "objective_id": "O006-5",
+          "objective": "Interpret the characteristic precordial Q-wave pattern",
+          "title": "Reversed septal activation",
+          "level": "Clinical Application",
+          "text": "Q waves in right precordial leads with absent left precordial Q waves. Inverted bundle branches activate the septum from right to left, reversing the usual precordial septal Q-wave pattern.",
+          "card_id": "fc-006-5",
+          "question_id": "q-006-5",
+          "pdf_page": 78,
+          "printed_page": "64"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-006",
+        "intro": "Fictional teaching scenario: a previously well adult is evaluated for an unusual second heart sound.",
+        "stages": [
+          {
+            "information": "A loud second sound is heard at the left base. The anatomy and pulmonary pressure have not yet been established.",
+            "prompt": "What interpretive caution is appropriate?",
+            "options": [
+              "Exclude a congenital connection abnormality because the adult is well",
+              "Diagnose pulmonary hypertension from the sound alone",
+              "Do not infer pulmonary hypertension from loudness alone; an anterior aortic valve can produce this finding",
+              "Assume the loud component must arise from a posterior pulmonary valve"
+            ],
+            "answer": 2,
+            "feedback": "An anterior aortic valve may produce a loud basal second sound that is mistaken for pulmonary hypertension.",
+            "pdf_page": 76
+          },
+          {
+            "information": "The ECG now shows Q waves in right precordial leads with absent left precordial Q waves.",
+            "prompt": "Which mechanism should be considered?",
+            "options": [
+              "Normal left-to-right septal activation",
+              "Atrial activation as the source of septal Q waves",
+              "Reversed septal activation associated with ventricular inversion",
+              "Pulmonary pressure alone as proof of the Q-wave distribution"
+            ],
+            "answer": 2,
+            "feedback": "Right-to-left septal activation with inverted bundle branches reverses the usual precordial Q-wave pattern.",
+            "pdf_page": 78
+          },
+          {
+            "information": "Echocardiography shows right atrium–morphologic left ventricle–pulmonary trunk and left atrium–morphologic right ventricle–aorta.",
+            "prompt": "What explains the absence of obligatory parallel-circulation physiology?",
+            "options": [
+              "Both junctions are discordant, placing the circuits in series",
+              "Only the arterial connection is discordant",
+              "Concordance at both junctions",
+              "A single ventricle necessarily mixes all venous returns"
+            ],
+            "answer": 0,
+            "feedback": "Double discordance redirects each venous stream to its appropriate circulation, despite abnormal segmental connections.",
+            "pdf_page": 68
+          }
+        ],
+        "debrief": "Interpret the sound cautiously, use the ECG as an anatomic clue, and confirm segmental connections by imaging. Physiologic correction does not establish normal systemic ventricular or valve function."
+      }
+    },
+    {
+      "num": 7,
+      "title": "Congenital aortic stenosis: Congenital aortic regurgitation",
+      "hook": "The site of obstruction, valve mobility and the time course of regurgitation change the diagnostic signs.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L007-1",
+          "objective_id": "O007-1",
+          "objective": "Use an aortic ejection sound to localize mobile valvar obstruction",
+          "title": "Localizing an ejection sound",
+          "level": "Clinical Application",
+          "text": "A mobile stenotic aortic valve. The sound arises from abrupt movement of a mobile doming valve and identifies valvar level rather than degree.",
+          "card_id": "fc-007-1",
+          "question_id": "q-007-1",
+          "pdf_page": 96,
+          "printed_page": "82"
+        },
+        {
+          "id": "L007-2",
+          "objective_id": "O007-2",
+          "objective": "Avoid equating lower murmur intensity with improvement",
+          "title": "A quiet murmur in ventricular failure",
+          "level": "Clinical Application",
+          "text": "Reduced murmur intensity does not establish reduced obstruction. Aortic stenosis murmur intensity can decrease in left ventricular failure; loudness is not a stand-alone measure of obstruction.",
+          "card_id": "fc-007-2",
+          "question_id": "q-007-2",
+          "pdf_page": 97,
+          "printed_page": "83"
+        },
+        {
+          "id": "L007-3",
+          "objective_id": "O007-3",
+          "objective": "Resolve a misleading false raphe on echocardiography",
+          "title": "Imaging a bicuspid valve",
+          "level": "Clinical Application",
+          "text": "Image the open valve for two unequal doming leaflets and an elliptical orifice. Open-valve imaging reveals the bicuspid anatomy that can be obscured by a false raphe during closure.",
+          "card_id": "fc-007-3",
+          "question_id": "q-007-3",
+          "pdf_page": 101,
+          "printed_page": "87"
+        },
+        {
+          "id": "L007-4",
+          "objective_id": "O007-4",
+          "objective": "Recognize the chronic severe aortic regurgitation pulse pattern",
+          "title": "Chronic regurgitant pulse",
+          "level": "Clinical Application",
+          "text": "Rapid rise, wide pulse pressure and brisk collapse. Chronic severe regurgitation produces a rapid upstroke, wide pulse pressure, sometimes a bisferiens peak, and brisk collapse.",
+          "card_id": "fc-007-4",
+          "question_id": "q-007-4",
+          "pdf_page": 107,
+          "printed_page": "93"
+        },
+        {
+          "id": "L007-5",
+          "objective_id": "O007-5",
+          "objective": "Distinguish acute severe regurgitation from the chronic bedside pattern",
+          "title": "Acute regurgitation can sound soft",
+          "level": "Clinical Application",
+          "text": "Relatively low regurgitant flow velocity can make severe acute disease acoustically unimpressive. The source describes short, medium-pitched, disarmingly soft murmurs in acute severe regurgitation; chronic peripheral signs may be absent.",
+          "card_id": "fc-007-5",
+          "question_id": "q-007-5",
+          "pdf_page": 107,
+          "printed_page": "93"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 8,
+      "title": "Coarctation of the aorta and interrupted aortic arch",
+      "hook": "A routine arm-and-leg pulse comparison can reveal an obstructive lesion that a quiet anterior chest examination misses.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L008-1",
+          "objective_id": "O008-1",
+          "objective": "Select a focused bedside screen for coarctation",
+          "title": "Arm–leg examination",
+          "level": "Clinical Application",
+          "text": "Compare upper-extremity and femoral pulses and blood pressures. Upper–lower extremity pulse and pressure differences are hallmarks; brachial–femoral comparison is particularly practical in infants.",
+          "card_id": "fc-008-1",
+          "question_id": "q-008-1",
+          "pdf_page": 120,
+          "printed_page": "106"
+        },
+        {
+          "id": "L008-2",
+          "objective_id": "O008-2",
+          "objective": "Explain why obstruction alone does not capture coarctation physiology",
+          "title": "Vascular contribution to hypertension",
+          "level": "Deep Dive",
+          "text": "A stiff, poorly distensible precoarctation aorta. Increased collagen and reduced smooth muscle stiffen the proximal aorta, contributing to systolic hypertension and baroreceptor resetting.",
+          "card_id": "fc-008-2",
+          "question_id": "q-008-2",
+          "pdf_page": 116,
+          "printed_page": "102"
+        },
+        {
+          "id": "L008-3",
+          "objective_id": "O008-3",
+          "objective": "Interpret absent rib notching in a young child",
+          "title": "Age and collateral signs",
+          "level": "Clinical Application",
+          "text": "Notching usually develops later through enlarged posterior intercostal collateral arteries. Collateral posterior intercostal arteries produce notching, which seldom appears before age six years.",
+          "card_id": "fc-008-3",
+          "question_id": "q-008-3",
+          "pdf_page": 126,
+          "printed_page": "112"
+        },
+        {
+          "id": "L008-4",
+          "objective_id": "O008-4",
+          "objective": "Relate neonatal deterioration to ductal constriction",
+          "title": "Ductal closure and neonatal presentation",
+          "level": "Clinical Application",
+          "text": "Closure of the ductus arteriosus. The source specifically associates acute neonatal symptoms in severe coarctation with ductal closure.",
+          "card_id": "fc-008-4",
+          "question_id": "q-008-4",
+          "pdf_page": 116,
+          "printed_page": "102"
+        },
+        {
+          "id": "L008-5",
+          "objective_id": "O008-5",
+          "objective": "Explain maintained femoral pulses before ductal constriction",
+          "title": "Distal perfusion in interrupted arch",
+          "level": "Clinical Application",
+          "text": "Pulmonary trunk through a patent ductus into the descending aorta. Pulmonary trunk–ductus–descending aortic continuity can supply the lower body; diminishing femoral pulses can signal ductal constriction.",
+          "card_id": "fc-008-5",
+          "question_id": "q-008-5",
+          "pdf_page": 131,
+          "printed_page": "117"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-008",
+        "intro": "Fictional teaching scenario: an infant deteriorates after an initially reassuring newborn period.",
+        "stages": [
+          {
+            "information": "The infant develops tachypnea and poor perfusion; no prominent anterior murmur is heard.",
+            "prompt": "Which bedside assessment remains important?",
+            "options": [
+              "Use carotid pulsation alone to exclude obstruction",
+              "Exclude arch obstruction because the murmur is quiet",
+              "Compare brachial and femoral pulses and upper–lower extremity pressures",
+              "Wait for rib notching to develop"
+            ],
+            "answer": 2,
+            "feedback": "Pulse and pressure comparison directly investigates an obstructive systemic arterial lesion even when auscultation is unimpressive.",
+            "pdf_page": 120
+          },
+          {
+            "information": "Femoral pulses are reduced, and the timing of deterioration coincides with ductal constriction.",
+            "prompt": "Which physiologic interpretation is supported?",
+            "options": [
+              "Mature collateral circulation is required before symptoms",
+              "Loss of ductal support can unmask severe neonatal aortic obstruction",
+              "Ductal closure has no relevance to systemic obstruction",
+              "A normal anterior examination excludes a hemodynamic lesion"
+            ],
+            "answer": 1,
+            "feedback": "Severe coarctation may become acutely symptomatic as the ductus closes; anatomy must be established rather than inferred from the murmur.",
+            "pdf_page": 116
+          },
+          {
+            "information": "Imaging demonstrates an interrupted arch and a pulmonary trunk–ductus–descending aortic pathway.",
+            "prompt": "How were lower-body pulses maintained before further ductal constriction?",
+            "options": [
+              "Flow across a normally continuous arch",
+              "Direct pulmonary venous flow to the femoral artery",
+              "Ductal delivery of pulmonary arterial blood into the descending aorta",
+              "Rib collateral circulation as the only possible neonatal route"
+            ],
+            "answer": 2,
+            "feedback": "That arterial pathway can maintain distal flow temporarily; femoral pulses decline as the ductus constricts.",
+            "pdf_page": 131
+          }
+        ],
+        "debrief": "A quiet murmur does not settle the diagnosis. Connect age, pulse distribution and ductal physiology, then establish the precise arch anatomy. This case provides no drug dose or definitive management protocol."
+      }
+    },
+    {
+      "num": 9,
+      "title": "Congenital obstruction to left atrial flow: Mitral stenosis, cor triatriatum, pulmonary vein stenosis",
+      "hook": "Similar pulmonary venous congestion can arise from obstruction at several levels before left ventricular filling.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L009-1",
+          "objective_id": "O009-1",
+          "objective": "Recognize the defining papillary muscle arrangement",
+          "title": "Parachute apparatus",
+          "level": "Essentials",
+          "text": "Parachute mitral valve. A single papillary muscle receiving all chordae defines the parachute arrangement and can restrict interchordal flow.",
+          "card_id": "fc-009-1",
+          "question_id": "q-009-1",
+          "pdf_page": 139,
+          "printed_page": "125"
+        },
+        {
+          "id": "L009-2",
+          "objective_id": "O009-2",
+          "objective": "Identify the obstructive components of Shone complex",
+          "title": "Associated left-sided obstruction",
+          "level": "Clinical Application",
+          "text": "Supravalvular mitral ring, parachute mitral valve, subaortic stenosis and coarctation. The classic four lesions are left-sided inflow/outflow obstructions; not all need be present or functionally significant.",
+          "card_id": "fc-009-2",
+          "question_id": "q-009-2",
+          "pdf_page": 139,
+          "printed_page": "125"
+        },
+        {
+          "id": "L009-3",
+          "objective_id": "O009-3",
+          "objective": "Explain why congenital stenosis need not sound rheumatic",
+          "title": "An absent opening snap",
+          "level": "Clinical Application",
+          "text": "The abnormal leaflet apparatus may not make the brisk opening and closing movements required for those sounds. The characteristic brisk motion of a mobile anterior leaflet is not a feature of the congenital lesion described.",
+          "card_id": "fc-009-3",
+          "question_id": "q-009-3",
+          "pdf_page": 139,
+          "printed_page": "125"
+        },
+        {
+          "id": "L009-4",
+          "objective_id": "O009-4",
+          "objective": "Differentiate cor triatriatum from a supravalvular mitral ring",
+          "title": "Membrane position",
+          "level": "Clinical Application",
+          "text": "Cor triatriatum. A membrane proximal to the appendage and valve distinguishes typical cor triatriatum from a supravalvular ring.",
+          "card_id": "fc-009-4",
+          "question_id": "q-009-4",
+          "pdf_page": 149,
+          "printed_page": "135"
+        },
+        {
+          "id": "L009-5",
+          "objective_id": "O009-5",
+          "objective": "Localize obstruction proximal to a normal-sized left atrium",
+          "title": "Regional pulmonary venous congestion",
+          "level": "Clinical Application",
+          "text": "Unequal stenosis of individual pulmonary veins proximal to the left atrium. Individual veins can have different severities of narrowing, producing regional congestion while the downstream left atrium remains normal-sized.",
+          "card_id": "fc-009-5",
+          "question_id": "q-009-5",
+          "pdf_page": 149,
+          "printed_page": "135"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 10,
+      "title": "Congenital pulmonary stenosis and regurgitation",
+      "hook": "Obstruction above, at or below the pulmonary valve produces different sounds despite sharing right-ventricular pressure loading.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L010-1",
+          "objective_id": "O010-1",
+          "objective": "Distinguish dysplastic from mobile dome-shaped pulmonary stenosis",
+          "title": "Valve morphology",
+          "level": "Essentials",
+          "text": "Dysplastic pulmonary valve stenosis. Dysplastic pulmonary stenosis has thickened separate poorly mobile leaflets without commissural fusion.",
+          "card_id": "fc-010-1",
+          "question_id": "q-010-1",
+          "pdf_page": 153,
+          "printed_page": "139"
+        },
+        {
+          "id": "L010-2",
+          "objective_id": "O010-2",
+          "objective": "Recognize a distinctive pulmonary valvar ejection sound",
+          "title": "Respiratory ejection-click behavior",
+          "level": "Deep Dive",
+          "text": "Reduced additional cephalad movement of a mobile pulmonary valve during ventricular contraction. Inspiration prepositions the mobile valve cephalad through increased right atrial contraction, reducing further excursion and the ejection sound.",
+          "card_id": "fc-010-2",
+          "question_id": "q-010-2",
+          "pdf_page": 161,
+          "printed_page": "147"
+        },
+        {
+          "id": "L010-3",
+          "objective_id": "O010-3",
+          "objective": "Avoid using murmur loudness alone to exclude severe neonatal stenosis",
+          "title": "Critical obstruction with a soft murmur",
+          "level": "Clinical Application",
+          "text": "Pinpoint pulmonary stenosis can have a deceptively soft murmur. The source emphasizes that pinpoint neonatal stenosis may sound disarmingly soft despite severe obstruction.",
+          "card_id": "fc-010-3",
+          "question_id": "q-010-3",
+          "pdf_page": 161,
+          "printed_page": "147"
+        },
+        {
+          "id": "L010-4",
+          "objective_id": "O010-4",
+          "objective": "Explain preserved P2 intensity in pulmonary arterial stenosis",
+          "title": "Branch stenosis and the second sound",
+          "level": "Clinical Application",
+          "text": "The central pulmonary diastolic pressure can remain normal or nearly normal at valve closure. Branch stenosis can raise central systolic pressure while pressure falls to near-normal diastolic levels, so valve closure need not be accentuated.",
+          "card_id": "fc-010-4",
+          "question_id": "q-010-4",
+          "pdf_page": 164,
+          "printed_page": "150"
+        },
+        {
+          "id": "L010-5",
+          "objective_id": "O010-5",
+          "objective": "Recognize the described isolated congenital pulmonary regurgitation pattern",
+          "title": "Low-pressure regurgitant sound",
+          "level": "Clinical Application",
+          "text": "Short delayed low-to-medium-frequency crescendo-decrescendo murmur at the upper left sternal border. The source describes a distinctive short delayed low-to-medium-frequency diastolic murmur, sometimes louder with inspiration.",
+          "card_id": "fc-010-5",
+          "question_id": "q-010-5",
+          "pdf_page": 175,
+          "printed_page": "161"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 11,
+      "title": "Ebstein’s anomaly of the tricuspid valve",
+      "hook": "The effective right ventricle, atrialized segment and interatrial pathway determine more than the apparent size of the heart.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L011-1",
+          "objective_id": "O011-1",
+          "objective": "Identify the morphologic partition created by displaced tricuspid leaflets",
+          "title": "Apical valve displacement",
+          "level": "Essentials",
+          "text": "The inlet right ventricle between the anatomic annulus and displaced functional valve. Apical displacement atrializes the proximal inlet right ventricle while the trabecular and outlet portions form the functional right ventricle.",
+          "card_id": "fc-011-1",
+          "question_id": "q-011-1",
+          "pdf_page": 180,
+          "printed_page": "166"
+        },
+        {
+          "id": "L011-2",
+          "objective_id": "O011-2",
+          "objective": "Explain why a quiet jugular waveform can underestimate tricuspid regurgitation",
+          "title": "Damped venous regurgitant signs",
+          "level": "Deep Dive",
+          "text": "A large compliant right atrium and toneless atrialized ventricle damp low-pressure regurgitant flow. Commodious right-sided chambers and low-pressure hypokinetic regurgitation can damp the expected jugular signs.",
+          "card_id": "fc-011-2",
+          "question_id": "q-011-2",
+          "pdf_page": 183,
+          "printed_page": "169"
+        },
+        {
+          "id": "L011-3",
+          "objective_id": "O011-3",
+          "objective": "Explain temporary neonatal improvement and later recurrence",
+          "title": "Changing cyanosis across life",
+          "level": "Clinical Application",
+          "text": "A neonatal right-to-left atrial shunt can diminish as pulmonary resistance falls and reappear when abnormal right ventricular filling pressure rises. The source describes this uncommon course through changing right-sided filling conditions and interatrial shunting.",
+          "card_id": "fc-011-3",
+          "question_id": "q-011-3",
+          "pdf_page": 182,
+          "printed_page": "168"
+        },
+        {
+          "id": "L011-4",
+          "objective_id": "O011-4",
+          "objective": "Interpret a short PR interval with a delta wave",
+          "title": "Preexcitation evidence",
+          "level": "Clinical Application",
+          "text": "Preexcitation. Early delta-wave inscription supports preexcitation; a short PR interval alone can occasionally occur without a delta wave or tachycardia history.",
+          "card_id": "fc-011-4",
+          "question_id": "q-011-4",
+          "pdf_page": 187,
+          "printed_page": "173"
+        },
+        {
+          "id": "L011-5",
+          "objective_id": "O011-5",
+          "objective": "Select what echocardiography must establish",
+          "title": "Defining anatomy and shunt",
+          "level": "Clinical Application",
+          "text": "Identify a PFO or secundum defect and determine interatrial shunt direction. Color flow imaging and Doppler identify the atrial pathway and whether right-to-left shunting coexists.",
+          "card_id": "fc-011-5",
+          "question_id": "q-011-5",
+          "pdf_page": 190,
+          "printed_page": "176"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-011",
+        "intro": "Fictional longitudinal teaching scenario: a congenital tricuspid abnormality presents differently from the newborn period to adolescence.",
+        "stages": [
+          {
+            "information": "A neonate has cyanosis. Echo shows apically displaced septal and posterior tricuspid leaflets with a large proximal inlet segment.",
+            "prompt": "How should that proximal segment be interpreted?",
+            "options": [
+              "A second left atrium",
+              "An atrialized portion of the right ventricle",
+              "A separate systemic ventricle",
+              "The entire functional right ventricular outlet"
+            ],
+            "answer": 1,
+            "feedback": "The inlet ventricular tissue between the anatomic annulus and displaced valve is atrialized; the distal trabecular/outlet portion is the functional ventricle.",
+            "pdf_page": 180
+          },
+          {
+            "information": "Cyanosis diminishes during the subsequent neonatal weeks as pulmonary vascular resistance falls.",
+            "prompt": "What does this improvement establish?",
+            "options": [
+              "Closure of a ventricular septal defect as a necessary explanation",
+              "Exclusion of any future right-to-left shunt",
+              "A possible change in interatrial shunt physiology without correction of the valve anatomy",
+              "Permanent anatomic correction"
+            ],
+            "answer": 2,
+            "feedback": "A neonatal right-to-left atrial shunt can diminish as resistance falls; this does not establish structural normalization.",
+            "pdf_page": 182
+          },
+          {
+            "information": "Years later, the adolescent reports episodic rapid heart action; ECG shows a short PR interval and delta wave.",
+            "prompt": "Which interpretation now fits?",
+            "options": [
+              "Preexcitation associated with the congenital substrate",
+              "A normal long PR interval",
+              "First-degree block",
+              "An isolated interval variation with no ventricular preexcitation evidence"
+            ],
+            "answer": 0,
+            "feedback": "The delta wave supports early ventricular activation through an accessory route; the source distinguishes it from short PR alone.",
+            "pdf_page": 187
+          }
+        ],
+        "debrief": "Separate the persistent valve morphology from changing neonatal hemodynamics and later electrical manifestations. This case teaches recognition and does not prescribe an arrhythmia treatment regimen or numeric diagnostic displacement threshold."
+      }
+    },
+    {
+      "num": 12,
+      "title": "Atrial septal defect: Simple and complex",
+      "hook": "An interatrial communication may be a simple shunt or part of a much more complex venous or atrioventricular arrangement.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L012-1",
+          "objective_id": "O012-1",
+          "objective": "Explain shunt volume in a nonrestrictive atrial defect",
+          "title": "Shunt and ventricular compliance",
+          "level": "Clinical Application",
+          "text": "Relative compliance of the two ventricles. With little atrial pressure difference, preferential filling of the more compliant right ventricle produces the usual left-to-right shunt.",
+          "card_id": "fc-012-1",
+          "question_id": "q-012-1",
+          "pdf_page": 204,
+          "printed_page": "190"
+        },
+        {
+          "id": "L012-2",
+          "objective_id": "O012-2",
+          "objective": "Localize the systolic murmur of an uncomplicated atrial shunt",
+          "title": "Flow murmur origin",
+          "level": "Clinical Application",
+          "text": "Increased flow through the pulmonary outflow and pulmonary trunk. The systolic murmur reflects augmented pulmonary flow, not a high-velocity jet across the nonrestrictive atrial communication.",
+          "card_id": "fc-012-2",
+          "question_id": "q-012-2",
+          "pdf_page": 210,
+          "printed_page": "196"
+        },
+        {
+          "id": "L012-3",
+          "objective_id": "O012-3",
+          "objective": "Distinguish the respiratory behavior of S2 splitting",
+          "title": "Fixed versus persistent splitting",
+          "level": "Clinical Application",
+          "text": "Wide fixed splitting. Fixed denotes unchanged separation with respiration; persistent splitting remains audible but varies in width.",
+          "card_id": "fc-012-3",
+          "question_id": "q-012-3",
+          "pdf_page": 211,
+          "printed_page": "197"
+        },
+        {
+          "id": "L012-4",
+          "objective_id": "O012-4",
+          "objective": "Recognize pulmonary venous obstruction despite an unimpressive cardiac silhouette",
+          "title": "Obstructed anomalous venous return",
+          "level": "Clinical Application",
+          "text": "Obstructed total anomalous pulmonary venous connection. Obstructed anomalous venous return can produce severe neonatal hypoxemia and congestion with an unimpressive heart size and attenuated flow murmur.",
+          "card_id": "fc-012-4",
+          "question_id": "q-012-4",
+          "pdf_page": 237,
+          "printed_page": "223"
+        },
+        {
+          "id": "L012-5",
+          "objective_id": "O012-5",
+          "objective": "Relate common atrioventricular canal anatomy to both-level shunting",
+          "title": "Bridging leaflets and shunt levels",
+          "level": "Deep Dive",
+          "text": "Communication at both atrial and ventricular levels. Free-floating bridging leaflets permit both atrial and ventricular components of the complete canal.",
+          "card_id": "fc-012-5",
+          "question_id": "q-012-5",
+          "pdf_page": 239,
+          "printed_page": "225"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-012",
+        "intro": "Fictional teaching scenario: a neonate has early cyanosis and escalating respiratory distress.",
+        "stages": [
+          {
+            "information": "Cyanosis is conspicuous, the pulmonary flow murmur is faint and the right ventricular impulse is relatively quiet.",
+            "prompt": "Which interpretation is justified?",
+            "options": [
+              "The infant must have an uncomplicated atrial shunt",
+              "No cardiac imaging is useful if a murmur is faint",
+              "A faint murmur excludes a major circulatory lesion",
+              "Obstructed pulmonary venous return remains possible despite quiet auscultation"
+            ],
+            "answer": 3,
+            "feedback": "The obstructed anomalous venous-return phenotype can have an attenuated or absent pulmonary flow murmur despite severe illness.",
+            "pdf_page": 237
+          },
+          {
+            "information": "The radiograph shows marked reticulated pulmonary venous congestion but little cardiac enlargement.",
+            "prompt": "Which interpretation best integrates the new evidence?",
+            "options": [
+              "A small silhouette excludes venous congestion",
+              "The film proves a mild atrial communication is the only lesion",
+              "The pattern raises concern for obstructed anomalous pulmonary venous connection",
+              "A later unobstructed snowman silhouette is required before considering anomalous return"
+            ],
+            "answer": 2,
+            "feedback": "Severe congestion with an unimpressive silhouette is a classic clue to the obstructed neonatal pattern; the later unobstructed silhouette is not required.",
+            "pdf_page": 237
+          },
+          {
+            "information": "The team performs echocardiography to establish the venous anatomy.",
+            "prompt": "What complete assessment is needed?",
+            "options": [
+              "Only the diameter of one pulmonary vein",
+              "Only the side of the cardiac apex",
+              "Only ventricular wall thickness",
+              "Locate all pulmonary veins and their confluence/connections, assess pathway obstruction and define the atrial communication"
+            ],
+            "answer": 3,
+            "feedback": "The source specifies venous mapping, obstruction assessment and definition of the interatrial communication rather than a single isolated measurement.",
+            "pdf_page": 237
+          }
+        ],
+        "debrief": "Integrate severe cyanosis, pulmonary venous congestion and quiet cardiac findings before mapping the full venous pathway. The case demonstrates diagnostic reasoning and is not an emergency treatment algorithm."
+      }
+    },
+    {
+      "num": 13,
+      "title": "Pulmonary stenosis with interatrial communication",
+      "hook": "Cyanosis and shunt direction depend on the combination of right-ventricular obstruction and the interatrial opening.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L013-1",
+          "objective_id": "O013-1",
+          "objective": "Associate interatrial pathway with obstruction severity and shunt direction",
+          "title": "Anatomic-physiologic pairing",
+          "level": "Clinical Application",
+          "text": "Patent foramen ovale. Severe pulmonary stenosis with right-to-left shunting most often uses a patent foramen ovale; a nonrestrictive secundum defect more often accompanies mild-to-moderate stenosis and left-to-right flow.",
+          "card_id": "fc-013-1",
+          "question_id": "q-013-1",
+          "pdf_page": 254,
+          "printed_page": "240"
+        },
+        {
+          "id": "L013-2",
+          "objective_id": "O013-2",
+          "objective": "Explain a presystolic right-to-left shunt",
+          "title": "Atrial contraction and escape flow",
+          "level": "Clinical Application",
+          "text": "High right atrial pressure stretches the foramen and drives blood toward the left atrium. Forceful atrial contraction raises right atrial pressure, increases PFO patency and can generate a presystolic right-to-left shunt.",
+          "card_id": "fc-013-2",
+          "question_id": "q-013-2",
+          "pdf_page": 254,
+          "printed_page": "240"
+        },
+        {
+          "id": "L013-3",
+          "objective_id": "O013-3",
+          "objective": "Interpret the response of cold extremities to warming",
+          "title": "Central versus peripheral cyanosis",
+          "level": "Clinical Application",
+          "text": "A low-skin-flow peripheral component has improved; central shunt cyanosis must still be assessed. Warmth improves skin blood flow and can diminish peripheral cyanosis while making any persistent central component easier to recognize.",
+          "card_id": "fc-013-3",
+          "question_id": "q-013-3",
+          "pdf_page": 254,
+          "printed_page": "240"
+        },
+        {
+          "id": "L013-4",
+          "objective_id": "O013-4",
+          "objective": "Recognize additional pulmonary stenosis signs in an atrial shunt",
+          "title": "Combined shunt and valvar signs",
+          "level": "Clinical Application",
+          "text": "Coexisting mobile pulmonary valve stenosis. The combination adds valvar ejection sound, a longer louder stenotic murmur and further delay and softening of P2 to the atrial-shunt findings.",
+          "card_id": "fc-013-4",
+          "question_id": "q-013-4",
+          "pdf_page": 257,
+          "printed_page": "243"
+        },
+        {
+          "id": "L013-5",
+          "objective_id": "O013-5",
+          "objective": "Identify complementary imaging tasks",
+          "title": "Anatomy, gradient and shunt direction",
+          "level": "Clinical Application",
+          "text": "Doppler for the obstructive gradient and color flow for the interatrial shunt. Imaging identifies the valve and interatrial pathway; Doppler assesses the gradient and color flow confirms shunt direction.",
+          "card_id": "fc-013-5",
+          "question_id": "q-013-5",
+          "pdf_page": 261,
+          "printed_page": "247"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 14,
+      "title": "Ventricular septal defect",
+      "hook": "A ventricular communication can become quieter as its consequences become more serious. What determines the flow?",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L014-1",
+          "objective_id": "O014-1",
+          "objective": "Classify a ventricular communication from its pressure relation",
+          "title": "Restriction and pressure",
+          "level": "Essentials",
+          "text": "Restrictive defect. Restriction at the defect limits pressure transmission and shunt flow, leaving a systolic pressure difference.",
+          "card_id": "fc-014-1",
+          "question_id": "q-014-1",
+          "pdf_page": 267,
+          "printed_page": "253"
+        },
+        {
+          "id": "L014-2",
+          "objective_id": "O014-2",
+          "objective": "Explain delayed symptoms after an initially reassuring neonatal examination",
+          "title": "Infant presentation",
+          "level": "Clinical Application",
+          "text": "Falling pulmonary vascular resistance increases left-to-right flow. The neonatal fall in pulmonary resistance permits a larger shunt and pulmonary venous return, imposing left ventricular volume load.",
+          "card_id": "fc-014-2",
+          "question_id": "q-014-2",
+          "pdf_page": 270,
+          "printed_page": "256"
+        },
+        {
+          "id": "L014-3",
+          "objective_id": "O014-3",
+          "objective": "Interpret cyanosis in an unrepaired large ventricular communication",
+          "title": "Shunt reversal",
+          "level": "Clinical Application",
+          "text": "Right-to-left shunting from pulmonary vascular disease. With equal ventricular systolic pressures, relative vascular resistances govern flow; suprasystemic pulmonary resistance favors reversal.",
+          "card_id": "fc-014-3",
+          "question_id": "q-014-3",
+          "pdf_page": 268,
+          "printed_page": "254"
+        },
+        {
+          "id": "L014-4",
+          "objective_id": "O014-4",
+          "objective": "Distinguish a quieter murmur from proven improvement",
+          "title": "Changing murmur",
+          "level": "Clinical Application",
+          "text": "Reduced left-to-right flow can reflect worsening pulmonary vascular disease. As pulmonary resistance approaches systemic, the left-to-right murmur can shorten, soften and eventually disappear with reversal.",
+          "card_id": "fc-014-4",
+          "question_id": "q-014-4",
+          "pdf_page": 275,
+          "printed_page": "261"
+        },
+        {
+          "id": "L014-5",
+          "objective_id": "O014-5",
+          "objective": "Recognize a valve complication disproportionate to shunt size",
+          "title": "Associated aortic leakage",
+          "level": "Clinical Application",
+          "text": "Aortic cusp prolapse and regurgitation. Perimembranous and subarterial defects can be associated with aortic cusp prolapse; regurgitant volume can explain disproportionate left ventricular enlargement.",
+          "card_id": "fc-014-5",
+          "question_id": "q-014-5",
+          "pdf_page": 288,
+          "printed_page": "274"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 15,
+      "title": "Ventricular septal defect with pulmonary stenosis",
+      "hook": "Cyanosis, flow and murmur intensity may move in opposite directions when pulmonary outflow is obstructed.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L015-1",
+          "objective_id": "O015-1",
+          "objective": "Explain how outlet septal malalignment produces the tetralogy pattern",
+          "title": "Unifying anatomy",
+          "level": "Essentials",
+          "text": "Anterior and cephalad deviation of the infundibular septum. Outlet septal malalignment creates the ventricular defect, narrows right ventricular outflow and contributes to aortic override.",
+          "card_id": "fc-015-1",
+          "question_id": "q-015-1",
+          "pdf_page": 297,
+          "printed_page": "283"
+        },
+        {
+          "id": "L015-2",
+          "objective_id": "O015-2",
+          "objective": "Predict shunt direction from outflow and systemic resistance",
+          "title": "Resistance and cyanosis",
+          "level": "Clinical Application",
+          "text": "More right-to-left flow into the aorta and less pulmonary flow. Relative outflow and systemic resistances determine the balance; severe outflow obstruction diverts blood toward the aorta.",
+          "card_id": "fc-015-2",
+          "question_id": "q-015-2",
+          "pdf_page": 301,
+          "printed_page": "287"
+        },
+        {
+          "id": "L015-3",
+          "objective_id": "O015-3",
+          "objective": "Interpret softening during a hypercyanotic episode",
+          "title": "A murmur during deterioration",
+          "level": "Clinical Application",
+          "text": "A sharp decline in forward pulmonary blood flow. Less blood traverses the stenotic pulmonary outflow, so the murmur shortens and softens despite worsening hypoxemia.",
+          "card_id": "fc-015-3",
+          "question_id": "q-015-3",
+          "pdf_page": 309,
+          "printed_page": "295"
+        },
+        {
+          "id": "L015-4",
+          "objective_id": "O015-4",
+          "objective": "Explain relief of dyspnea with squatting",
+          "title": "Posture and physiology",
+          "level": "Deep Dive",
+          "text": "Increased systemic resistance and reduced return of desaturated leg blood. Squatting can redirect right ventricular flow toward the lungs and curtail desaturated lower-extremity venous return.",
+          "card_id": "fc-015-4",
+          "question_id": "q-015-4",
+          "pdf_page": 307,
+          "printed_page": "293"
+        },
+        {
+          "id": "L015-5",
+          "objective_id": "O015-5",
+          "objective": "Distinguish nonrestrictive from partially occluded ventricular communication",
+          "title": "Pressure ceiling and its exception",
+          "level": "Deep Dive",
+          "text": "The ventricle can decompress through the communication into the systemic outlet. The nonrestrictive defect imposes a systemic pressure ceiling; partial occlusion or true restriction can remove that protection.",
+          "card_id": "fc-015-5",
+          "question_id": "q-015-5",
+          "pdf_page": 302,
+          "printed_page": "288"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-015",
+        "intro": "Fictional teaching scenario: a six-month-old with a large malaligned ventricular communication and right ventricular outflow obstruction has an evolving episode.",
+        "stages": [
+          {
+            "information": "The infant has intermittent cyanosis and a systolic outflow murmur. Imaging confirms that the ventricular communication is nonrestrictive.",
+            "prompt": "Which comparison is central to predicting flow direction?",
+            "options": [
+              "Only the diameter of the atrial septum",
+              "Right ventricular outflow resistance relative to systemic resistance",
+              "Aortic override percentage alone",
+              "Body weight without hemodynamic information"
+            ],
+            "answer": 1,
+            "feedback": "Relative resistances govern how ventricular blood is divided between pulmonary and systemic outlets.",
+            "pdf_page": 301
+          },
+          {
+            "information": "After crying, breathing becomes rapid and deep, cyanosis increases and the outflow murmur becomes much softer.",
+            "prompt": "What does the softer murmur most likely indicate in this context?",
+            "options": [
+              "A normal change that excludes urgent deterioration",
+              "Reduced forward pulmonary flow during a hypoxic episode",
+              "Guaranteed spontaneous closure of the defect",
+              "Definite resolution of the obstruction"
+            ],
+            "answer": 1,
+            "feedback": "A falling pulmonary flow can silence the stenotic murmur during a spell. The clinical deterioration requires urgent assessment rather than reassurance from the softer sound.",
+            "pdf_page": 309
+          },
+          {
+            "information": "During later teaching, the family describes an older affected sibling who squatted after exertion.",
+            "prompt": "Which mechanism helps explain that behavior?",
+            "options": [
+              "Lowering systemic resistance to favor aortic flow",
+              "Eliminating all pulmonary vascular resistance",
+              "Permanent anatomic repair from posture",
+              "Raising systemic resistance and curtailing desaturated leg venous return"
+            ],
+            "answer": 3,
+            "feedback": "Squatting alters resistance and venous return in ways that improve systemic oxygen content and relieve hyperventilatory dyspnea. This explains a sign; it is not a complete acute-treatment protocol.",
+            "pdf_page": 307
+          }
+        ],
+        "debrief": "Interpret a murmur together with oxygenation and flow. A quieter sound during deterioration can mean less pulmonary blood flow, and postural relief can provide a physiologic clue."
+      }
+    },
+    {
+      "num": 16,
+      "title": "Double outlet ventricle",
+      "hook": "The label double outlet does not determine one physiology. The ventricular communication and outflow routes do.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L016-1",
+          "objective_id": "O016-1",
+          "objective": "Recognize the source definition of double outlet right ventricle",
+          "title": "Pragmatic anatomic definition",
+          "level": "Essentials",
+          "text": "Double outlet right ventricle. The chapter uses ventricular support of most of both arterial valves as its pragmatic definition while acknowledging classification debates.",
+          "card_id": "fc-016-1",
+          "question_id": "q-016-1",
+          "pdf_page": 326,
+          "printed_page": "312"
+        },
+        {
+          "id": "L016-2",
+          "objective_id": "O016-2",
+          "objective": "Predict the destination of left ventricular output",
+          "title": "Commitment and streaming",
+          "level": "Clinical Application",
+          "text": "Left ventricular blood preferentially enters the pulmonary trunk. A subpulmonary communication directs left ventricular output toward the pulmonary outlet, creating a transposition-like physiology.",
+          "card_id": "fc-016-2",
+          "question_id": "q-016-2",
+          "pdf_page": 331,
+          "printed_page": "317"
+        },
+        {
+          "id": "L016-3",
+          "objective_id": "O016-3",
+          "objective": "Recognize the low-resistance high-flow presentation",
+          "title": "Subaortic physiology",
+          "level": "Clinical Application",
+          "text": "A large ventricular left-to-right shunt with increased pulmonary flow. Low pulmonary resistance permits increased pulmonary flow and left ventricular volume overload, resembling a large isolated ventricular defect.",
+          "card_id": "fc-016-3",
+          "question_id": "q-016-3",
+          "pdf_page": 327,
+          "printed_page": "313"
+        },
+        {
+          "id": "L016-4",
+          "objective_id": "O016-4",
+          "objective": "Predict the effect of pulmonary stenosis in subaortic anatomy",
+          "title": "Adding outflow obstruction",
+          "level": "Clinical Application",
+          "text": "Less pulmonary flow and more blood directed to the aorta. Obstruction diverts both ventricular streams away from the pulmonary outlet and toward the aorta, producing a tetralogy-like pattern.",
+          "card_id": "fc-016-4",
+          "question_id": "q-016-4",
+          "pdf_page": 327,
+          "printed_page": "313"
+        },
+        {
+          "id": "L016-5",
+          "objective_id": "O016-5",
+          "objective": "Explain why restriction of the communication can obstruct the left ventricle",
+          "title": "The ventricular exit",
+          "level": "Deep Dive",
+          "text": "Obstruction to left ventricular egress and subaortic flow. The communication is an essential left ventricular exit; restriction can act as subaortic stenosis rather than a uniformly favorable reduction in shunt.",
+          "card_id": "fc-016-5",
+          "question_id": "q-016-5",
+          "pdf_page": 326,
+          "printed_page": "312"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 17,
+      "title": "Patent ductus arteriosus and aortopulmonary window",
+      "hook": "A continuous murmur suggests persistent flow, but its absence does not prove that a ductal communication has closed.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L017-1",
+          "objective_id": "O017-1",
+          "objective": "Locate the usual ductal connection",
+          "title": "Ductal anatomy",
+          "level": "Essentials",
+          "text": "Patent ductus arteriosus. The normal ductal insertion is near the left pulmonary artery, with its aortic end distal to the left subclavian artery.",
+          "card_id": "fc-017-1",
+          "question_id": "q-017-1",
+          "pdf_page": 346,
+          "printed_page": "332"
+        },
+        {
+          "id": "L017-2",
+          "objective_id": "O017-2",
+          "objective": "Predict which chamber receives the principal volume burden",
+          "title": "Volume loading",
+          "level": "Clinical Application",
+          "text": "Increased pulmonary venous return imposes left ventricular volume load. Pulmonary recirculation returns to the left atrium and ventricle, increasing left-heart volume load.",
+          "card_id": "fc-017-2",
+          "question_id": "q-017-2",
+          "pdf_page": 351,
+          "printed_page": "337"
+        },
+        {
+          "id": "L017-3",
+          "objective_id": "O017-3",
+          "objective": "Identify the classic temporal murmur pattern",
+          "title": "Continuous flow and sound",
+          "level": "Clinical Application",
+          "text": "Classic continuous ductal murmur. The classic ductal sound envelops the second heart sound with continuous systolic-to-diastolic flow.",
+          "card_id": "fc-017-3",
+          "question_id": "q-017-3",
+          "pdf_page": 358,
+          "printed_page": "344"
+        },
+        {
+          "id": "L017-4",
+          "objective_id": "O017-4",
+          "objective": "Localize a reversed great-artery shunt from limb findings",
+          "title": "Differential cyanosis",
+          "level": "Clinical Application",
+          "text": "Pulmonary arterial blood entering the descending aorta through a ductus distal to the right-arm supply. The ductal entry usually delivers desaturated blood to the lower body after the proximal arch vessels have branched.",
+          "card_id": "fc-017-4",
+          "question_id": "q-017-4",
+          "pdf_page": 355,
+          "printed_page": "341"
+        },
+        {
+          "id": "L017-5",
+          "objective_id": "O017-5",
+          "objective": "Distinguish the cyanotic distribution of a proximal arterial connection",
+          "title": "Window versus ductus",
+          "level": "Deep Dive",
+          "text": "Desaturated blood enters proximal to systemic arch distribution. A window delivers blood into the ascending aorta, unlike the usual distal ductal insertion.",
+          "card_id": "fc-017-5",
+          "question_id": "q-017-5",
+          "pdf_page": 367,
+          "printed_page": "353"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-017",
+        "intro": "Fictional teaching scenario: a young adult is evaluated for an arterial-level communication. Each stage adds one set of findings.",
+        "stages": [
+          {
+            "information": "A continuous murmur passes through the second sound. Pulses are brisk and the left ventricular impulse is hyperdynamic.",
+            "prompt": "Which physiologic pattern is most consistent?",
+            "options": [
+              "Aortic runoff with increased pulmonary flow and left-heart volume load",
+              "A normal finding that excludes a congenital shunt",
+              "A purely right-to-left atrial shunt without recirculation",
+              "An isolated fixed pulmonary stenosis with no arterial communication"
+            ],
+            "answer": 0,
+            "feedback": "Continuous arterial runoff can lower aortic diastolic pressure while pulmonary recirculation increases left ventricular volume. Anatomy still requires imaging.",
+            "pdf_page": 358
+          },
+          {
+            "information": "Imaging demonstrates a ductal connection from the descending aorta near the left subclavian origin to the pulmonary artery.",
+            "prompt": "Which finding would be expected if severe pulmonary vascular disease later reversed this shunt?",
+            "options": [
+              "Only the right hand must become blue",
+              "A newly obligatory ventricular communication",
+              "Lower-body cyanosis with relative sparing of the right hand",
+              "No possible systemic desaturation"
+            ],
+            "answer": 2,
+            "feedback": "The ductal insertion usually places desaturated blood into the descending aorta downstream of the right-arm supply.",
+            "pdf_page": 355
+          },
+          {
+            "information": "A different patient has a proximal aortopulmonary window, suprasystemic pulmonary resistance and generalized rather than differential cyanosis.",
+            "prompt": "What explains the distribution in this comparison?",
+            "options": [
+              "Only a change in skin temperature",
+              "The absence of any reversed flow",
+              "Entry of desaturated blood into the ascending aorta before arch distribution",
+              "A mandatory spontaneous closure of the window"
+            ],
+            "answer": 2,
+            "feedback": "The site of systemic entry determines the cyanotic distribution. A window and ductus can share hemodynamic consequences while differing anatomically.",
+            "pdf_page": 367
+          }
+        ],
+        "debrief": "Combine murmur timing, pulse character, chamber loading and the distribution of cyanosis. Great-artery communications can resemble each other physiologically, but their systemic entry sites matter."
+      }
+    },
+    {
+      "num": 18,
+      "title": "Anomalous origin of the left coronary artery from the pulmonary trunk",
+      "hook": "An infant who was well at birth develops distress with feeding and left ventricular dysfunction. Could coronary perfusion have changed after birth?",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L018-1",
+          "objective_id": "O018-1",
+          "objective": "Explain why a pulmonary-origin coronary artery becomes vulnerable after birth",
+          "title": "Postnatal perfusion transition",
+          "level": "Clinical Application",
+          "text": "Falling pulmonary pressure reduces antegrade perfusion through the anomalous artery. Initially high pulmonary pressure can support antegrade flow. Its postnatal fall reduces that supply unless intercoronary perfusion becomes adequate.",
+          "card_id": "fc-018-1",
+          "question_id": "q-018-1",
+          "pdf_page": 373,
+          "printed_page": "359"
+        },
+        {
+          "id": "L018-2",
+          "objective_id": "O018-2",
+          "objective": "Explain the opposing effects of intercoronary anastomoses",
+          "title": "Collateral benefit and steal",
+          "level": "Deep Dive",
+          "text": "Collaterals restore some perfusion but also permit a low-resistance coronary steal. The collateral route can nourish myocardium while also bypassing capillaries toward a low-pressure pulmonary outlet.",
+          "card_id": "fc-018-2",
+          "question_id": "q-018-2",
+          "pdf_page": 374,
+          "printed_page": "360"
+        },
+        {
+          "id": "L018-3",
+          "objective_id": "O018-3",
+          "objective": "Connect mitral regurgitation with myocardial ischemia",
+          "title": "Ischemic valve dysfunction",
+          "level": "Clinical Application",
+          "text": "Ischemic papillary muscle dysfunction. Papillary muscle ischemia can impair mitral competence and add regurgitant volume to an already compromised ventricle.",
+          "card_id": "fc-018-3",
+          "question_id": "q-018-3",
+          "pdf_page": 377,
+          "printed_page": "363"
+        },
+        {
+          "id": "L018-4",
+          "objective_id": "O018-4",
+          "objective": "Recognize the characteristic lateral q-wave pattern",
+          "title": "Electrocardiographic clue",
+          "level": "Clinical Application",
+          "text": "Anomalous left coronary artery from the pulmonary trunk. Deep narrow lateral q waves, often with left ventricular hypertrophy and a leftward axis, are a characteristic clue; early infant tracings can be less conspicuous.",
+          "card_id": "fc-018-4",
+          "question_id": "q-018-4",
+          "pdf_page": 379,
+          "printed_page": "365"
+        },
+        {
+          "id": "L018-5",
+          "objective_id": "O018-5",
+          "objective": "Distinguish anomalous origin from a coronary fistula",
+          "title": "Imaging the coronary pathway",
+          "level": "Clinical Application",
+          "text": "Define whether the left coronary arises from the pulmonary trunk or from its normal aortic sinus. An anomalous left coronary lacks its normal aortic origin; a coronary arterial fistula can have similar pulmonary flow while both coronary arteries retain aortic origins.",
+          "card_id": "fc-018-5",
+          "question_id": "q-018-5",
+          "pdf_page": 381,
+          "printed_page": "367"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-018",
+        "intro": "Fictional teaching scenario: a three-month-old who appeared well after birth now becomes distressed during feeds. The diagnostic label is withheld until supporting evidence appears.",
+        "stages": [
+          {
+            "information": "Feeding provokes pallor, sweating and rapid breathing. Imaging shows a dilated poorly functioning left ventricle.",
+            "prompt": "Which mechanism should remain under consideration alongside other causes of infant heart failure?",
+            "options": [
+              "Myocardial ischemia from abnormal coronary perfusion",
+              "A benign murmur as a sufficient explanation for ventricular failure",
+              "Normal feeding effort without cardiac implications",
+              "An isolated atrial shunt proven solely by age"
+            ],
+            "answer": 0,
+            "feedback": "Coronary ischemia can present as feeding-related distress and infant ventricular dysfunction. These findings prompt assessment but do not yet establish one diagnosis.",
+            "pdf_page": 376
+          },
+          {
+            "information": "The ECG shows deep narrow q waves in I and aVL. Echocardiography shows an enlarged aortic right coronary and a left coronary connected to the pulmonary trunk.",
+            "prompt": "Which diagnosis best integrates these findings?",
+            "options": [
+              "Anomalous left coronary origin from the pulmonary trunk",
+              "Isolated congenital mitral stenosis",
+              "An innocent functional murmur",
+              "An uncomplicated arterial duct with normal coronary anatomy"
+            ],
+            "answer": 0,
+            "feedback": "The abnormal coronary origin establishes the anatomy, and the lateral q waves support the myocardial ischemic consequences.",
+            "pdf_page": 381
+          },
+          {
+            "information": "Doppler demonstrates collateral flow from the right coronary into the left coronary, followed by runoff into the pulmonary trunk.",
+            "prompt": "What explains persistent ischemia despite visible collaterals?",
+            "options": [
+              "The collateral route can supply myocardium but also create a low-resistance steal",
+              "Pulmonary pressure necessarily remains fetal throughout infancy",
+              "Collateral flow cannot reach any myocardium",
+              "The demonstrated runoff proves a normal coronary circulation"
+            ],
+            "answer": 0,
+            "feedback": "Intercoronary channels have opposing effects: some perfusion is restored, but runoff can bypass the myocardial capillary bed.",
+            "pdf_page": 374
+          }
+        ],
+        "debrief": "Age-related changes in pressure can unmask coronary disease. Integrate symptoms, myocardial function, ECG and directly demonstrated coronary connections; collateral visibility alone does not establish adequate perfusion."
+      }
+    },
+    {
+      "num": 19,
+      "title": "Congenital coronary arterial fistula",
+      "hook": "A continuous murmur may originate from a coronary branch, and its drainage site determines much of the physiology.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L019-1",
+          "objective_id": "O019-1",
+          "objective": "Identify coronary fistula anatomy without confusing it with anomalous origin",
+          "title": "Fistulous anatomy",
+          "level": "Essentials",
+          "text": "Congenital coronary arterial fistula. A fistulous branch provides an abnormal drainage route despite usually appropriate coronary origins.",
+          "card_id": "fc-019-1",
+          "question_id": "q-019-1",
+          "pdf_page": 385,
+          "printed_page": "371"
+        },
+        {
+          "id": "L019-2",
+          "objective_id": "O019-2",
+          "objective": "Predict the volume burden of a right atrial coronary fistula",
+          "title": "Drainage and chamber load",
+          "level": "Clinical Application",
+          "text": "Left-to-right recirculation with right and left ventricular volume loading. Blood enters the right atrium and traverses the right heart, lungs and left heart before returning to the aorta.",
+          "card_id": "fc-019-2",
+          "question_id": "q-019-2",
+          "pdf_page": 386,
+          "printed_page": "372"
+        },
+        {
+          "id": "L019-3",
+          "objective_id": "O019-3",
+          "objective": "Explain coronary steal as a distinct consequence",
+          "title": "Ischemia despite a small shunt",
+          "level": "Clinical Application",
+          "text": "Low-resistance runoff can divert coronary blood away from myocardium. Myocardial steal depends on the low-resistance alternative pathway and the coronary territory involved, not only total pulmonary shunt size.",
+          "card_id": "fc-019-3",
+          "question_id": "q-019-3",
+          "pdf_page": 386,
+          "printed_page": "372"
+        },
+        {
+          "id": "L019-4",
+          "objective_id": "O019-4",
+          "objective": "Use the receiving site rather than the coronary origin to interpret sound location",
+          "title": "Murmur localization",
+          "level": "Clinical Application",
+          "text": "The chamber or vessel receiving the fistula. The drainage site determines the intracardiac sound source and corresponding thoracic location.",
+          "card_id": "fc-019-4",
+          "question_id": "q-019-4",
+          "pdf_page": 389,
+          "printed_page": "375"
+        },
+        {
+          "id": "L019-5",
+          "objective_id": "O019-5",
+          "objective": "Recognize a diastolic coronary fistula presentation",
+          "title": "Left ventricular drainage",
+          "level": "Clinical Application",
+          "text": "Aortic-to-ventricular pressure difference favors diastolic fistulous flow. A coronary-to-left ventricular communication can produce an early diastolic murmur; systolic flow depends on the stoma and compression pattern.",
+          "card_id": "fc-019-5",
+          "question_id": "q-019-5",
+          "pdf_page": 390,
+          "printed_page": "376"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 20,
+      "title": "Congenital aneurysms of the sinuses of valsalva",
+      "hook": "A new continuous murmur after abrupt chest discomfort can be the clue to an acquired communication from a congenital substrate.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L020-1",
+          "objective_id": "O020-1",
+          "objective": "Relate the aortic sinus to the receiving chamber",
+          "title": "Anatomy predicts rupture site",
+          "level": "Essentials",
+          "text": "Right atrium. The noncoronary sinus is anatomically related to the right atrium; right coronary sinus aneurysms commonly enter the right ventricle or sometimes the right atrium.",
+          "card_id": "fc-020-1",
+          "question_id": "q-020-1",
+          "pdf_page": 396,
+          "printed_page": "382"
+        },
+        {
+          "id": "L020-2",
+          "objective_id": "O020-2",
+          "objective": "Explain rapid heart failure after a large rupture",
+          "title": "Acute volume burden",
+          "level": "Clinical Application",
+          "text": "The heart has little time to adapt to the acute shunt volume burden. Size, rapidity and receiving chamber determine the burden; sudden substantial recirculation can overwhelm adaptation.",
+          "card_id": "fc-020-2",
+          "question_id": "q-020-2",
+          "pdf_page": 396,
+          "printed_page": "382"
+        },
+        {
+          "id": "L020-3",
+          "objective_id": "O020-3",
+          "objective": "Recognize a rupture in a patient with a known ventricular defect",
+          "title": "New continuous sound",
+          "level": "Clinical Application",
+          "text": "Rupture of a coexisting sinus of Valsalva aneurysm. The source highlights this change as a clue to an aortic sinus aneurysm rupturing into the right side of the heart.",
+          "card_id": "fc-020-3",
+          "question_id": "q-020-3",
+          "pdf_page": 399,
+          "printed_page": "385"
+        },
+        {
+          "id": "L020-4",
+          "objective_id": "O020-4",
+          "objective": "Distinguish a ruptured sinus murmur from the classic ductal pattern",
+          "title": "Continuous murmur configuration",
+          "level": "Clinical Application",
+          "text": "A ruptured aortic sinus communication is plausible. Sinus rupture murmurs can be continuous without the characteristic second-sound peak of the classic ductal murmur.",
+          "card_id": "fc-020-4",
+          "question_id": "q-020-4",
+          "pdf_page": 402,
+          "printed_page": "388"
+        },
+        {
+          "id": "L020-5",
+          "objective_id": "O020-5",
+          "objective": "Connect aortic sinus dissection with heart block",
+          "title": "Septal extension and conduction",
+          "level": "Deep Dive",
+          "text": "Injury to the AV node or His bundle near the septal base. Ruptured or unruptured aneurysms penetrating the septal base can disrupt nearby conduction tissue.",
+          "card_id": "fc-020-5",
+          "question_id": "q-020-5",
+          "pdf_page": 403,
+          "printed_page": "389"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 21,
+      "title": "Pulmonary atresia with intact ventricular septum",
+      "hook": "A cyanotic newborn with no forward pulmonary outlet depends on alternative pathways whose adequacy cannot be inferred from one chamber size.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L021-1",
+          "objective_id": "O021-1",
+          "objective": "Identify the systemic venous exit when the septum is intact",
+          "title": "Obligatory atrial pathway",
+          "level": "Essentials",
+          "text": "Right-to-left flow through an interatrial communication. The interatrial communication is the right atrium’s exit to the left heart; its restriction can add to the circulatory problem.",
+          "card_id": "fc-021-1",
+          "question_id": "q-021-1",
+          "pdf_page": 410,
+          "printed_page": "396"
+        },
+        {
+          "id": "L021-2",
+          "objective_id": "O021-2",
+          "objective": "Explain the danger of ductal involution",
+          "title": "Pulmonary blood supply",
+          "level": "Clinical Application",
+          "text": "Effective pulmonary blood flow can cease. The ductus supplies the pulmonary circuit in the usual anatomy; systemic-to-pulmonary collaterals are generally inadequate.",
+          "card_id": "fc-021-2",
+          "question_id": "q-021-2",
+          "pdf_page": 410,
+          "printed_page": "396"
+        },
+        {
+          "id": "L021-3",
+          "objective_id": "O021-3",
+          "objective": "Distinguish the two major ventricular patterns",
+          "title": "Variable right-heart anatomy",
+          "level": "Clinical Application",
+          "text": "Both patterns occur, and tricuspid competence helps explain their different appearances. The chapter describes a common small-ventricle pattern and a less common dilated pattern associated with an incompetent dysplastic or Ebstein-like valve.",
+          "card_id": "fc-021-3",
+          "question_id": "q-021-3",
+          "pdf_page": 407,
+          "printed_page": "393"
+        },
+        {
+          "id": "L021-4",
+          "objective_id": "O021-4",
+          "objective": "Explain the significance of coronary obstruction and ventricular connections",
+          "title": "Pressure-dependent coronary perfusion",
+          "level": "Deep Dive",
+          "text": "High right ventricular systolic pressure drives retrograde coronary flow. When aortic access is obstructed, myocardial perfusion can depend on suprasystemic right ventricular pressure supplying the coronary bed.",
+          "card_id": "fc-021-4",
+          "question_id": "q-021-4",
+          "pdf_page": 410,
+          "printed_page": "396"
+        },
+        {
+          "id": "L021-5",
+          "objective_id": "O021-5",
+          "objective": "Interpret absent right ventricular voltage despite a thick wall",
+          "title": "ECG and the small ventricle",
+          "level": "Clinical Application",
+          "text": "The small cavity can generate little right ventricular electrical amplitude despite its thick wall. The source describes absent prominent RV hypertrophy voltage in the small-ventricle pattern; chamber geometry and cavity size matter.",
+          "card_id": "fc-021-5",
+          "question_id": "q-021-5",
+          "pdf_page": 414,
+          "printed_page": "400"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-021",
+        "intro": "Fictional teaching scenario: a newborn develops severe cyanosis. Successive investigations define the routes sustaining pulmonary and coronary blood flow.",
+        "stages": [
+          {
+            "information": "Echocardiography shows an imperforate pulmonary valve and an intact ventricular septum. Right atrial blood crosses to the left atrium.",
+            "prompt": "Which communication is serving as the right atrium’s essential exit?",
+            "options": [
+              "A ventricular defect not present on imaging",
+              "Forward flow through the sealed pulmonary valve",
+              "The coronary sinus as the required pulmonary outlet",
+              "The interatrial communication"
+            ],
+            "answer": 3,
+            "feedback": "With no effective forward pulmonary route and no ventricular communication, the atrial pathway permits systemic venous blood to reach the left heart.",
+            "pdf_page": 410
+          },
+          {
+            "information": "Pulmonary flow is supplied through a ductus from the aorta. Its caliber is diminishing while cyanosis worsens.",
+            "prompt": "Which physiologic concern is most immediate?",
+            "options": [
+              "Loss of the principal pulmonary blood supply as the ductus closes",
+              "Assured replacement by adequate systemic collaterals",
+              "New normal forward flow generated by a closed valve",
+              "The ductus is irrelevant once the atrial pathway is open"
+            ],
+            "answer": 0,
+            "feedback": "The atrial communication allows venous egress but does not supply the lungs. In the usual circulation, ductal closure can end effective pulmonary flow.",
+            "pdf_page": 410
+          },
+          {
+            "information": "Further coronary imaging shows proximal coronary obstruction and communication with the high-pressure right ventricle.",
+            "prompt": "Why must this anatomy be understood before assuming ventricular pressure reduction is beneficial?",
+            "options": [
+              "Coronary perfusion can depend on high right ventricular pressure driving retrograde flow",
+              "Coronary arteries cannot be affected by right ventricular pressure",
+              "All coronary abnormalities have identical harmless physiology",
+              "Every ventricular-coronary connection guarantees normal aortic perfusion"
+            ],
+            "answer": 0,
+            "feedback": "Obstructed aortic coronary access can make perfusion pressure-dependent through ventricular connections. This is a physiologic caution requiring specialist anatomic assessment, not a procedural algorithm.",
+            "pdf_page": 410
+          }
+        ],
+        "debrief": "Atrial egress, ductal pulmonary supply and coronary perfusion solve different parts of the circulation. Demonstrating one pathway does not establish the adequacy or safety of the others."
+      }
+    },
+    {
+      "num": 22,
+      "title": "Tricuspid atresia",
+      "hook": "The same ventricular communication can protect pulmonary flow in one arrangement and obstruct systemic flow in another. Trace the arterial connections first.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L022-1",
+          "objective_id": "O022-1",
+          "objective": "Trace systemic venous return when the right AV connection is absent",
+          "title": "Obligatory atrial escape",
+          "level": "Essentials",
+          "text": "Right-to-left flow across an interatrial communication. Systemic venous blood must cross from right atrium to left atrium and pass through the patent left AV valve.",
+          "card_id": "fc-022-1",
+          "question_id": "q-022-1",
+          "pdf_page": 418,
+          "printed_page": "404"
+        },
+        {
+          "id": "L022-2",
+          "objective_id": "O022-2",
+          "objective": "Predict the consequence of a shrinking VSD with normally related arteries",
+          "title": "Changing ventricular communication",
+          "level": "Clinical Application",
+          "text": "Increasing subpulmonary obstruction limits lung flow. With normally related arteries, the ventricular communication provides access to the pulmonary circuit; narrowing can produce acquired pulmonary atresia.",
+          "card_id": "fc-022-2",
+          "question_id": "q-022-2",
+          "pdf_page": 418,
+          "printed_page": "404"
+        },
+        {
+          "id": "L022-3",
+          "objective_id": "O022-3",
+          "objective": "Explain subaortic restriction when the great arteries are transposed",
+          "title": "Arterial relationship",
+          "level": "Clinical Application",
+          "text": "Subaortic obstruction to systemic output. In this arrangement left ventricular blood must traverse the defect to reach the transposed aorta; restriction creates subaortic stenosis.",
+          "card_id": "fc-022-3",
+          "question_id": "q-022-3",
+          "pdf_page": 418,
+          "printed_page": "404"
+        },
+        {
+          "id": "L022-4",
+          "objective_id": "O022-4",
+          "objective": "Interpret a characteristic ECG pattern without treating it as definitive anatomy",
+          "title": "Recognition pattern",
+          "level": "Clinical Application",
+          "text": "Left-axis deviation with adult-like precordial progression and right atrial P waves. The source summary describes left-axis deviation, counterclockwise depolarization, adult precordial progression and right atrial P waves in this common arrangement.",
+          "card_id": "fc-022-4",
+          "question_id": "q-022-4",
+          "pdf_page": 430,
+          "printed_page": "416"
+        },
+        {
+          "id": "L022-5",
+          "objective_id": "O022-5",
+          "objective": "Select imaging that assesses the valve, communications and great arteries",
+          "title": "Defining the anatomy",
+          "level": "Clinical Application",
+          "text": "Echocardiography with color flow and Doppler. Echo identifies the echodense absent connection, chamber sizes, great arterial relationships and shunt or obstruction physiology.",
+          "card_id": "fc-022-5",
+          "question_id": "q-022-5",
+          "pdf_page": 429,
+          "printed_page": "415"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-022",
+        "intro": "Fictional teaching scenario: an infant with an absent right atrioventricular connection has changing cyanosis.",
+        "stages": [
+          {
+            "information": "Echocardiography shows an absent right AV connection, a small right ventricle and normally related great arteries.",
+            "prompt": "Which communication is obligatory for systemic venous return to reach the main ventricle?",
+            "options": [
+              "A closed ventricular defect as the right atrial outlet",
+              "Interatrial communication with right-to-left flow",
+              "An isolated aortopulmonary collateral as the venous exit",
+              "An intact atrial septum"
+            ],
+            "answer": 1,
+            "feedback": "The right atrium cannot empty directly into a ventricle and requires an interatrial exit.",
+            "pdf_page": 418
+          },
+          {
+            "information": "The atrial communication is adequate. Pulmonary flow passes through a restrictive ventricular communication, and cyanosis worsens as this defect narrows.",
+            "prompt": "What does the narrowing represent in this arterial arrangement?",
+            "options": [
+              "A new direct right AV connection",
+              "Improved pulmonary venous drainage",
+              "Relief of all outflow obstruction",
+              "Increasing subpulmonary obstruction"
+            ],
+            "answer": 3,
+            "feedback": "With normally related arteries, the ventricular communication provides access to the pulmonary artery. Narrowing reduces lung flow.",
+            "pdf_page": 418
+          },
+          {
+            "information": "The team confirms progressively limited pulmonary flow rather than a newly restrictive atrial communication.",
+            "prompt": "Which explanation best accounts for deterioration despite a smaller defect?",
+            "options": [
+              "Every smaller VSD is beneficial",
+              "Reduced cyanosis is guaranteed by any defect closure",
+              "Closure can remove an essential pulmonary-flow route",
+              "Arterial origins no longer matter after birth"
+            ],
+            "answer": 2,
+            "feedback": "The physiologic role of a defect depends on the connections. Closure can be harmful when that defect is the required access to an outlet.",
+            "pdf_page": 418
+          }
+        ],
+        "debrief": "Trace venous entry and arterial exit separately. A VSD is not intrinsically beneficial or harmful: its effect depends on which circulation it supplies. The case teaches anatomy-based recognition rather than a procedural treatment protocol."
+      }
+    },
+    {
+      "num": 23,
+      "title": "The univentricular heart",
+      "hook": "A single pumping chamber does not imply one uniform physiology: inlet valves, outflow restriction and streaming determine the presentation.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L023-1",
+          "objective_id": "O023-1",
+          "objective": "Identify the ventricular connection used in this chapter",
+          "title": "Morphologic definition",
+          "level": "Essentials",
+          "text": "A morphologically defined single ventricular connection. The chapter defines the anatomy by atrial and AV connections to one main ventricular chamber, distinguishing it from other functionally single-ventricle categories.",
+          "card_id": "fc-023-1",
+          "question_id": "q-023-1",
+          "pdf_page": 433,
+          "printed_page": "419"
+        },
+        {
+          "id": "L023-2",
+          "objective_id": "O023-2",
+          "objective": "Predict contrasting cyanotic and overcirculatory presentations",
+          "title": "Flow balance",
+          "level": "Clinical Application",
+          "text": "Excess pulmonary flow with ventricular volume overload. Excess pulmonary flow produces heart failure and poor growth despite relatively mild cyanosis.",
+          "card_id": "fc-023-2",
+          "question_id": "q-023-2",
+          "pdf_page": 440,
+          "printed_page": "426"
+        },
+        {
+          "id": "L023-3",
+          "objective_id": "O023-3",
+          "objective": "Explain why single-chamber blood is not necessarily completely mixed",
+          "title": "Streaming",
+          "level": "Deep Dive",
+          "text": "Preferential streaming can direct oxygenated blood toward the aorta. The source describes partial stream separation influenced by outlet arrangement and pulmonary resistance.",
+          "card_id": "fc-023-3",
+          "question_id": "q-023-3",
+          "pdf_page": 440,
+          "printed_page": "426"
+        },
+        {
+          "id": "L023-4",
+          "objective_id": "O023-4",
+          "objective": "Identify the effect of a restrictive systemic outlet foramen",
+          "title": "Outflow restriction",
+          "level": "Clinical Application",
+          "text": "Subaortic obstruction with diversion toward the pulmonary circuit and greater volume burden. Restriction creates subaortic stenosis and may augment already excessive pulmonary flow and ventricular volume overload.",
+          "card_id": "fc-023-4",
+          "question_id": "q-023-4",
+          "pdf_page": 441,
+          "printed_page": "427"
+        },
+        {
+          "id": "L023-5",
+          "objective_id": "O023-5",
+          "objective": "Interpret a softer pulmonary stenotic murmur in context",
+          "title": "Recognizing severity",
+          "level": "Clinical Application",
+          "text": "Less blood crosses the increasingly obstructed pulmonary outlet. As stenosis increases, more flow is diverted to the systemic outlet and less traverses the pulmonary obstruction, reducing its murmur.",
+          "card_id": "fc-023-5",
+          "question_id": "q-023-5",
+          "pdf_page": 441,
+          "printed_page": "427"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 24,
+      "title": "Complete transposition of the great arteries",
+      "hook": "Parallel circulations require effective exchange; more flow through the lungs cannot help systemic oxygenation if mixing remains restricted.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L024-1",
+          "objective_id": "O024-1",
+          "objective": "Distinguish complete from congenitally corrected transposition",
+          "title": "Connection and circulation",
+          "level": "Essentials",
+          "text": "AV concordance with ventriculoarterial discordance and parallel circuits. Complete transposition combines AV concordance and ventriculoarterial discordance, creating parallel systemic and pulmonary recirculation.",
+          "card_id": "fc-024-1",
+          "question_id": "q-024-1",
+          "pdf_page": 451,
+          "printed_page": "437"
+        },
+        {
+          "id": "L024-2",
+          "objective_id": "O024-2",
+          "objective": "Explain why atrial communication is crucial",
+          "title": "Effective exchange",
+          "level": "Clinical Application",
+          "text": "Oxygenated blood recirculates through the pulmonary circuit instead of adequately entering systemic flow. An adequate communication permits exchange between the circuits; a restrictive atrial route can leave oxygenated blood trapped in pulmonary recirculation.",
+          "card_id": "fc-024-2",
+          "question_id": "q-024-2",
+          "pdf_page": 457,
+          "printed_page": "443"
+        },
+        {
+          "id": "L024-3",
+          "objective_id": "O024-3",
+          "objective": "Avoid excluding major disease from a normal neonatal ECG",
+          "title": "Normal early tests",
+          "level": "Clinical Application",
+          "text": "A normal early ECG does not exclude the abnormal arterial connections. The chapter explicitly describes a potentially normal ECG in the first days; structural assessment remains essential.",
+          "card_id": "fc-024-3",
+          "question_id": "q-024-3",
+          "pdf_page": 461,
+          "printed_page": "447"
+        },
+        {
+          "id": "L024-4",
+          "objective_id": "O024-4",
+          "objective": "Explain lower-body oxygenation exceeding upper-body oxygenation",
+          "title": "Differential cyanosis",
+          "level": "Deep Dive",
+          "text": "More oxygenated pulmonary arterial blood enters the descending aorta beyond the left subclavian artery. Oxygenated pulmonary arterial blood can pass through the ductus to the lower body, producing less cyanotic feet.",
+          "card_id": "fc-024-4",
+          "question_id": "q-024-4",
+          "pdf_page": 458,
+          "printed_page": "444"
+        },
+        {
+          "id": "L024-5",
+          "objective_id": "O024-5",
+          "objective": "Interpret the egg-shaped silhouette as a clue rather than a complete diagnosis",
+          "title": "Radiographic recognition",
+          "level": "Clinical Application",
+          "text": "A prominent right atrium and convex enlarged left ventricle shape the silhouette. The right atrium forms the blunter right border and the enlarged left ventricle the convex left border; arterial arrangement contributes to the narrow pedicle.",
+          "card_id": "fc-024-5",
+          "question_id": "q-024-5",
+          "pdf_page": 464,
+          "printed_page": "450"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-024",
+        "intro": "Fictional teaching scenario: a term newborn has marked persistent cyanosis.",
+        "stages": [
+          {
+            "information": "The early ECG is not strikingly abnormal despite persistent cyanosis.",
+            "prompt": "Which conclusion is justified?",
+            "options": [
+              "Major structural disease remains possible and needs imaging",
+              "A normal ECG proves adequate atrial mixing",
+              "Normal electrical appearance establishes normal arterial connections",
+              "No congenital cause can present this early"
+            ],
+            "answer": 0,
+            "feedback": "A neonatal ECG can initially be normal in complete transposition; it does not define arterial connections.",
+            "pdf_page": 461
+          },
+          {
+            "information": "Echo shows AV concordance, aorta from the right ventricle and pulmonary artery from the left ventricle.",
+            "prompt": "Which circulation should now guide the reasoning?",
+            "options": [
+              "One normal serial circuit",
+              "Two parallel recirculating circuits",
+              "Isolated mitral obstruction in an otherwise normal circuit",
+              "A common trunk without separate arteries"
+            ],
+            "answer": 1,
+            "feedback": "The ventricular-arterial discordance produces parallel circulation with dependence on communications for exchange.",
+            "pdf_page": 451
+          },
+          {
+            "information": "The interatrial communication is restrictive. Pulmonary flow rises, yet severe systemic hypoxemia persists.",
+            "prompt": "Which target directly addresses this physiologic limitation?",
+            "options": [
+              "Assess and improve effective intercirculatory exchange under urgent specialist care",
+              "Interpret the unchanged saturation as proof of normal mixing",
+              "Ignore atrial communication because the ductus is visible",
+              "Assume greater pulmonary flow alone guarantees correction"
+            ],
+            "answer": 0,
+            "feedback": "Adequate atrial exchange can permit oxygenated pulmonary venous blood to enter systemic circulation; simply increasing recirculation is insufficient.",
+            "pdf_page": 457
+          }
+        ],
+        "debrief": "Keep electrical findings, anatomic connections and effective exchange distinct. This staged recognition exercise explains why a severely cyanotic newborn can have a nondiagnostic early ECG and why mixing matters."
+      }
+    },
+    {
+      "num": 25,
+      "title": "Truncus arteriosus",
+      "hook": "A common trunk can produce little cyanosis while imposing a major pulmonary-flow and valve burden.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L025-1",
+          "objective_id": "O025-1",
+          "objective": "Recognize the defining anatomy of truncus arteriosus",
+          "title": "Single arterial outlet",
+          "level": "Essentials",
+          "text": "Truncus arteriosus. A single great artery and single semilunar valve supply the three circulations.",
+          "card_id": "fc-025-1",
+          "question_id": "q-025-1",
+          "pdf_page": 472,
+          "printed_page": "458"
+        },
+        {
+          "id": "L025-2",
+          "objective_id": "O025-2",
+          "objective": "Differentiate the major branching patterns",
+          "title": "Pulmonary branching",
+          "level": "Essentials",
+          "text": "Type 1 truncus. Type 1 has a short main pulmonary artery from the trunk; separate branch ostia constitute the other grouped pattern.",
+          "card_id": "fc-025-2",
+          "question_id": "q-025-2",
+          "pdf_page": 472,
+          "printed_page": "458"
+        },
+        {
+          "id": "L025-3",
+          "objective_id": "O025-3",
+          "objective": "Interpret diminishing cyanosis with worsening heart failure",
+          "title": "Cyanosis and congestion",
+          "level": "Clinical Application",
+          "text": "Falling pulmonary resistance increases lung flow and ventricular volume load. More pulmonary flow improves systemic oxygenation but imposes volume overload and may cause severe heart failure.",
+          "card_id": "fc-025-3",
+          "question_id": "q-025-3",
+          "pdf_page": 475,
+          "printed_page": "461"
+        },
+        {
+          "id": "L025-4",
+          "objective_id": "O025-4",
+          "objective": "Explain why regurgitation can burden both ventricles",
+          "title": "Truncal valve",
+          "level": "Clinical Application",
+          "text": "Regurgitant flow is received by both ventricles and adds to their burden. The biventricular truncus permits regurgitant volume to load both ventricles, adding to existing hemodynamic stress.",
+          "card_id": "fc-025-4",
+          "question_id": "q-025-4",
+          "pdf_page": 475,
+          "printed_page": "461"
+        },
+        {
+          "id": "L025-5",
+          "objective_id": "O025-5",
+          "objective": "Connect conotruncal anatomy with immune and calcium findings",
+          "title": "Associated phenotype",
+          "level": "Clinical Application",
+          "text": "DiGeorge syndrome. The chapter describes DiGeorge-related thymic and parathyroid deficiency with truncus arteriosus.",
+          "card_id": "fc-025-5",
+          "question_id": "q-025-5",
+          "pdf_page": 479,
+          "printed_page": "465"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 26,
+      "title": "Congenital anomalies of vena caval connection",
+      "hook": "An unusual vein is not necessarily a shunt. Follow its destination and any bridging channel before predicting cyanosis.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L026-1",
+          "objective_id": "O026-1",
+          "objective": "Interpret a persistent left SVC draining to the coronary sinus",
+          "title": "Benign venous route",
+          "level": "Essentials",
+          "text": "The route is usually physiologically harmless despite coronary sinus dilation. Blood still reaches the right atrium through the coronary sinus, so an isolated connection need not create a physiologic derangement.",
+          "card_id": "fc-026-1",
+          "question_id": "q-026-1",
+          "pdf_page": 486,
+          "printed_page": "472"
+        },
+        {
+          "id": "L026-2",
+          "objective_id": "O026-2",
+          "objective": "Explain the effect of a nonrestrictive innominate bridge",
+          "title": "Shunt direction",
+          "level": "Deep Dive",
+          "text": "Left atrium to left SVC, across the bridge and into the right SVC. A freely communicating bridge can permit left-to-right flow from left atrium through the venous pathway to right atrium, reversing the expected cyanotic pattern.",
+          "card_id": "fc-026-2",
+          "question_id": "q-026-2",
+          "pdf_page": 486,
+          "printed_page": "472"
+        },
+        {
+          "id": "L026-3",
+          "objective_id": "O026-3",
+          "objective": "Recognize azygos continuation as an anatomic variant",
+          "title": "Interrupted inferior cava",
+          "level": "Clinical Application",
+          "text": "Azygos continuation, which can be physiologically insignificant in isolation. The interrupted inferior caval flow continues through a dilated azygos system to the right SVC; isolated cases need not cause a shunt.",
+          "card_id": "fc-026-3",
+          "question_id": "q-026-3",
+          "pdf_page": 486,
+          "printed_page": "472"
+        },
+        {
+          "id": "L026-4",
+          "objective_id": "O026-4",
+          "objective": "Use coronary sinus dilation to direct venous imaging",
+          "title": "Coronary sinus clue",
+          "level": "Clinical Application",
+          "text": "Persistent left superior vena cava. An unexpectedly enlarged coronary sinus can be the clue to an unsuspected left SVC; color and contrast studies define the route.",
+          "card_id": "fc-026-4",
+          "question_id": "q-026-4",
+          "pdf_page": 490,
+          "printed_page": "476"
+        },
+        {
+          "id": "L026-5",
+          "objective_id": "O026-5",
+          "objective": "Recognize a caval-to-left atrial shunt pattern",
+          "title": "Cyanosis without RV overload",
+          "level": "Clinical Application",
+          "text": "Right-heart flow is normal or reduced because some systemic venous blood bypasses it. Anomalous caval return bypasses the right heart, unlike lesions with major RV pressure or volume overload.",
+          "card_id": "fc-026-5",
+          "question_id": "q-026-5",
+          "pdf_page": 490,
+          "printed_page": "476"
+        }
+      ],
+      "unavailable_levels": [],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    },
+    {
+      "num": 27,
+      "title": "Congenital pulmonary arteriovenous fistula",
+      "hook": "Cyanosis with a normal-sized heart and a peripheral lung vascular lesion suggests a shunt outside the cardiac chambers.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L027-1",
+          "objective_id": "O027-1",
+          "objective": "Explain hypoxemia with limited chamber loading",
+          "title": "Bypassing gas exchange",
+          "level": "Clinical Application",
+          "text": "Blood bypasses gas exchange while flow through uninvolved lung may fall reciprocally. The right-to-left intrapulmonary route bypasses the capillary bed; redistribution can limit the net increase in ventricular flow.",
+          "card_id": "fc-027-1",
+          "question_id": "q-027-1",
+          "pdf_page": 493,
+          "printed_page": "479"
+        },
+        {
+          "id": "L027-2",
+          "objective_id": "O027-2",
+          "objective": "Recognize hereditary hemorrhagic telangiectasia",
+          "title": "Associated vasculopathy",
+          "level": "Clinical Application",
+          "text": "Hereditary hemorrhagic telangiectasia. The source describes an autosomal dominant vasculopathy with mucocutaneous bleeding and visceral arteriovenous malformations.",
+          "card_id": "fc-027-2",
+          "question_id": "q-027-2",
+          "pdf_page": 493,
+          "printed_page": "479"
+        },
+        {
+          "id": "L027-3",
+          "objective_id": "O027-3",
+          "objective": "Use peripheral and respiratory features of a fistulous murmur",
+          "title": "Auscultatory localization",
+          "level": "Clinical Application",
+          "text": "A peripheral pulmonary fistula can generate a localized flow murmur. Peripheral fistulae transmit sounds to the overlying chest wall; inspiratory flow and reduced compression may increase audibility.",
+          "card_id": "fc-027-3",
+          "question_id": "q-027-3",
+          "pdf_page": 499,
+          "printed_page": "485"
+        },
+        {
+          "id": "L027-4",
+          "objective_id": "O027-4",
+          "objective": "Interpret delayed left-heart bubbles as a localization clue",
+          "title": "Delayed contrast",
+          "level": "Clinical Application",
+          "text": "A pulmonary right-to-left shunt. The chapter describes delayed appearance beyond three cycles as usually indicating pulmonary shunting; the timing is a clue interpreted with anatomy.",
+          "card_id": "fc-027-4",
+          "question_id": "q-027-4",
+          "pdf_page": 500,
+          "printed_page": "486"
+        },
+        {
+          "id": "L027-5",
+          "objective_id": "O027-5",
+          "objective": "Connect pulmonary bypass with embolic and infectious complications",
+          "title": "Neurologic risk",
+          "level": "Clinical Application",
+          "text": "Paradoxical embolism, stroke and brain abscess. The shunt bypasses the pulmonary filter; the source highlights embolic events and brain abscess.",
+          "card_id": "fc-027-5",
+          "question_id": "q-027-5",
+          "pdf_page": 498,
+          "printed_page": "484"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-027",
+        "intro": "Fictional teaching scenario: a young adult has cyanosis, recurrent epistaxis and a lung opacity.",
+        "stages": [
+          {
+            "information": "A routine chest film shows a lower-lobe rounded opacity with channels extending toward the hilum. The cardiac silhouette is normal.",
+            "prompt": "What should be investigated before assuming a nonvascular lung nodule?",
+            "options": [
+              "Only an intracardiac ventricular defect",
+              "A normal pulmonary finding requiring no further assessment",
+              "A pulmonary vascular fistulous communication",
+              "Only an isolated aortic valve lesion"
+            ],
+            "answer": 2,
+            "feedback": "The vascular channels and location support consideration of a pulmonary fistula even with a normal-sized heart.",
+            "pdf_page": 500
+          },
+          {
+            "information": "Examination identifies small lip and oral telangiectases; the patient’s parent has recurrent nosebleeds.",
+            "prompt": "Which associated diagnosis is most coherent?",
+            "options": [
+              "Congenital complete heart block",
+              "Hereditary hemorrhagic telangiectasia",
+              "A purely acquired aortic dissection",
+              "An isolated pulmonary valve malformation"
+            ],
+            "answer": 1,
+            "feedback": "Familial epistaxis, mucocutaneous lesions and pulmonary AV malformations fit the inherited vasculopathy described.",
+            "pdf_page": 493
+          },
+          {
+            "information": "Venous contrast imaging supports an intrapulmonary right-to-left shunt. Symptoms have been modest for years.",
+            "prompt": "Which risk must remain part of assessment and counseling?",
+            "options": [
+              "Paradoxical embolism and brain abscess",
+              "Only harmless discoloration",
+              "No complications are possible with a normal silhouette",
+              "Only eventual mitral stenosis"
+            ],
+            "answer": 0,
+            "feedback": "The bypass permits embolic and infectious complications despite a modest circulatory load.",
+            "pdf_page": 498
+          }
+        ],
+        "debrief": "Locate the shunt rather than assuming all cyanosis is intracardiac. The lung opacity, vascular channels, contrast passage and family phenotype supply complementary evidence; quiet hemodynamics do not equal absence of risk."
+      }
+    },
+    {
+      "num": 28,
+      "title": "Hypoplastic left heart",
+      "hook": "A newborn can have profound systemic hypoperfusion with little murmur. Trace ductal systemic supply, coronary supply and left atrial escape.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L028-1",
+          "objective_id": "O028-1",
+          "objective": "Trace systemic and coronary supply when the aortic valve is atretic",
+          "title": "Systemic route",
+          "level": "Essentials",
+          "text": "Right ventricle through pulmonary trunk, ductus and descending aorta. The pulmonary artery/ductus/descending aortic continuity provides systemic flow; retrograde flow supplies the small ascending aorta and coronary origins.",
+          "card_id": "fc-028-1",
+          "question_id": "q-028-1",
+          "pdf_page": 503,
+          "printed_page": "489"
+        },
+        {
+          "id": "L028-2",
+          "objective_id": "O028-2",
+          "objective": "Explain systemic and myocardial compromise during ductal constriction",
+          "title": "Ductal deterioration",
+          "level": "Clinical Application",
+          "text": "Reduced systemic and retrograde coronary perfusion impairs output and RV function. The ductus supports systemic and coronary supply; constriction compromises both and can worsen the sole pumping ventricle.",
+          "card_id": "fc-028-2",
+          "question_id": "q-028-2",
+          "pdf_page": 503,
+          "printed_page": "489"
+        },
+        {
+          "id": "L028-3",
+          "objective_id": "O028-3",
+          "objective": "Distinguish a higher saturation from better systemic perfusion",
+          "title": "Oxygen delivery",
+          "level": "Clinical Application",
+          "text": "Flow is preferentially diverted to the lungs at the expense of systemic output. The right ventricle supplies both beds; increasing lung flow can improve mixing saturation while reducing systemic blood flow.",
+          "card_id": "fc-028-3",
+          "question_id": "q-028-3",
+          "pdf_page": 505,
+          "printed_page": "491"
+        },
+        {
+          "id": "L028-4",
+          "objective_id": "O028-4",
+          "objective": "Recognize severe disease despite an absent murmur",
+          "title": "Quiet auscultation",
+          "level": "Clinical Application",
+          "text": "A severe ductal-dependent left-heart lesion remains possible. The source emphasizes unimpressive auscultation despite dramatic illness; aortic atresia leaves a single pulmonary closure sound.",
+          "card_id": "fc-028-4",
+          "question_id": "q-028-4",
+          "pdf_page": 506,
+          "printed_page": "492"
+        },
+        {
+          "id": "L028-5",
+          "objective_id": "O028-5",
+          "objective": "Explain the importance of the interatrial communication",
+          "title": "Atrial exit",
+          "level": "Clinical Application",
+          "text": "Pulmonary venous return encounters an obstructed left atrium. The left atrium needs an alternative exit when mitral inflow is severely limited; atrial restriction compromises that exit and promotes congestion.",
+          "card_id": "fc-028-5",
+          "question_id": "q-028-5",
+          "pdf_page": 503,
+          "printed_page": "489"
+        }
+      ],
+      "unavailable_levels": [
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": {
+        "id": "case-028",
+        "intro": "Fictional teaching scenario: a newborn develops circulatory collapse during the first days of life.",
+        "stages": [
+          {
+            "information": "The baby is listless and tachypneic with poor perfusion. A loud single second sound and RV impulse are present, but no major murmur.",
+            "prompt": "Which interpretation avoids a recognition error?",
+            "options": [
+              "A normal aortic outlet is established by the RV impulse",
+              "No murmur rules out critical structural disease",
+              "The single sound proves two normal semilunar valves",
+              "Critical congenital disease remains possible despite quiet auscultation"
+            ],
+            "answer": 3,
+            "feedback": "The source describes severe left-heart hypoplasia with little or no murmur despite major illness.",
+            "pdf_page": 506
+          },
+          {
+            "information": "Echo identifies aortic atresia, a hypoplastic left ventricle and ductal supply to the systemic circulation.",
+            "prompt": "What does ductal constriction threaten?",
+            "options": [
+              "Only a harmless flow murmur",
+              "Systemic and retrograde coronary perfusion",
+              "An already normal LV-to-aorta route",
+              "Only coronary venous return"
+            ],
+            "answer": 1,
+            "feedback": "The ductus supplies the descending aorta and retrograde arch/ascending aortic route to the coronary arteries.",
+            "pdf_page": 503
+          },
+          {
+            "information": "With a patent ductus and adequate atrial communication, pulmonary flow increases. Saturation rises, but peripheral perfusion worsens.",
+            "prompt": "What explains this apparent contradiction?",
+            "options": [
+              "A saturation rise excludes circulatory imbalance",
+              "Higher saturation guarantees adequate systemic delivery",
+              "Pulmonary flow can increase at the expense of systemic output",
+              "The left ventricle has necessarily normalized"
+            ],
+            "answer": 2,
+            "feedback": "A shared RV output must be balanced between the two circulations; oxygen saturation does not measure systemic flow.",
+            "pdf_page": 505
+          }
+        ],
+        "debrief": "Recognize the lesion even when auscultation is quiet, trace coronary and systemic supply, then interpret saturation together with perfusion. The scenario explains physiology and does not prescribe an isolated oxygen or ventilation target."
+      }
+    },
+    {
+      "num": 29,
+      "title": "Congenital anomalies of the coronary circulation",
+      "hook": "A coronary anomaly needs a route map: origin alone is less informative than the ostium, proximal course, branches and surrounding anatomy.",
+      "audience": "Pediatric residents, cardiology trainees and clinicians studying congenital heart disease from infancy to adulthood",
+      "prerequisites": "Core cardiovascular anatomy and physiology; chapters1–2 introduce the diagnostic approach and functional murmurs.",
+      "estimated_minutes": 25,
+      "estimated_minutes_note": "Planning estimate for five units and feedback; full reference reading takes longer.",
+      "lessons": [
+        {
+          "id": "L029-1",
+          "objective_id": "O029-1",
+          "objective": "Identify the coronary feature most relevant to risk assessment",
+          "title": "Origin versus course",
+          "level": "Clinical Application",
+          "text": "Whether its course is anterior, retroaortic, interarterial or intramyocardial. The source emphasizes that the route relative to the great arteries can be more important than the ectopic origin itself.",
+          "card_id": "fc-029-1",
+          "question_id": "q-029-1",
+          "pdf_page": 517,
+          "printed_page": "503"
+        },
+        {
+          "id": "L029-2",
+          "objective_id": "O029-2",
+          "objective": "Recognize the source-described high-risk left coronary arrangement",
+          "title": "Higher-risk anatomy",
+          "level": "Clinical Application",
+          "text": "Left main from the right sinus passing between aorta and RV outflow tract. The source identifies the left main or major left branch passing between the aorta and RV outflow tract as particularly concerning; ostial shape and exercise also affect risk.",
+          "card_id": "fc-029-2",
+          "question_id": "q-029-2",
+          "pdf_page": 518,
+          "printed_page": "504"
+        },
+        {
+          "id": "L029-3",
+          "objective_id": "O029-3",
+          "objective": "Distinguish separate left coronary ostia from left main atresia",
+          "title": "Absent versus atretic",
+          "level": "Clinical Application",
+          "text": "Absence of a common left main trunk, generally functionally benign. Separate patent LAD and circumflex origins are different from a blind or imperforate left main origin.",
+          "card_id": "fc-029-3",
+          "question_id": "q-029-3",
+          "pdf_page": 515,
+          "printed_page": "501"
+        },
+        {
+          "id": "L029-4",
+          "objective_id": "O029-4",
+          "objective": "Recognize a coronary crossing the RV outflow tract",
+          "title": "Surgical relevance",
+          "level": "Clinical Application",
+          "text": "It may create major surgical risk despite little baseline physiologic effect. A coronary crossing the outflow tract can be endangered during intervention even when its resting physiologic effect is small.",
+          "card_id": "fc-029-4",
+          "question_id": "q-029-4",
+          "pdf_page": 519,
+          "printed_page": "505"
+        },
+        {
+          "id": "L029-5",
+          "objective_id": "O029-5",
+          "objective": "Explain survival with congenital left main atresia",
+          "title": "Collateral dependence",
+          "level": "Clinical Application",
+          "text": "Adequate channels from a normally arising right coronary artery. Survival depends on adequate connections from the right coronary artery to the distal left system; presentation can span infancy to adulthood.",
+          "card_id": "fc-029-5",
+          "question_id": "q-029-5",
+          "pdf_page": 518,
+          "printed_page": "504"
+        }
+      ],
+      "unavailable_levels": [
+        "Essentials",
+        "Deep Dive"
+      ],
+      "review_status": "Model checked selected cited source passages; not specialist review",
+      "case": null
+    }
+  ]
+}

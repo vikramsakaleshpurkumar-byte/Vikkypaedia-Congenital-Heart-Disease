@@ -1,0 +1,350 @@
+[
+  {
+    "num": 1,
+    "title": "Introduction: Formulation of the problem",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 2,
+    "title": "Functional murmurs",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 3,
+    "title": "The cardiac malpositions",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 4,
+    "title": "Isolated congenital complete heart block",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 5,
+    "title": "Congenital abnormalities of the pericardium",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 6,
+    "title": "Congenitally corrected transposition of the great arteries",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 7,
+    "title": "Congenital aortic stenosis: Congenital aortic regurgitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 8,
+    "title": "Coarctation of the aorta and interrupted aortic arch",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 9,
+    "title": "Congenital obstruction to left atrial flow: Mitral stenosis, cor triatriatum, pulmonary vein stenosis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 10,
+    "title": "Congenital pulmonary stenosis and regurgitation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 11,
+    "title": "Ebstein’s anomaly of the tricuspid valve",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 12,
+    "title": "Atrial septal defect: Simple and complex",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 13,
+    "title": "Pulmonary stenosis with interatrial communication",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 14,
+    "title": "Ventricular septal defect",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 15,
+    "title": "Ventricular septal defect with pulmonary stenosis",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 16,
+    "title": "Double outlet ventricle",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 17,
+    "title": "Patent ductus arteriosus and aortopulmonary window",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 18,
+    "title": "Anomalous origin of the left coronary artery from the pulmonary trunk",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 19,
+    "title": "Congenital coronary arterial fistula",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 20,
+    "title": "Congenital aneurysms of the sinuses of valsalva",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 21,
+    "title": "Pulmonary atresia with intact ventricular septum",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 22,
+    "title": "Tricuspid atresia",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 23,
+    "title": "The univentricular heart",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 24,
+    "title": "Complete transposition of the great arteries",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 25,
+    "title": "Truncus arteriosus",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 26,
+    "title": "Congenital anomalies of vena caval connection",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 27,
+    "title": "Congenital pulmonary arteriovenous fistula",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 28,
+    "title": "Hypoplastic left heart",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  },
+  {
+    "num": 29,
+    "title": "Congenital anomalies of the coronary circulation",
+    "cards": 6,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 11
+    }
+  }
+]

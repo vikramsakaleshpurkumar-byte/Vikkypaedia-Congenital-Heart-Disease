@@ -1,0 +1,440 @@
+{
+  "reviewed": true,
+  "title": "Perloff’s Clinical Recognition of Congenital Heart Disease",
+  "course_name": "Vikkypaedia · Congenital Heart Disease",
+  "edition": "7th edition",
+  "year": "Copyright 2023",
+  "publisher": "Elsevier",
+  "authors": "Ariane J. Marelli and Jamil A. Aboulhosn",
+  "subtitle": "Clinical recognition from infancy to adulthood · 29 source-linked chapters",
+  "chapters": [
+    {
+      "num": 1,
+      "source_label": "1",
+      "title": "Introduction: Formulation of the problem",
+      "start": 15,
+      "group": "Foundations, arrangement & associated disorders",
+      "columns": 2,
+      "column_split": null,
+      "end": 19
+    },
+    {
+      "num": 2,
+      "source_label": "2",
+      "title": "Functional murmurs",
+      "start": 20,
+      "group": "Foundations, arrangement & associated disorders",
+      "columns": 2,
+      "column_split": null,
+      "end": 29
+    },
+    {
+      "num": 3,
+      "source_label": "3",
+      "title": "The cardiac malpositions",
+      "start": 30,
+      "group": "Foundations, arrangement & associated disorders",
+      "columns": 2,
+      "column_split": null,
+      "end": 52
+    },
+    {
+      "num": 4,
+      "source_label": "4",
+      "title": "Isolated congenital complete heart block",
+      "start": 53,
+      "group": "Foundations, arrangement & associated disorders",
+      "columns": 2,
+      "column_split": null,
+      "end": 61
+    },
+    {
+      "num": 5,
+      "source_label": "5",
+      "title": "Congenital abnormalities of the pericardium",
+      "start": 62,
+      "group": "Foundations, arrangement & associated disorders",
+      "columns": 2,
+      "column_split": null,
+      "end": 66
+    },
+    {
+      "num": 6,
+      "source_label": "6",
+      "title": "Congenitally corrected transposition of the great arteries",
+      "start": 67,
+      "group": "Foundations, arrangement & associated disorders",
+      "columns": 2,
+      "column_split": null,
+      "end": 87
+    },
+    {
+      "num": 7,
+      "source_label": "7",
+      "title": "Congenital aortic stenosis: Congenital aortic regurgitation",
+      "start": 88,
+      "group": "Left-heart and aortic obstruction",
+      "columns": 2,
+      "column_split": null,
+      "end": 112
+    },
+    {
+      "num": 8,
+      "source_label": "8",
+      "title": "Coarctation of the aorta and interrupted aortic arch",
+      "start": 113,
+      "group": "Left-heart and aortic obstruction",
+      "columns": 2,
+      "column_split": null,
+      "end": 138
+    },
+    {
+      "num": 9,
+      "source_label": "9",
+      "title": "Congenital obstruction to left atrial flow: Mitral stenosis, cor triatriatum, pulmonary vein stenosis",
+      "start": 139,
+      "group": "Left-heart and aortic obstruction",
+      "columns": 2,
+      "column_split": null,
+      "end": 152
+    },
+    {
+      "num": 10,
+      "source_label": "10",
+      "title": "Congenital pulmonary stenosis and regurgitation",
+      "start": 153,
+      "group": "Right-sided valve disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 179
+    },
+    {
+      "num": 11,
+      "source_label": "11",
+      "title": "Ebstein’s anomaly of the tricuspid valve",
+      "start": 180,
+      "group": "Right-sided valve disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 196
+    },
+    {
+      "num": 12,
+      "source_label": "12",
+      "title": "Atrial septal defect: Simple and complex",
+      "start": 197,
+      "group": "Septal defects & shunts",
+      "columns": 2,
+      "column_split": null,
+      "end": 253
+    },
+    {
+      "num": 13,
+      "source_label": "13",
+      "title": "Pulmonary stenosis with interatrial communication",
+      "start": 254,
+      "group": "Septal defects & shunts",
+      "columns": 2,
+      "column_split": null,
+      "end": 262
+    },
+    {
+      "num": 14,
+      "source_label": "14",
+      "title": "Ventricular septal defect",
+      "start": 263,
+      "group": "Septal defects & shunts",
+      "columns": 2,
+      "column_split": null,
+      "end": 296
+    },
+    {
+      "num": 15,
+      "source_label": "15",
+      "title": "Ventricular septal defect with pulmonary stenosis",
+      "start": 297,
+      "group": "Ventricular outlet relationships",
+      "columns": 2,
+      "column_split": null,
+      "end": 325
+    },
+    {
+      "num": 16,
+      "source_label": "16",
+      "title": "Double outlet ventricle",
+      "start": 326,
+      "group": "Ventricular outlet relationships",
+      "columns": 2,
+      "column_split": null,
+      "end": 345
+    },
+    {
+      "num": 17,
+      "source_label": "17",
+      "title": "Patent ductus arteriosus and aortopulmonary window",
+      "start": 346,
+      "group": "Arterial shunts & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 372
+    },
+    {
+      "num": 18,
+      "source_label": "18",
+      "title": "Anomalous origin of the left coronary artery from the pulmonary trunk",
+      "start": 373,
+      "group": "Arterial shunts & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 384
+    },
+    {
+      "num": 19,
+      "source_label": "19",
+      "title": "Congenital coronary arterial fistula",
+      "start": 385,
+      "group": "Arterial shunts & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 395
+    },
+    {
+      "num": 20,
+      "source_label": "20",
+      "title": "Congenital aneurysms of the sinuses of valsalva",
+      "start": 396,
+      "group": "Arterial shunts & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 406
+    },
+    {
+      "num": 21,
+      "source_label": "21",
+      "title": "Pulmonary atresia with intact ventricular septum",
+      "start": 407,
+      "group": "Complex cyanotic heart disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 417
+    },
+    {
+      "num": 22,
+      "source_label": "22",
+      "title": "Tricuspid atresia",
+      "start": 418,
+      "group": "Complex cyanotic heart disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 432
+    },
+    {
+      "num": 23,
+      "source_label": "23",
+      "title": "The univentricular heart",
+      "start": 433,
+      "group": "Complex cyanotic heart disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 450
+    },
+    {
+      "num": 24,
+      "source_label": "24",
+      "title": "Complete transposition of the great arteries",
+      "start": 451,
+      "group": "Complex cyanotic heart disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 471
+    },
+    {
+      "num": 25,
+      "source_label": "25",
+      "title": "Truncus arteriosus",
+      "start": 472,
+      "group": "Complex cyanotic heart disease",
+      "columns": 2,
+      "column_split": null,
+      "end": 485
+    },
+    {
+      "num": 26,
+      "source_label": "26",
+      "title": "Congenital anomalies of vena caval connection",
+      "start": 486,
+      "group": "Venous, pulmonary & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 492
+    },
+    {
+      "num": 27,
+      "source_label": "27",
+      "title": "Congenital pulmonary arteriovenous fistula",
+      "start": 493,
+      "group": "Venous, pulmonary & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 502
+    },
+    {
+      "num": 28,
+      "source_label": "28",
+      "title": "Hypoplastic left heart",
+      "start": 503,
+      "group": "Venous, pulmonary & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 510
+    },
+    {
+      "num": 29,
+      "source_label": "29",
+      "title": "Congenital anomalies of the coronary circulation",
+      "start": 511,
+      "group": "Venous, pulmonary & coronary connections",
+      "columns": 2,
+      "column_split": null,
+      "end": 526
+    }
+  ],
+  "omitted_pages": [
+    {
+      "start": 1,
+      "end": 14,
+      "reason": "Cover, title/copyright, dedication, preface, contents and video inventory; source attribution and supplementary-media inventory retained separately."
+    },
+    {
+      "start": 527,
+      "end": 535,
+      "reason": "Printed index and inside back-cover advertisement; index retained separately as a reference file."
+    }
+  ],
+  "glyph_map": {},
+  "features": [
+    {
+      "label": "Cyanosis",
+      "pattern": "cyanosis|cyanotic"
+    },
+    {
+      "label": "Heart failure",
+      "pattern": "heart failure|congestive"
+    },
+    {
+      "label": "Murmur",
+      "pattern": "murmur|souffle"
+    },
+    {
+      "label": "Continuous murmur",
+      "pattern": "continuous murmur|continuous machinery"
+    },
+    {
+      "label": "Arterial pulse",
+      "pattern": "arterial pulse|pulse pressure|water.hammer"
+    },
+    {
+      "label": "Jugular venous pulse",
+      "pattern": "jugular venous|jugular pulse|jugular venogram"
+    },
+    {
+      "label": "Second heart sound",
+      "pattern": "second heart sound|S2|aortic closure|pulmonic closure"
+    },
+    {
+      "label": "Exercise limitation",
+      "pattern": "exercis|exertional|dyspnea"
+    },
+    {
+      "label": "Syncope",
+      "pattern": "syncop|fainting"
+    },
+    {
+      "label": "Arrhythmia / block",
+      "pattern": "arrhythm|heart block|tachycard|bradycard"
+    },
+    {
+      "label": "Hypertension",
+      "pattern": "hypertens"
+    },
+    {
+      "label": "Duct-dependent circulation",
+      "pattern": "duct.depend|ductal.depend|ductus arteriosus"
+    },
+    {
+      "label": "Pulmonary flow / resistance",
+      "pattern": "pulmonary blood flow|pulmonary vascular resistance|pulmonary hypertens"
+    },
+    {
+      "label": "Left-to-right shunt",
+      "pattern": "left.to.right shunt"
+    },
+    {
+      "label": "Right-to-left shunt",
+      "pattern": "right.to.left shunt"
+    },
+    {
+      "label": "Volume overload",
+      "pattern": "volume overload"
+    },
+    {
+      "label": "Pressure overload",
+      "pattern": "pressure overload"
+    },
+    {
+      "label": "Ventricular morphology",
+      "pattern": "morphologic|morphological|ventricular morphology"
+    },
+    {
+      "label": "Valve disease",
+      "pattern": "stenosis|regurgitation|valvar|valvular"
+    },
+    {
+      "label": "Septal communication",
+      "pattern": "septal defect|interatrial|interventricular"
+    },
+    {
+      "label": "Great-artery relationship",
+      "pattern": "transposition|aortic arch|outlet"
+    },
+    {
+      "label": "Venous connection",
+      "pattern": "venous return|venous connection|vena caval"
+    },
+    {
+      "label": "Coronary anomaly",
+      "pattern": "coronary arter|coronary sinus"
+    },
+    {
+      "label": "ECG clues",
+      "pattern": "electrocardiogram|QRS|electrocardiograph"
+    },
+    {
+      "label": "Chest radiograph",
+      "pattern": "x.ray|radiograph"
+    },
+    {
+      "label": "Echocardiography",
+      "pattern": "echocardiogra|Doppler"
+    },
+    {
+      "label": "Cross-sectional imaging",
+      "pattern": "magnetic resonance|computed tomography"
+    },
+    {
+      "label": "Fetal / neonatal presentation",
+      "pattern": "fetal|neonat|newborn"
+    },
+    {
+      "label": "Adult presentation",
+      "pattern": "adult|adolescen"
+    },
+    {
+      "label": "Physical examination",
+      "pattern": "auscultat|palpat|physical exam|percussion"
+    }
+  ],
+  "header_fraction": 0.048,
+  "footer_fraction": 0.045,
+  "permissions_note": "Prepared for personal study from the supplied PDF. Preserve source copyright and image credits. A private repository backup does not establish redistribution or public-hosting rights."
+}

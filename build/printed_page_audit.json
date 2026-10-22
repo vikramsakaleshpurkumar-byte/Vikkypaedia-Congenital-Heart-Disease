@@ -1,0 +1,13 @@
+{
+  "body_pages": 512,
+  "verified_labels": 511,
+  "expected_offset": 14,
+  "mismatches": [
+    {
+      "pdf_page": 154,
+      "printed_label": null,
+      "expected_if_offset": 140
+    }
+  ],
+  "note": "Page-number font spans checked on all body pages. PDF-page citations are canonical."
+}

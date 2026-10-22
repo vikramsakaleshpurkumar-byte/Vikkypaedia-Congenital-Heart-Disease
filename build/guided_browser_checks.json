@@ -1,0 +1,31 @@
+{
+  "checks": [
+    "Five mapped learning units",
+    "Level filter changes units, preserves course totals",
+    "Guided feedback withheld before response",
+    "Guided incorrect attempt gives specific rationale",
+    "Feedback receives keyboard focus",
+    "Retry hides feedback",
+    "Retry retains attempt history",
+    "Guided answer and history survive reload",
+    "Source link opens exact PDF section",
+    "Future case findings and final debrief withheld",
+    "Case advancement disabled before decision",
+    "Case advancement guard works",
+    "Case stage 1 feedback",
+    "Final debrief still withheld",
+    "Case stage 2 feedback",
+    "Final debrief still withheld",
+    "Case stage 3 feedback",
+    "Debrief appears after final decision",
+    "Learning record export includes reflection",
+    "Anki download contains tab-separated cards",
+    "Mobile guided module fits content width",
+    "Mobile drawer traps backward focus",
+    "Mobile drawer traps forward focus",
+    "Drawer escape restores menu focus",
+    "No JavaScript errors"
+  ],
+  "errors": [],
+  "passed": true
+}

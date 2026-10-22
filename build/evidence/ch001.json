@@ -1,0 +1,1194 @@
+{
+  "num": 1,
+  "source_label": "1",
+  "title": "Introduction: Formulation of the problem",
+  "start": 15,
+  "group": "Foundations, arrangement & associated disorders",
+  "columns": 2,
+  "column_split": null,
+  "end": 19,
+  "pdf_start": 15,
+  "pdf_end": 19,
+  "pages": [
+    15,
+    16,
+    17,
+    18,
+    19
+  ],
+  "printed_start": "1",
+  "printed_end": "5",
+  "paragraphs": [
+    {
+      "text": "1 1 Introduction: Formulation of the Problem",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "The heart is the youngest, most diverse, most fluid, most changeable, most versatile part of creation.",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "Goethe1",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "Congenital heart disease (con, together; genitus, born) is often looked upon as a group of gross structural abnormalities that are present at birth. While not incorrect, this definition requires elaboration and qualification.",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "Prenatal diagnoses have been possible for over 30 years.2 Beginning about embryonic day 20 in the human fetus, progenitor cells within the mesoderm become committed to a cardiogenic destination.3 The majority of malformations compatible with 6 months of intrauterine life permit live offspring at term. A given malformation may exist in relative harmony with the fetal circulation, only to be modified considerably, at least physiologically, by dramatic circulatory changes at birth.4 Weeks, months, or years may then elapse before an anomaly reveals itself as characteristic or typical. A functionally normal aortic valve that is congenitally bicuspid at birth may take decades to fibrose, calcify, and present as overt aortic stenosis. Conversely, a malformation may disappear, as is the case with spontaneous closure of a ventricular septal defect.",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "Congenital malformations of the heart and circulation are not fixed anatomic defects that appear at birth, but instead are anomalies in flux that originate in the early embryo, evolve during gestation, survive the dramatic circulatory alterations at birth, and change considerably during the course of extrauterine life. Congenital heart disease was once the exclusive and legitimate domain of pediatrics, but survival patterns have changed appreciably.5 In the United States today, two-thirds of the congenital heart disease population are adults,6,7 creating a new generation of patients who are best cared for by specially trained cardiologists.8",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "Furthermore, certain defects that are actually or potentially of functional significance are not gross structurally, such as congenital complete heart block, either isolated (see Chapter 4) or with congenitally corrected transposition of the great arteries (see Chapter 6), or with left isomerism (see Chapter 3); Wolff- Parkinson-White preexcitation, either isolated or complicated (see Chapter 13); absence of a sinus node as with a superior vena caval sinus venosus atrial septal defect (see Chapter 15) or left isomerism (see Chapter 3); ventricular tachycardia with the long QT syndromes,9 or arrhythmogenic right ventricular dysplasia (see Chapter 13). Still other abnormalities, such as Marfan syndrome, which is the result of mutations in the gene that encodes fibrillin-1, are actually or potentially of functional significance, but they do not necessarily manifest at birth as gross structural malformations and, as a matter of convention, are usually not classified as congenital.10 There are also anomalies that may escape inclusion as defects, such as congenital kinking of the internal carotid artery.11",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "Because of the intimate interplay between congenital malformations of the heart and the fetal substrate, let us now turn to the fetal circulation per se, and the remarkable circulatory changes that occur at birth.4,12,13 In utero patterns of blood flow have been defined in fetal lambs after inserting catheters into limb vessels,4 and in utero left and right ventricular outputs and flow distributions through the foramen ovale, ductus arteriosus, and pulmonary bed have been measured in human fetuses with",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "high-resolution color Doppler ultrasonography.12,14 The right and left ventricles do not function in series in the fetus as they do in the extrauterine circulation. Gas exchange occurs in the placenta, not in the lungs. About two-thirds of the right ventricular output is diverted away from the lungs through a wide patent ductus arteriosus into the descending thoracic aorta, from which a large portion enters the umbilical circulation for oxygenation in the placenta. Pulmonary blood flow is low but meets nutritional requirements for growth of the lungs. Inferior vena cava blood, which is a composite from the umbilical vein, the left and right hepatic veins, the ductus venosus, and the distal inferior vena cava, streams in the direction of the foramen ovale into the left atrium and then into the left ventricle, assisted by the eustachian valve. About 60% of the umbilical venous return that is oxygenated in the placenta bypasses the liver through the ductus venosus and enters the inferior vena cava and right atrium. Blood from the superior vena cava is deflected within the right atrium toward the tricuspid valve, across which it reaches the right ventricle. About 70% of the relatively oxygen-rich blood ejected from the left ventricle is distributed to the coronary circulation (and thus the myocardium), to the head and neck (and thus the brain), and to the forelimbs. Almost 90% of the relatively oxygen-poor blood ejected by the right ventricle passes through the ductus arteriosus into the descending aorta to be oxygenated in the placenta. Accordingly, the fetal circulation is designed so that blood with higher oxygen saturation preferentially reaches the myocardium and brain, and less saturated blood preferentially reaches the placenta.",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "The profound circulatory changes at birth occur almost simultaneously. The umbilical/placental circulation is eliminated, the lungs expand, rhythmic ventilation commences, oxygen tension rises as alveolar fluid is eliminated and ambient air is breathed, pulmonary vascular resistance falls, and pulmonary blood flow increases eight- to ten-fold. Venous return to the left atrium increases, left atrial pressure rises, the valve of the foramen ovale closes, and the ductus arteriosus functionally closes (constricts) within hours after birth, effectively separating the pulmonary and systemic circulations.4 These changes have significant impact on infants born with congenital heart disease where a circulation in series may fail to be established in the presence of intracardiac shunting.13 Other important changes relate to the fetal right ventricle, which slowly loses its relative mass. With the stimulus of afterload eliminated, there is a gradual reduction in right ventricular wall thickness relative to the ventricular septum and left ventricle. The neonatal right ventricle does not undergo regression, but instead does not increase its mass as rapidly as the left ventricle. Normal physiologic adaptations at birth are remarkable in their own right. It is therefore not surprising that congenital malformations of the heart or circulation will, to varying degrees, interact with and be modified by extrauterine life.",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "“One of the most wondrous features of animate nature must surely be the perfect harmony existing between structure and function.”14 No organ system exemplifies this as well as the heart and circulation. In the presence of congenital heart disease, both the morphology",
+      "heading": "Overview",
+      "pdf_page": 15,
+      "printed_page": "1"
+    },
+    {
+      "text": "and physiology of the heart and circulation change with the passage of time from the fetus, to the neonate, to the infant, to the child, to the adolescent, and to the adult. Some of these changes result in neonatal death, while others express themselves gradually over weeks, months, years, or even decades. The clinical manifestations of congenital heart disease are dealt with herein in terms of anatomic and physiologic mechanisms. The method of assessment employed in the process of clinical recognition is a syllogism of applied logic. When conclusions are drawn from accurate observations, correct diagnoses emerge with gratifying frequency, even when the malformations are complex. Logic is encouraged; memorization is minimized. In each chapter, the gross morphology is first established in order to shed light on the physiologic derangements. The question is then asked: What clinical manifestations might result from these anatomic and physiologic derangements? The stage is now set for clinical recognition—the thesis of this book—which depends on a synthesis of information from the history, the physical examination, the electrocardiogram, the chest x-ray, and more advanced imaging, such as with cardiac computed tomography (CT) or magnetic resonance imaging (MRI). Contemporary imaging techniques serve as important supplements.",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "The history, which is an interview, is designed to secure background information. The physical examination includes the physical appearance, the arterial pulse, the jugular venous pulse, precordial percussion, movement and palpation, and auscultation.15 The stethoscope is the oldest cardiovascular diagnostic instrument in continuous clinical use. The electrocardiogram, developed in 1903 by Willem Einthoven, when read closely and interpreted in clinical context, provides gratifying diagnostic insights, even in complex congenital heart disease.16 Meticulous attention should be devoted to the P wave, the P duration, the PR interval, the QRS, the QT interval, and the T wave. The electrocardiographic waves are believed to have been so-named by Rene Descartes, an 18th century French philosopher and scientist17 who was surely known to Einthoven. The x-ray was developed in 1895 by Wilhelm Conrad Roentgen. Chest x-rays must be read closely and interpreted in clinical context. Posteroanterior and lateral views should be read according to a planned sequence, namely penetration, rotation, degree of inhalation, age and sex, right/left orientation, thoracic and abdominal situs, positions and malpositions above and below the diaphragm, the bones, the extrapulmonary soft tissue densities, the vascular and parenchymal intrapulmonary soft tissue densities, the great arteries and great veins, the atria, and the ventricles. There is much to be said for learning interpretation by reading chest x-rays with a trained chest radiologist. As with the electrocardiogram, the amount of information that can be extracted from chest x-rays is gratifying, even in complex congenital heart disease.",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "It is axiomatic that emphasis should be placed on the relationship of the parts to the whole, a relationship that results in a harmonious picture devoid of contradictions, rather than a collection of loosely related observations. Maximum information should be extracted from each source while relating information from one source to that of another. Each step should advance our thinking and narrow the diagnostic possibilities. By the end of the clinical assessment, untenable considerations should have been discarded, possibilities retained for further consideration, and probabilities brought into sharper focus. The process reflects Herophilus’ adage that the best physician is one who distinguishes between the possible and the impossible.",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "A diagnostic impression, once entertained, necessarily influences the objectivity with which subsequent impressions are appraised. If the same sequence of clinical evaluation is always employed, the later steps cannot be objectively assessed. It is therefore useful to vary the sequence with which information is assembled. Begin, for example, with the chest x-ray or electrocardiogram. With infants, it is often practical to take advantage of",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "temporary periods of calm and start with the physical examination, which may shortly be difficult to perform. It is not the sequence that matters, but the depth and synthesis of analysis. Irrespective of how the order of information is arranged, two questions must always be asked: how does one step relate to the next, and how do the parts relate to the whole?",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "Diagnostic thinking benefits from employing anticipation and supposition. After drawing conclusions from the history, it is useful to pause and ask: if these assumptions are correct, what can be anticipated from the physical examination, or what specific points can be anticipated in the electrocardiogram or x-ray to support or refute initial impressions? Anticipation heightens interest as the clinical assessment progresses. Confirmation comes as a source of satisfaction, and error stands out in bold relief. Nor should we be afraid of mistakes. Truth emerges sooner from error than from confusion.",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "The clinical presentation of congenital heart disease can be complex,18 particularly in adults, but a thoughtful systematic approach can be helpful. Decades ago, Paul Wood proposed that we answer five clinical cornerstone questions in understanding the derangements of the heart and circulation seen across lesions (Box 1.1). When approached according to this proposal, the clinical recognition of congenital heart disease becomes a stimulating challenge, a satisfying discipline in logical thinking, and a constant source of self-education. The intensity of inquiry and the analytical standards employed at the bedside should be the same as those in diagnostic laboratories. Fig. 1.1 offers an approach to diagnosis based on the simple observation of the presence or absence of cyanosis, and the presence or absence of a scar on the chest, its location, and the date at which the patient underwent the associated procedure. Table 1.1 summarizes the key findings in some of the most common congenital lesions.",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "In the Preface to the first edition of Clinical Recognition of Congenital Heart Disease, Dr. Perloff said, “I hope to stimulate clinicians to use the basic tools readily at their disposal—the history, the physical examination, the electrocardiogram, and the chest x-ray.” The Preface to the third edition stated that, “Two-dimensional echocardiography was in its infancy when the second edition appeared, but now is a routine laboratory procedure.” Cardiac catheterization and angiography were followed by transthoracic and transesophageal echocardiography, and MRI, magnetic resonance angiography (MRA), and CT now provide exquisite anatomic detail and refined physiologic information.19–25",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "Given these advanced imaging techniques, and with more in the offing, has emphasis on the history, physical examination, electrocardiogram, chest x-ray, and echocardiogram become irrelevant? Intelligent selection of investigative procedures from an ever-increasing array requires far more sophisticated decisionmaking than was necessary when choices were limited to the electrocardiogram and chest x-ray. The basic clinical assessment provides the information necessary for most of these decisions. With increasing emphasis on the cost of medical care, it is likely that there will be a resurgence of interest in the inexpensive and safe clinical examination.26",
+      "heading": "Overview",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "1. Is the patient acyanotic or cyanotic? 2. Is pulmonary arterial blood flow increased or decreased? 3. Does the malformation originate in the left or right side of the",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "heart? 4. Which is the dominant ventricle? 5. Is pulmonary hypertension present?",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 16,
+      "printed_page": "2"
+    },
+    {
+      "text": "Midline sternotomy",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Left lateral thoracotomy",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Acyanotic: <1980: for ASD, VSD, LVOTO, RVOTO, Ebstein, Mustard/Senning, Glenn >1980: for Fontan, TOF >1990: for arterial switch",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Acyanotic: Repair of coarctation",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Cyanotic: Waterston shunt (ascending aorta to right pulmonary artery shunt) Central shunt (ascending aorta to pulmonary artery)",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Cyanotic: Left Blalock-Taussig shunt (left subclavian artery to left pulmonary artery shunt) for PA-VSD, TOF, univentricle Potts anastomosis (descending aorta to left pulmonary artery shunt)",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Some additional points: The term natural history is not used. Julien Hoffman’s definition is relevant: “The natural history of any disease is a description of what happens to people with the disease who do not receive treatment for it.”27 Natural history is therefore not synonymous with unoperated, and unnatural history is not synonymous with postoperative. Nonsurgical therapeutic interventions can hardly be considered natural. A second point: differential diagnoses are not employed. Instead, each chapter ends with a summary that permits clinical recognition of the congenital anomaly covered in the chapter. These summaries bring together clinical highlights and serve as reminders for the reader’s convenience.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Finally, a comment on terminology. The First International Summit on Nomenclature for Congenital Heart Disease was held in 2001 in Toronto, ending with virtually unanimous",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "1",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Right lateral thoracotomy",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Acyanotic: Repair of coarctation with right sided arch",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "Cyanotic: Right Blalock-Taussig shunt (right subclavian artery to right pulmonary artery shunt) for PA-VSD, TOF, univentricle Glenn shunt",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "support for the development of a unified system for describing congenial cardiac malformations.28 The terms used herein to describe congenital malformations of the heart and circulation include older latinized forms and more recent anglicized forms.29–31 The vocabulary of congenital heart disease is replete with abbreviations understood only by the initiated. Accordingly, when abbreviations are used, they will first be defined for the reader’s convenience, but full terms will subsequently be used. New terms are not employed when old terms suffice. Acronyms are avoided.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "We have tried to ensure that the material in this book is accessible to a broad audience. The terminology was assiduously addressed, and based on decades of personal experience, Dr. Perloff’s objective, so carefully transmitted to us, remains to excite interest and to be clearly understood.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 17,
+      "printed_page": "3"
+    },
+    {
+      "text": "4 CHAPTER 1 Introduction: Formulation of the Problem",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Katz-Wachtel phenomenon Eisenmenger",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "P-wave axis and severe",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "AF, Atrial fibrillation; ALCAPA, anomalous left coronary artery from the pulmonary artery; AV, atrioventricular; AVB, AV block; AVCD, atrioventricular canal defect; AVN, AV node; BVH, biventricular hypertrophy;",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "T precordial; WPW with",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Possible AVB if VSD or TV RVH; diminutive LV Possible RAE",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Often either clinically silent Uncommon moderate PDA",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "common; Q II, III, aVF,",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Axis deviation correlates with R:S in V1 and V6",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "predictive of VT/SCD",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Anterior AVN; positive defects",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Situs solitus: normal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "QRS duration  QTd obstruction or PHT",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "“Crochetage” pattern Uncommon RAE 35% RBBBi.RBBBc",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Accessory pathway Diminutive RV P waves",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "or Eisenmenger",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Possible ischemia posterobasal LV",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Inferoposteriorly",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Eisenmenger",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Particularities Ventricular Hypertrophy Atrial Enlargement QRS Configuration QRS Axis PR Interval",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "and V12V4",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "with RVP",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "surgery",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Ebstein",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "CHD",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Uncommon in partial; BVH Possible LAE rSr ́ or rsR ́",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "BVH 23%–61%; RVH with LAE",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "deep Q, small R V1 and",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "in complete; RVH with",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Selective hypertrophy of Possible LAE",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "RVH; severity correlates Possible RAE",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "LVH; tall R V12V2; RVH: inversus",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "RVH possible if RVOT RAE possible",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Not if no associated defects",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "tall R right lateral",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Eisenmenger",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "RAE with Himalayan",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Not if no associated",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Peaked P waves; RBBB 90% LAD 5%–10%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Possible RAE  possible RBBB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Not with situs and repolarization",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "LAE with and V6",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Absence of q, small r, RAD Normal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Inverse depolarization RAD Normal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "possible ant-sept",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Deep S V1, tall R V5 Normal h PR 10%–20%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Q in III, aVF, and",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Absence septal q; LAD",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Normal; or rSr ́; R ́",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "right precordium",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "increases with",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Ant-lat Q waves; Possible LAD Normal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "deep S in left",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "atypical RBBB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Low-amplitude Normal or LAD",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "rSr ́ or rsR ́ with",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Normal or rSr ́; LAD 3%–15%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "multiphasic",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "precordium",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Q waves",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "severity",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "TABLE 1.1 Typical Electrocardiogram Features in Common Forms of Adult Congenital Heart Disease",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Moderate to extreme .50%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "RAD; LAD in Holt-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Normal if mild; RAD Normal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "with moderate/",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Oram or LAHB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Normal or RAD; Normal or mild h",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "0–180 degrees; 6%–19%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "RAD with BVH;",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "LAD; normal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "with atypical",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "severe",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "Normal or mild h;",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "short if WPW",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": ".50%; AVB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "1 degree AVB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "1 degree AVB SVT; AF/IART 40%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "2% per year",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "1 degree AVB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "1 degree AVB",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "common;",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "1 degree",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "AVB 10%",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "105–165 degrees",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "NSR; possible EAR,",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "with situs inversus",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "ventricular pressure; SCD, sudden cardiac death; SVT, supraventricular tachycardia; TA, tricuspid atresia; TGA, transposition of the great arteries; TOF, tetralogy of Fallot; TV, tricuspid valve; VT, ventricular",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "deviation; RAE, right atrial enlargement; RBBB, right bundle-branch block (i, incomplete; c, complete); RV, right ventricle; RVH, right ventricular hypertrophy; RVOT, right ventricular outflow tract; RVP, right",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "hemiblock; LAI, left atrial isomerism; LV, left ventricle; LVH, left ventricular hypertrophy; NSR, normal sinus rhythm; PHT, pulmonary hypertension; PVC, premature ventricular contraction; RAD, right-axis",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "CHD, congenital heart disease; DILV, double-inlet left ventricle; EAR, ectopic atrial rhythm; IART, intra-atrial reentrant tachycardia; LAD, left-axis deviation; LAE, left atrial enlargement; LAHB, left anterior",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "tachycardia; WPW, Wolff-Parkinson-White syndrome.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 18,
+      "printed_page": "4"
+    },
+    {
+      "text": "REFERENCES 1. Williams JR. The life of Goethe. Oxford: Blackwell Publishers; 1998. 2. Allan L. Prenatal diagnosis of structural cardiac defects. Am J Med",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "18. Sommer RJ, Hijazi ZM, Rhodes JF Jr. Pathophysiology of congenital",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "19. Burchill LJ, Huang J, Tretter JT, et al. Noninvasive imaging in adult",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Genet C Semin Med Genet. 2007;145C(1):73–76. 3. Olson EN, Srivastava D. Molecular pathways controlling heart devel-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "20. Broberg CS, Meadows A, Sahn D. Magnetic resonance imaging images",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "opment. Science. 1996;272:671–676. 4. Moller JH, Hoffman JIE, eds. Pediatric cardiovascular medicine. Phila-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "21. Babu-Narayan SV, Giannakoulas G, Valente AM, Li W, Gatzoulis",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "delphia: Churchill Livingstone, 2000. 5. Khairy P, Ionescu-Ittu R, Mackie AS, Abrahamowicz M, Pilote L,",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Marelli AJ. Changing mortality in congenital heart disease. J Am Coll Cardiol. 2010;56(14):1149–1157. 6. Marelli AJ, Ionescu-Ittu R, Mackie AS, Guo L, Dendukuri N,",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "22. Raimondi F, Warin-Fresse K. Computed tomography imaging in",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Kaouache M. Lifetime prevalence of congenital heart disease in the general population from 2000 to 2010. Circulation. 2014;130(9): 749–756. 7. Gilboa SM, Devine OJ, Kucik JE, et al. Congenital heart defects in",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "23. Partington SL, Valente AM, Landzberg M, Grant F, Di Carli MF,",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "the United States: estimating the magnitude of the affected population in 2010. Circulation. 2016;134(2):101–109. 8. Child JS, Freed MD, Mavroudis C, Moodie DS, Tucker AL. Task",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "24. Orwat S, Diller GP, Baumgartner H. Imaging of congenital heart",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "force 9: training in the care of adult patients with congenital heart disease. J Am Coll Cardiol. 2008;51(3):389-393. 9. Chiang CE, Roden DM. The long QT syndromes: genetic basis and",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "25. Meadows J, Landzberg MJ. Advances in transcatheter interventions",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "clinical implications. J Am Coll Cardiol. 2000;36(1):1–12. 10. Milewicz DM. Molecular genetics of Marfan syndrome and Ehlers-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "26. Braunwald E. Foreword. In: JK Perloff, ed. Physical Examination of the",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Danlos type IV. Curr Opin Cardiol. 1998;13(3):198-204. 11. Le Bret E, Pineau E, Folliguet T, et al. Congenital kinking of the",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "27. Hoffman JIE. Reflections on the past, present and future of pediatric",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "internal carotid artery in twin brothers. Circulation. 2000;102(22): E173–E174. 12. Mielke G, Benda N. Cardiac output and central distribution of blood",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "28. Béland MJ, Franklin RC, Jacobs JP, et al. Update from the Interna-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "flow in the human fetus. Circulation. 2001;103(12):1662–1668. 13. Rudolph AM. The changes in the circulation after birth. Their im-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "portance in congenital heart disease. Circulation. 1970;41(2):343–359. 14. Alcázar JL, Rovira J, Ruiz-Pérez ML, López-García G. Transvaginal",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "29. Botto LD, Lin AE, Riehle-Colarusso T, Malik S, Correa A; National",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "color Doppler assessment of fetal circulation in normal early pregnancy. Fetal Diagn Ther. 1997;12(3):178–184. 15. Perloff JK. Physical examination of the heart and circulation, 4th ed.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "30. Carr C. Congenital nomenclature: a cause of confusion during litera-",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Shelton, Connecticut: People’s Medical Publishing House; 2009. 16. Khairy P, Marelli AJ. Clinical use of electrocardiography in adults",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "31. Jacobs JP, Anderson RH, Weinberg PM, et al. The nomenclature,",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "with congenital heart disease. Circulation. 2007;116(23):2734–2746. 17. Hurst JW. Naming of the waves in the ECG, with a brief account of",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "their genesis. Circulation. 1998;98(18):1937–1942.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "1",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "heart disease in the adult: part I: Shunt lesions. Circulation. 2008;117(8): 1090–1099.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "congenital heart disease. Circ Res. 2017;120(6):995–1014.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "in adult congenital heart disease. Curr Probl Cardiol. 2011;36(6):228–255.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "MA. Imaging of congenital heart disease in adults. Eur Heart J. 2016;37(15):1182–1195.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "children with congenital heart disease: Indications and radiation dose optimization. Arch Cardiovasc Dis. 2016;109(2):150–157.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Dorbala S. Clinical applications of radionuclide imaging in the evaluation and management of patients with congenital heart disease. J Nucl Cardiol. 2016;23(1):45–63.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "disease in adults: choice of modalities. Eur Heart J Cardiovasc Imaging. 2014;15(1):6–17.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "in adults with congenital heart disease. Prog Cardiovasc Dis. 2011;53(4): 265–273.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Heart and Circulation. 4th ed. Shelton, Connecticut: People’s Medical Publishing House; 2009.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "cardiology. Cardiol Young. 1994;4:208–223.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "tional Working Group for Mapping and Coding of Nomenclatures for Paediatric and Congenital Heart Disease. Cardiol Young. 2004; 14(2):225–229.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "Birth Defects Prevention Study. Seeking causes: Classifying and evaluating congenital heart defects in etiologic studies. Birth Defects Res A Clin Mol Teratol. 2007;79(10):714–727.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "ture search. Ann Thorac Surg. 2007;84(2):716.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    },
+    {
+      "text": "definition and classification of cardiac structures in the setting of heterotaxy. Cardiol Young. 2007;17 Suppl 2:1–28.",
+      "heading": "BOX 1.1 Five Basic Questions",
+      "pdf_page": 19,
+      "printed_page": "5"
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures/ch001_p0017_03.jpg",
+      "caption": "Fig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.",
+      "caption_matched": true,
+      "pdf_page": 17,
+      "printed_page": "3",
+      "chapter": 1,
+      "caption_match_method": "Automatic geometry using recovered visible-glyph caption text"
+    },
+    {
+      "path": "figures/ch001_p0017_28.jpg",
+      "caption": "Fig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.",
+      "caption_matched": true,
+      "pdf_page": 17,
+      "printed_page": "3",
+      "chapter": 1,
+      "caption_match_method": "Automatic geometry using recovered visible-glyph caption text"
+    },
+    {
+      "path": "figures/ch001_p0017_71.jpg",
+      "caption": "Fig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.",
+      "caption_matched": true,
+      "pdf_page": 17,
+      "printed_page": "3",
+      "chapter": 1,
+      "caption_match_method": "Automatic geometry using recovered visible-glyph caption text"
+    },
+    {
+      "path": "figures/ch001_p0017_72.jpg",
+      "caption": "Fig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.",
+      "caption_matched": true,
+      "pdf_page": 17,
+      "printed_page": "3",
+      "chapter": 1,
+      "caption_match_method": "Automatic geometry using recovered visible-glyph caption text"
+    },
+    {
+      "path": "figures/ch001_p0017_81.jpg",
+      "caption": "Fig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.",
+      "caption_matched": true,
+      "pdf_page": 17,
+      "printed_page": "3",
+      "chapter": 1,
+      "caption_match_method": "Automatic geometry using recovered visible-glyph caption text"
+    }
+  ],
+  "tables": [
+    {
+      "kind": "Table",
+      "label": "1.1",
+      "caption": "TABLE 1.1   Typical Electrocardiogram Features in Common Forms of Adult Congenital Heart Disease",
+      "pdf_page": 18,
+      "printed_page": "4",
+      "chapter": 1,
+      "path": "tables/ch001_page0018.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    }
+  ],
+  "page_views": [
+    {
+      "path": "tables/ch001_page0015.jpg",
+      "pdf_page": 15,
+      "printed_page": "1",
+      "reason": "Complete original page preserved for layout, clinical symbols and table/figure context."
+    },
+    {
+      "path": "tables/ch001_page0016.jpg",
+      "pdf_page": 16,
+      "printed_page": "2",
+      "reason": "Complete original page preserved for layout, clinical symbols and table/figure context."
+    },
+    {
+      "path": "tables/ch001_page0017.jpg",
+      "pdf_page": 17,
+      "printed_page": "3",
+      "reason": "Complete original page preserved for layout, clinical symbols and table/figure context."
+    },
+    {
+      "path": "tables/ch001_page0018.jpg",
+      "pdf_page": 18,
+      "printed_page": "4",
+      "reason": "Complete original page preserved for layout, clinical symbols and table/figure context."
+    },
+    {
+      "path": "tables/ch001_page0019.jpg",
+      "pdf_page": 19,
+      "printed_page": "5",
+      "reason": "Complete original page preserved for layout, clinical symbols and table/figure context."
+    }
+  ],
+  "raw_md": "# 1. Introduction: Formulation of the problem\n> [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 15 | printed page 1\n\n1 1 Introduction: Formulation of the Problem\n\nThe heart is the youngest, most diverse, most fluid, most changeable, most versatile part of creation.\n\nGoethe1\n\nCongenital heart disease (con, together; genitus, born) is often looked upon as a group of gross structural abnormalities that are present at birth. While not incorrect, this definition requires elaboration and qualification.\n\nPrenatal diagnoses have been possible for over 30 years.2 Beginning about embryonic day 20 in the human fetus, progenitor cells within the mesoderm become committed to a cardiogenic destination.3 The majority of malformations compatible with 6 months of intrauterine life permit live offspring at term. A given malformation may exist in relative harmony with the fetal circulation, only to be modified considerably, at least physiologically, by dramatic circulatory changes at birth.4 Weeks, months, or years may then elapse before an anomaly reveals itself as characteristic or typical. A functionally normal aortic valve that is congenitally bicuspid at birth may take decades to fibrose, calcify, and present as overt aortic stenosis. Conversely, a malformation may disappear, as is the case with spontaneous closure of a ventricular septal defect.\n\nCongenital malformations of the heart and circulation are not fixed anatomic defects that appear at birth, but instead are anomalies in flux that originate in the early embryo, evolve during gestation, survive the dramatic circulatory alterations at birth, and change considerably during the course of extrauterine life. Congenital heart disease was once the exclusive and legitimate domain of pediatrics, but survival patterns have changed appreciably.5 In the United States today, two-thirds of the congenital heart disease population are adults,6,7 creating a new generation of patients who are best cared for by specially trained cardiologists.8\n\nFurthermore, certain defects that are actually or potentially of functional significance are not gross structurally, such as congenital complete heart block, either isolated (see Chapter 4) or with congenitally corrected transposition of the great arteries (see Chapter 6), or with left isomerism (see Chapter 3); Wolff- Parkinson-White preexcitation, either isolated or complicated (see Chapter 13); absence of a sinus node as with a superior vena caval sinus venosus atrial septal defect (see Chapter 15) or left isomerism (see Chapter 3); ventricular tachycardia with the long QT syndromes,9 or arrhythmogenic right ventricular dysplasia (see Chapter 13). Still other abnormalities, such as Marfan syndrome, which is the result of mutations in the gene that encodes fibrillin-1, are actually or potentially of functional significance, but they do not necessarily manifest at birth as gross structural malformations and, as a matter of convention, are usually not classified as congenital.10 There are also anomalies that may escape inclusion as defects, such as congenital kinking of the internal carotid artery.11\n\nBecause of the intimate interplay between congenital malformations of the heart and the fetal substrate, let us now turn to the fetal circulation per se, and the remarkable circulatory changes that occur at birth.4,12,13 In utero patterns of blood flow have been defined in fetal lambs after inserting catheters into limb vessels,4 and in utero left and right ventricular outputs and flow distributions through the foramen ovale, ductus arteriosus, and pulmonary bed have been measured in human fetuses with\n\nhigh-resolution color Doppler ultrasonography.12,14 The right and left ventricles do not function in series in the fetus as they do in the extrauterine circulation. Gas exchange occurs in the placenta, not in the lungs. About two-thirds of the right ventricular output is diverted away from the lungs through a wide patent ductus arteriosus into the descending thoracic aorta, from which a large portion enters the umbilical circulation for oxygenation in the placenta. Pulmonary blood flow is low but meets nutritional requirements for growth of the lungs. Inferior vena cava blood, which is a composite from the umbilical vein, the left and right hepatic veins, the ductus venosus, and the distal inferior vena cava, streams in the direction of the foramen ovale into the left atrium and then into the left ventricle, assisted by the eustachian valve. About 60% of the umbilical venous return that is oxygenated in the placenta bypasses the liver through the ductus venosus and enters the inferior vena cava and right atrium. Blood from the superior vena cava is deflected within the right atrium toward the tricuspid valve, across which it reaches the right ventricle. About 70% of the relatively oxygen-rich blood ejected from the left ventricle is distributed to the coronary circulation (and thus the myocardium), to the head and neck (and thus the brain), and to the forelimbs. Almost 90% of the relatively oxygen-poor blood ejected by the right ventricle passes through the ductus arteriosus into the descending aorta to be oxygenated in the placenta. Accordingly, the fetal circulation is designed so that blood with higher oxygen saturation preferentially reaches the myocardium and brain, and less saturated blood preferentially reaches the placenta.\n\nThe profound circulatory changes at birth occur almost simultaneously. The umbilical/placental circulation is eliminated, the lungs expand, rhythmic ventilation commences, oxygen tension rises as alveolar fluid is eliminated and ambient air is breathed, pulmonary vascular resistance falls, and pulmonary blood flow increases eight- to ten-fold. Venous return to the left atrium increases, left atrial pressure rises, the valve of the foramen ovale closes, and the ductus arteriosus functionally closes (constricts) within hours after birth, effectively separating the pulmonary and systemic circulations.4 These changes have significant impact on infants born with congenital heart disease where a circulation in series may fail to be established in the presence of intracardiac shunting.13 Other important changes relate to the fetal right ventricle, which slowly loses its relative mass. With the stimulus of afterload eliminated, there is a gradual reduction in right ventricular wall thickness relative to the ventricular septum and left ventricle. The neonatal right ventricle does not undergo regression, but instead does not increase its mass as rapidly as the left ventricle. Normal physiologic adaptations at birth are remarkable in their own right. It is therefore not surprising that congenital malformations of the heart or circulation will, to varying degrees, interact with and be modified by extrauterine life.\n\n“One of the most wondrous features of animate nature must surely be the perfect harmony existing between structure and function.”14 No organ system exemplifies this as well as the heart and circulation. In the presence of congenital heart disease, both the morphology\n\n\n## PDF page 16 | printed page 2\n\nand physiology of the heart and circulation change with the passage of time from the fetus, to the neonate, to the infant, to the child, to the adolescent, and to the adult. Some of these changes result in neonatal death, while others express themselves gradually over weeks, months, years, or even decades. The clinical manifestations of congenital heart disease are dealt with herein in terms of anatomic and physiologic mechanisms. The method of assessment employed in the process of clinical recognition is a syllogism of applied logic. When conclusions are drawn from accurate observations, correct diagnoses emerge with gratifying frequency, even when the malformations are complex. Logic is encouraged; memorization is minimized. In each chapter, the gross morphology is first established in order to shed light on the physiologic derangements. The question is then asked: What clinical manifestations might result from these anatomic and physiologic derangements? The stage is now set for clinical recognition—the thesis of this book—which depends on a synthesis of information from the history, the physical examination, the electrocardiogram, the chest x-ray, and more advanced imaging, such as with cardiac computed tomography (CT) or magnetic resonance imaging (MRI). Contemporary imaging techniques serve as important supplements.\n\nThe history, which is an interview, is designed to secure background information. The physical examination includes the physical appearance, the arterial pulse, the jugular venous pulse, precordial percussion, movement and palpation, and auscultation.15 The stethoscope is the oldest cardiovascular diagnostic instrument in continuous clinical use. The electrocardiogram, developed in 1903 by Willem Einthoven, when read closely and interpreted in clinical context, provides gratifying diagnostic insights, even in complex congenital heart disease.16 Meticulous attention should be devoted to the P wave, the P duration, the PR interval, the QRS, the QT interval, and the T wave. The electrocardiographic waves are believed to have been so-named by Rene Descartes, an 18th century French philosopher and scientist17 who was surely known to Einthoven. The x-ray was developed in 1895 by Wilhelm Conrad Roentgen. Chest x-rays must be read closely and interpreted in clinical context. Posteroanterior and lateral views should be read according to a planned sequence, namely penetration, rotation, degree of inhalation, age and sex, right/left orientation, thoracic and abdominal situs, positions and malpositions above and below the diaphragm, the bones, the extrapulmonary soft tissue densities, the vascular and parenchymal intrapulmonary soft tissue densities, the great arteries and great veins, the atria, and the ventricles. There is much to be said for learning interpretation by reading chest x-rays with a trained chest radiologist. As with the electrocardiogram, the amount of information that can be extracted from chest x-rays is gratifying, even in complex congenital heart disease.\n\nIt is axiomatic that emphasis should be placed on the relationship of the parts to the whole, a relationship that results in a harmonious picture devoid of contradictions, rather than a collection of loosely related observations. Maximum information should be extracted from each source while relating information from one source to that of another. Each step should advance our thinking and narrow the diagnostic possibilities. By the end of the clinical assessment, untenable considerations should have been discarded, possibilities retained for further consideration, and probabilities brought into sharper focus. The process reflects Herophilus’ adage that the best physician is one who distinguishes between the possible and the impossible.\n\nA diagnostic impression, once entertained, necessarily influences the objectivity with which subsequent impressions are appraised. If the same sequence of clinical evaluation is always employed, the later steps cannot be objectively assessed. It is therefore useful to vary the sequence with which information is assembled. Begin, for example, with the chest x-ray or electrocardiogram. With infants, it is often practical to take advantage of\n\ntemporary periods of calm and start with the physical examination, which may shortly be difficult to perform. It is not the sequence that matters, but the depth and synthesis of analysis. Irrespective of how the order of information is arranged, two questions must always be asked: how does one step relate to the next, and how do the parts relate to the whole?\n\nDiagnostic thinking benefits from employing anticipation and supposition. After drawing conclusions from the history, it is useful to pause and ask: if these assumptions are correct, what can be anticipated from the physical examination, or what specific points can be anticipated in the electrocardiogram or x-ray to support or refute initial impressions? Anticipation heightens interest as the clinical assessment progresses. Confirmation comes as a source of satisfaction, and error stands out in bold relief. Nor should we be afraid of mistakes. Truth emerges sooner from error than from confusion.\n\nThe clinical presentation of congenital heart disease can be complex,18 particularly in adults, but a thoughtful systematic approach can be helpful. Decades ago, Paul Wood proposed that we answer five clinical cornerstone questions in understanding the derangements of the heart and circulation seen across lesions (Box 1.1). When approached according to this proposal, the clinical recognition of congenital heart disease becomes a stimulating challenge, a satisfying discipline in logical thinking, and a constant source of self-education. The intensity of inquiry and the analytical standards employed at the bedside should be the same as those in diagnostic laboratories. Fig. 1.1 offers an approach to diagnosis based on the simple observation of the presence or absence of cyanosis, and the presence or absence of a scar on the chest, its location, and the date at which the patient underwent the associated procedure. Table 1.1 summarizes the key findings in some of the most common congenital lesions.\n\nIn the Preface to the first edition of Clinical Recognition of Congenital Heart Disease, Dr. Perloff said, “I hope to stimulate clinicians to use the basic tools readily at their disposal—the history, the physical examination, the electrocardiogram, and the chest x-ray.” The Preface to the third edition stated that, “Two-dimensional echocardiography was in its infancy when the second edition appeared, but now is a routine laboratory procedure.” Cardiac catheterization and angiography were followed by transthoracic and transesophageal echocardiography, and MRI, magnetic resonance angiography (MRA), and CT now provide exquisite anatomic detail and refined physiologic information.19–25\n\nGiven these advanced imaging techniques, and with more in the offing, has emphasis on the history, physical examination, electrocardiogram, chest x-ray, and echocardiogram become irrelevant? Intelligent selection of investigative procedures from an ever-increasing array requires far more sophisticated decisionmaking than was necessary when choices were limited to the electrocardiogram and chest x-ray. The basic clinical assessment provides the information necessary for most of these decisions. With increasing emphasis on the cost of medical care, it is likely that there will be a resurgence of interest in the inexpensive and safe clinical examination.26\n\n### BOX 1.1 Five Basic Questions\n\n1. Is the patient acyanotic or cyanotic? 2. Is pulmonary arterial blood flow increased or decreased? 3. Does the malformation originate in the left or right side of the\n\nheart? 4. Which is the dominant ventricle? 5. Is pulmonary hypertension present?\n\n\n## PDF page 17 | printed page 3\n\nMidline sternotomy\n\nLeft lateral thoracotomy\n\nAcyanotic: <1980: for ASD, VSD, LVOTO, RVOTO, Ebstein, Mustard/Senning, Glenn >1980: for Fontan, TOF >1990: for arterial switch\n\nAcyanotic: Repair of coarctation\n\nCyanotic: Waterston shunt (ascending aorta to right pulmonary artery shunt) Central shunt (ascending aorta to pulmonary artery)\n\nCyanotic: Left Blalock-Taussig shunt (left subclavian artery to left pulmonary artery shunt) for PA-VSD, TOF, univentricle Potts anastomosis (descending aorta to left pulmonary artery shunt)\n\nFig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.\n\nSome additional points: The term natural history is not used. Julien Hoffman’s definition is relevant: “The natural history of any disease is a description of what happens to people with the disease who do not receive treatment for it.”27 Natural history is therefore not synonymous with unoperated, and unnatural history is not synonymous with postoperative. Nonsurgical therapeutic interventions can hardly be considered natural. A second point: differential diagnoses are not employed. Instead, each chapter ends with a summary that permits clinical recognition of the congenital anomaly covered in the chapter. These summaries bring together clinical highlights and serve as reminders for the reader’s convenience.\n\nFinally, a comment on terminology. The First International Summit on Nomenclature for Congenital Heart Disease was held in 2001 in Toronto, ending with virtually unanimous\n\n1\n\nRight lateral thoracotomy\n\nAcyanotic: Repair of coarctation with right sided arch\n\nCyanotic: Right Blalock-Taussig shunt (right subclavian artery to right pulmonary artery shunt) for PA-VSD, TOF, univentricle Glenn shunt\n\nsupport for the development of a unified system for describing congenial cardiac malformations.28 The terms used herein to describe congenital malformations of the heart and circulation include older latinized forms and more recent anglicized forms.29–31 The vocabulary of congenital heart disease is replete with abbreviations understood only by the initiated. Accordingly, when abbreviations are used, they will first be defined for the reader’s convenience, but full terms will subsequently be used. New terms are not employed when old terms suffice. Acronyms are avoided.\n\nWe have tried to ensure that the material in this book is accessible to a broad audience. The terminology was assiduously addressed, and based on decades of personal experience, Dr. Perloff’s objective, so carefully transmitted to us, remains to excite interest and to be clearly understood.\n\n\n## PDF page 18 | printed page 4\n\n4 CHAPTER 1 Introduction: Formulation of the Problem\n\nKatz-Wachtel phenomenon Eisenmenger\n\nP-wave axis and severe\n\nAF, Atrial fibrillation; ALCAPA, anomalous left coronary artery from the pulmonary artery; AV, atrioventricular; AVB, AV block; AVCD, atrioventricular canal defect; AVN, AV node; BVH, biventricular hypertrophy;\n\nT precordial; WPW with\n\nPossible AVB if VSD or TV RVH; diminutive LV Possible RAE\n\nOften either clinically silent Uncommon moderate PDA\n\ncommon; Q II, III, aVF,\n\nAxis deviation correlates with R:S in V1 and V6\n\npredictive of VT/SCD\n\nAnterior AVN; positive defects\n\nSitus solitus: normal\n\nQRS duration  QTd obstruction or PHT\n\n“Crochetage” pattern Uncommon RAE 35% RBBBi.RBBBc\n\nAccessory pathway Diminutive RV P waves\n\nor Eisenmenger\n\nPossible ischemia posterobasal LV\n\nInferoposteriorly\n\nEisenmenger\n\nParticularities Ventricular Hypertrophy Atrial Enlargement QRS Configuration QRS Axis PR Interval\n\nand V12V4\n\nwith RVP\n\nsurgery\n\nEbstein\n\nCHD\n\nUncommon in partial; BVH Possible LAE rSr ́ or rsR ́\n\nBVH 23%–61%; RVH with LAE\n\ndeep Q, small R V1 and\n\nin complete; RVH with\n\nSelective hypertrophy of Possible LAE\n\nRVH; severity correlates Possible RAE\n\nLVH; tall R V12V2; RVH: inversus\n\nRVH possible if RVOT RAE possible\n\nNot if no associated defects\n\ntall R right lateral\n\nEisenmenger\n\nRAE with Himalayan\n\nNot if no associated\n\nPeaked P waves; RBBB 90% LAD 5%–10%\n\nPossible RAE  possible RBBB\n\nNot with situs and repolarization\n\nLAE with and V6\n\nAbsence of q, small r, RAD Normal\n\nInverse depolarization RAD Normal\n\npossible ant-sept\n\nDeep S V1, tall R V5 Normal h PR 10%–20%\n\nQ in III, aVF, and\n\nAbsence septal q; LAD\n\nNormal; or rSr ́; R ́\n\nright precordium\n\nincreases with\n\nAnt-lat Q waves; Possible LAD Normal\n\ndeep S in left\n\natypical RBBB\n\nLow-amplitude Normal or LAD\n\nrSr ́ or rsR ́ with\n\nNormal or rSr ́; LAD 3%–15%\n\nmultiphasic\n\nprecordium\n\nQ waves\n\nseverity\n\nTABLE 1.1 Typical Electrocardiogram Features in Common Forms of Adult Congenital Heart Disease\n\nModerate to extreme .50%\n\nRAD; LAD in Holt-\n\nNormal if mild; RAD Normal\n\nwith moderate/\n\nOram or LAHB\n\nNormal or RAD; Normal or mild h\n\n0–180 degrees; 6%–19%\n\nRAD with BVH;\n\nLAD; normal\n\nwith atypical\n\nsevere\n\nNormal or mild h;\n\nshort if WPW\n\n.50%; AVB\n\n1 degree AVB\n\n1 degree AVB SVT; AF/IART 40%\n\n2% per year\n\n1 degree AVB\n\n1 degree AVB\n\ncommon;\n\n1 degree\n\nAVB 10%\n\n105–165 degrees\n\nNSR; possible EAR,\n\nwith situs inversus\n\nventricular pressure; SCD, sudden cardiac death; SVT, supraventricular tachycardia; TA, tricuspid atresia; TGA, transposition of the great arteries; TOF, tetralogy of Fallot; TV, tricuspid valve; VT, ventricular\n\ndeviation; RAE, right atrial enlargement; RBBB, right bundle-branch block (i, incomplete; c, complete); RV, right ventricle; RVH, right ventricular hypertrophy; RVOT, right ventricular outflow tract; RVP, right\n\nhemiblock; LAI, left atrial isomerism; LV, left ventricle; LVH, left ventricular hypertrophy; NSR, normal sinus rhythm; PHT, pulmonary hypertension; PVC, premature ventricular contraction; RAD, right-axis\n\nCHD, congenital heart disease; DILV, double-inlet left ventricle; EAR, ectopic atrial rhythm; IART, intra-atrial reentrant tachycardia; LAD, left-axis deviation; LAE, left atrial enlargement; LAHB, left anterior\n\ntachycardia; WPW, Wolff-Parkinson-White syndrome.\n\n\n## PDF page 19 | printed page 5\n\nREFERENCES 1. Williams JR. The life of Goethe. Oxford: Blackwell Publishers; 1998. 2. Allan L. Prenatal diagnosis of structural cardiac defects. Am J Med\n\n18. Sommer RJ, Hijazi ZM, Rhodes JF Jr. Pathophysiology of congenital\n\n19. Burchill LJ, Huang J, Tretter JT, et al. Noninvasive imaging in adult\n\nGenet C Semin Med Genet. 2007;145C(1):73–76. 3. Olson EN, Srivastava D. Molecular pathways controlling heart devel-\n\n20. Broberg CS, Meadows A, Sahn D. Magnetic resonance imaging images\n\nopment. Science. 1996;272:671–676. 4. Moller JH, Hoffman JIE, eds. Pediatric cardiovascular medicine. Phila-\n\n21. Babu-Narayan SV, Giannakoulas G, Valente AM, Li W, Gatzoulis\n\ndelphia: Churchill Livingstone, 2000. 5. Khairy P, Ionescu-Ittu R, Mackie AS, Abrahamowicz M, Pilote L,\n\nMarelli AJ. Changing mortality in congenital heart disease. J Am Coll Cardiol. 2010;56(14):1149–1157. 6. Marelli AJ, Ionescu-Ittu R, Mackie AS, Guo L, Dendukuri N,\n\n22. Raimondi F, Warin-Fresse K. Computed tomography imaging in\n\nKaouache M. Lifetime prevalence of congenital heart disease in the general population from 2000 to 2010. Circulation. 2014;130(9): 749–756. 7. Gilboa SM, Devine OJ, Kucik JE, et al. Congenital heart defects in\n\n23. Partington SL, Valente AM, Landzberg M, Grant F, Di Carli MF,\n\nthe United States: estimating the magnitude of the affected population in 2010. Circulation. 2016;134(2):101–109. 8. Child JS, Freed MD, Mavroudis C, Moodie DS, Tucker AL. Task\n\n24. Orwat S, Diller GP, Baumgartner H. Imaging of congenital heart\n\nforce 9: training in the care of adult patients with congenital heart disease. J Am Coll Cardiol. 2008;51(3):389-393. 9. Chiang CE, Roden DM. The long QT syndromes: genetic basis and\n\n25. Meadows J, Landzberg MJ. Advances in transcatheter interventions\n\nclinical implications. J Am Coll Cardiol. 2000;36(1):1–12. 10. Milewicz DM. Molecular genetics of Marfan syndrome and Ehlers-\n\n26. Braunwald E. Foreword. In: JK Perloff, ed. Physical Examination of the\n\nDanlos type IV. Curr Opin Cardiol. 1998;13(3):198-204. 11. Le Bret E, Pineau E, Folliguet T, et al. Congenital kinking of the\n\n27. Hoffman JIE. Reflections on the past, present and future of pediatric\n\ninternal carotid artery in twin brothers. Circulation. 2000;102(22): E173–E174. 12. Mielke G, Benda N. Cardiac output and central distribution of blood\n\n28. Béland MJ, Franklin RC, Jacobs JP, et al. Update from the Interna-\n\nflow in the human fetus. Circulation. 2001;103(12):1662–1668. 13. Rudolph AM. The changes in the circulation after birth. Their im-\n\nportance in congenital heart disease. Circulation. 1970;41(2):343–359. 14. Alcázar JL, Rovira J, Ruiz-Pérez ML, López-García G. Transvaginal\n\n29. Botto LD, Lin AE, Riehle-Colarusso T, Malik S, Correa A; National\n\ncolor Doppler assessment of fetal circulation in normal early pregnancy. Fetal Diagn Ther. 1997;12(3):178–184. 15. Perloff JK. Physical examination of the heart and circulation, 4th ed.\n\n30. Carr C. Congenital nomenclature: a cause of confusion during litera-\n\nShelton, Connecticut: People’s Medical Publishing House; 2009. 16. Khairy P, Marelli AJ. Clinical use of electrocardiography in adults\n\n31. Jacobs JP, Anderson RH, Weinberg PM, et al. The nomenclature,\n\nwith congenital heart disease. Circulation. 2007;116(23):2734–2746. 17. Hurst JW. Naming of the waves in the ECG, with a brief account of\n\ntheir genesis. Circulation. 1998;98(18):1937–1942.\n\n1\n\nheart disease in the adult: part I: Shunt lesions. Circulation. 2008;117(8): 1090–1099.\n\ncongenital heart disease. Circ Res. 2017;120(6):995–1014.\n\nin adult congenital heart disease. Curr Probl Cardiol. 2011;36(6):228–255.\n\nMA. Imaging of congenital heart disease in adults. Eur Heart J. 2016;37(15):1182–1195.\n\nchildren with congenital heart disease: Indications and radiation dose optimization. Arch Cardiovasc Dis. 2016;109(2):150–157.\n\nDorbala S. Clinical applications of radionuclide imaging in the evaluation and management of patients with congenital heart disease. J Nucl Cardiol. 2016;23(1):45–63.\n\ndisease in adults: choice of modalities. Eur Heart J Cardiovasc Imaging. 2014;15(1):6–17.\n\nin adults with congenital heart disease. Prog Cardiovasc Dis. 2011;53(4): 265–273.\n\nHeart and Circulation. 4th ed. Shelton, Connecticut: People’s Medical Publishing House; 2009.\n\ncardiology. Cardiol Young. 1994;4:208–223.\n\ntional Working Group for Mapping and Coding of Nomenclatures for Paediatric and Congenital Heart Disease. Cardiol Young. 2004; 14(2):225–229.\n\nBirth Defects Prevention Study. Seeking causes: Classifying and evaluating congenital heart defects in etiologic studies. Birth Defects Res A Clin Mol Teratol. 2007;79(10):714–727.\n\nture search. Ann Thorac Surg. 2007;84(2):716.\n\ndefinition and classification of cardiac structures in the setting of heterotaxy. Cardiol Young. 2007;17 Suppl 2:1–28.\n\n\n## Complete original page views\n\nSearchable extraction can lose mathematical symbols or reading order. These original pages preserve source layout, symbols and credits.\n\n### Original PDF page 15\n\n![Original source page](../../tables/ch001_page0015.jpg)\n\n### Original PDF page 16\n\n![Original source page](../../tables/ch001_page0016.jpg)\n\n### Original PDF page 17\n\n![Original source page](../../tables/ch001_page0017.jpg)\n\n### Original PDF page 18\n\n![Original source page](../../tables/ch001_page0018.jpg)\n\n### Original PDF page 19\n\n![Original source page](../../tables/ch001_page0019.jpg)\n\n## Individual source figure views\n\n![Source image PDF17](../../figures/ch001_p0017_03.jpg)\n\nFig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.\n\n![Source image PDF17](../../figures/ch001_p0017_28.jpg)\n\nFig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.\n\n![Source image PDF17](../../figures/ch001_p0017_71.jpg)\n\nFig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.\n\n![Source image PDF17](../../figures/ch001_p0017_72.jpg)\n\nFig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.\n\n![Source image PDF17](../../figures/ch001_p0017_81.jpg)\n\nFig. 1.1 Approach to diagnosis of congenital cardiac condition in a patient with and without cyanosis, and with and without surgical scars. ASD, Atrial septal defect; LVOTO, left ventricular outflow tract obstruction; PA-VSD, pulmonary atresia with VSD; RVOTO, right ventricular outflow tract obstruction; TOF, Tetralogy of Fallot; VSD, ventricular septal defect.\n",
+  "extractor_version": 1,
+  "inventory": [
+    {
+      "pdf_page": 15,
+      "chapter": 1,
+      "characters": 6897,
+      "low_text": false
+    },
+    {
+      "pdf_page": 16,
+      "chapter": 1,
+      "characters": 7762,
+      "low_text": false
+    },
+    {
+      "pdf_page": 17,
+      "chapter": 1,
+      "characters": 2807,
+      "low_text": false
+    },
+    {
+      "pdf_page": 18,
+      "chapter": 1,
+      "characters": 3080,
+      "low_text": false
+    },
+    {
+      "pdf_page": 19,
+      "chapter": 1,
+      "characters": 4701,
+      "low_text": false
+    }
+  ],
+  "column_strategy": "Page-specific gutter from line geometry; alternating margins; wide opening headers separated.",
+  "text_extraction_note": "Visible glyphs read with TEXT_IGNORE_ACTUALTEXT=2048; malformed replacement tags bypassed, no guessed words."
+}

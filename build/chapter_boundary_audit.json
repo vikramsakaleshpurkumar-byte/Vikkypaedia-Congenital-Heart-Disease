@@ -1,0 +1,234 @@
+[
+  {
+    "num": 1,
+    "pdf_start": 15,
+    "pdf_end": 19,
+    "title": "Introduction: Formulation of the problem",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 2,
+    "pdf_start": 20,
+    "pdf_end": 29,
+    "title": "Functional murmurs",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 3,
+    "pdf_start": 30,
+    "pdf_end": 52,
+    "title": "The cardiac malpositions",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 4,
+    "pdf_start": 53,
+    "pdf_end": 61,
+    "title": "Isolated congenital complete heart block",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 5,
+    "pdf_start": 62,
+    "pdf_end": 66,
+    "title": "Congenital abnormalities of the pericardium",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 6,
+    "pdf_start": 67,
+    "pdf_end": 87,
+    "title": "Congenitally corrected transposition of the great arteries",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 7,
+    "pdf_start": 88,
+    "pdf_end": 112,
+    "title": "Congenital aortic stenosis: Congenital aortic regurgitation",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 8,
+    "pdf_start": 113,
+    "pdf_end": 138,
+    "title": "Coarctation of the aorta and interrupted aortic arch",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 9,
+    "pdf_start": 139,
+    "pdf_end": 152,
+    "title": "Congenital obstruction to left atrial flow: Mitral stenosis, cor triatriatum, pulmonary vein stenosis",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 10,
+    "pdf_start": 153,
+    "pdf_end": 179,
+    "title": "Congenital pulmonary stenosis and regurgitation",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 11,
+    "pdf_start": 180,
+    "pdf_end": 196,
+    "title": "Ebstein’s anomaly of the tricuspid valve",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 12,
+    "pdf_start": 197,
+    "pdf_end": 253,
+    "title": "Atrial septal defect: Simple and complex",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 13,
+    "pdf_start": 254,
+    "pdf_end": 262,
+    "title": "Pulmonary stenosis with interatrial communication",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 14,
+    "pdf_start": 263,
+    "pdf_end": 296,
+    "title": "Ventricular septal defect",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 15,
+    "pdf_start": 297,
+    "pdf_end": 325,
+    "title": "Ventricular septal defect with pulmonary stenosis",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 16,
+    "pdf_start": 326,
+    "pdf_end": 345,
+    "title": "Double outlet ventricle",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 17,
+    "pdf_start": 346,
+    "pdf_end": 372,
+    "title": "Patent ductus arteriosus and aortopulmonary window",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 18,
+    "pdf_start": 373,
+    "pdf_end": 384,
+    "title": "Anomalous origin of the left coronary artery from the pulmonary trunk",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 19,
+    "pdf_start": 385,
+    "pdf_end": 395,
+    "title": "Congenital coronary arterial fistula",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 20,
+    "pdf_start": 396,
+    "pdf_end": 406,
+    "title": "Congenital aneurysms of the sinuses of valsalva",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 21,
+    "pdf_start": 407,
+    "pdf_end": 417,
+    "title": "Pulmonary atresia with intact ventricular septum",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 22,
+    "pdf_start": 418,
+    "pdf_end": 432,
+    "title": "Tricuspid atresia",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 23,
+    "pdf_start": 433,
+    "pdf_end": 450,
+    "title": "The univentricular heart",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 24,
+    "pdf_start": 451,
+    "pdf_end": 471,
+    "title": "Complete transposition of the great arteries",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 25,
+    "pdf_start": 472,
+    "pdf_end": 485,
+    "title": "Truncus arteriosus",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 26,
+    "pdf_start": 486,
+    "pdf_end": 492,
+    "title": "Congenital anomalies of vena caval connection",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 27,
+    "pdf_start": 493,
+    "pdf_end": 502,
+    "title": "Congenital pulmonary arteriovenous fistula",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 28,
+    "pdf_start": 503,
+    "pdf_end": 510,
+    "title": "Hypoplastic left heart",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  },
+  {
+    "num": 29,
+    "pdf_start": 511,
+    "pdf_end": 526,
+    "title": "Congenital anomalies of the coronary circulation",
+    "title_match": true,
+    "method": "Normalized title text on original first page, visible glyph extraction."
+  }
+]

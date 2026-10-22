@@ -1,0 +1,507 @@
+{
+  "review_date": "2026-10-22",
+  "source": "Perloff clinical recognition textbook,7th edition,copyright2023",
+  "review_role": "Author-model selected-passage checking; no independent clinical-specialist review",
+  "scope": {
+    "chapters": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "authored_mcqs": 40,
+    "flashcards": 48,
+    "learning_units": 40,
+    "progressive_cases": 4,
+    "case_decisions": 12
+  },
+  "methods": [
+    "Read exact cited source passages in page-marked raw/current visible evidence",
+    "Rendered and visually inspected selected original PDF pages",
+    "Inspected four-choice distractor specificity and age context",
+    "Checked tier cognitive demand and staged-case information ordering",
+    "Fresh-process import verified assigned helper,counts,unique choices,answer-note alignment and source-page bounds"
+  ],
+  "original_pages_visually_inspected": [
+    68,
+    96,
+    120,
+    139,
+    149,
+    161,
+    175,
+    180,
+    190,
+    210,
+    254
+  ],
+  "item_records": [
+    {
+      "chapter": 6,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 68,
+      "focus": "Double-discordant circulation and morphologic valve connections in Fig6.1",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 6,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 71,
+      "focus": "Systemic right ventricular geometry, coronary supply and loading",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 6,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 72,
+      "focus": "Ebstein-like left atrioventricular valve and increasing regurgitation",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 6,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 77,
+      "focus": "Long penetrating bundle fibrosis and progressive AV block",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 6,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 78,
+      "focus": "Reversed septal activation and precordial Q waves",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 6,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 81,
+      "focus": "Echocardiographic identification of a morphologic RV",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 7,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 96,
+      "focus": "Mobile-valve ejection sound localizes level rather than numerical severity",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 7,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 97,
+      "focus": "Murmur intensity may decline with ventricular failure",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 7,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 101,
+      "focus": "Open bicuspid valve imaging resolves a false raphe",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 7,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 107,
+      "focus": "Chronic severe aortic regurgitant arterial pulse",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 7,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 107,
+      "focus": "Acute severe regurgitation can have a short soft murmur",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 7,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 101,
+      "focus": "Echocardiographic anatomy, gradient and ventricular assessment",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 8,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 120,
+      "focus": "Arm-leg pulses and pressure assessment, including infant brachial palpation",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 8,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 116,
+      "focus": "Proximal aortic stiffness and systolic hypertension",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 8,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 126,
+      "focus": "Posterior intercostal collaterals and late appearance of rib notching",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 8,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 116,
+      "focus": "Severe neonatal coarctation can deteriorate at ductal closure",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 8,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 131,
+      "focus": "Ductal supply of the distal aorta in interrupted arch",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 8,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 124,
+      "focus": "Posterior murmur and attenuation in heart failure",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 9,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 139,
+      "focus": "Single papillary muscle and convergent chordae of parachute valve",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 9,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 139,
+      "focus": "Four lesions of classic Shone complex, with incomplete expression possible",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 9,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 139,
+      "focus": "Leaflet mechanics explain absent opening snap and loud S1",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 9,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 149,
+      "focus": "Membrane proximal to appendage distinguishes typical cor triatriatum",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 9,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 149,
+      "focus": "Regional vein obstruction and normal downstream LA size",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 9,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 140,
+      "focus": "Accessory high-pressure and true distal low-pressure atrial compartments",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 10,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 153,
+      "focus": "Dysplastic thick separate poorly mobile valve leaflets without fusion",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 10,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 161,
+      "focus": "Inspiration reduces additional valve excursion and ejection sound",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 10,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 161,
+      "focus": "Pinpoint neonatal stenosis can sound deceptively soft",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 10,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 164,
+      "focus": "Branch stenosis raises systolic but not necessarily diastolic pulmonary pressure",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 10,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 175,
+      "focus": "Low-pressure congenital regurgitant murmur pattern",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 10,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 153,
+      "focus": "Double-chambered RV from obstructing muscle bundles",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 11,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 180,
+      "focus": "Displaced septal/posterior attachments atrialize inlet RV",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 11,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 183,
+      "focus": "Compliant RA and atrialized RV damp hypokinetic TR venous signs",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 11,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 182,
+      "focus": "Neonatal shunt improvement and later recurrence with altered filling",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 11,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 187,
+      "focus": "Delta wave supports preexcitation while short PR alone is insufficient",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 11,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 190,
+      "focus": "Echo anatomy, regurgitant flow and interatrial pathway assessment",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 11,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 182,
+      "focus": "Atrialized RV ventricular electrogram with atrial pressure pulse",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 12,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 204,
+      "focus": "Relative ventricular compliance governs nonrestrictive ASD shunt",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 12,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 210,
+      "focus": "Systolic murmur arises from augmented pulmonary outflow",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 12,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 211,
+      "focus": "Fixed versus persistent respiratory splitting definitions",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 12,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 237,
+      "focus": "Obstructed anomalous pulmonary venous return neonatal phenotype",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 12,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 239,
+      "focus": "Free-floating bridging leaflets permit both-level shunting",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 12,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 197,
+      "focus": "PFO flap valve versus deficient secundum tissue",
+      "finding": "selected source passage checked"
+    },
+    {
+      "chapter": 13,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 1,
+      "pdf_page": 254,
+      "focus": "Severe PS and right-to-left shunt typically through PFO",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 13,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 2,
+      "pdf_page": 254,
+      "focus": "Strong RA contraction and pressure produce presystolic escape",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 13,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 3,
+      "pdf_page": 254,
+      "focus": "Warmth reduces peripheral cyanosis without excluding central shunt",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 13,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 4,
+      "pdf_page": 257,
+      "focus": "Additional valvar sounds and P2 delay in ASD with PS",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 13,
+      "object": "Authored MCQ + linked unit/card",
+      "ordinal": 5,
+      "pdf_page": 261,
+      "focus": "Echo/Doppler gradient plus color-flow shunt direction",
+      "finding": "selected supporting source passage checked; intended best answer supported; no competing correct option identified"
+    },
+    {
+      "chapter": 13,
+      "object": "Consolidation card",
+      "ordinal": 6,
+      "pdf_page": 254,
+      "focus": "Raised RA pressure and right-to-left pathway permit paradoxical emboli",
+      "finding": "selected source passage checked"
+    }
+  ],
+  "case_records": [
+    {
+      "chapter": 6,
+      "id": "case-006",
+      "stage_pages": [
+        76,
+        78,
+        68
+      ],
+      "answer_positions": [
+        0,
+        1,
+        2
+      ],
+      "finding": "fictional information is staged before each decision; no future finding required for earlier answer; feedback source checked"
+    },
+    {
+      "chapter": 8,
+      "id": "case-008",
+      "stage_pages": [
+        120,
+        116,
+        131
+      ],
+      "answer_positions": [
+        1,
+        2,
+        3
+      ],
+      "finding": "fictional information is staged before each decision; no future finding required for earlier answer; feedback source checked"
+    },
+    {
+      "chapter": 11,
+      "id": "case-011",
+      "stage_pages": [
+        180,
+        182,
+        187
+      ],
+      "answer_positions": [
+        1,
+        2,
+        3
+      ],
+      "finding": "fictional information is staged before each decision; no future finding required for earlier answer; feedback source checked"
+    },
+    {
+      "chapter": 12,
+      "id": "case-012",
+      "stage_pages": [
+        237,
+        237,
+        237
+      ],
+      "answer_positions": [
+        2,
+        0,
+        3
+      ],
+      "finding": "fictional information is staged before each decision; no future finding required for earlier answer; feedback source checked"
+    }
+  ],
+  "source_concerns": [
+    {
+      "pdf_pages": [
+        180,
+        190
+      ],
+      "finding": "Original printed text onPDF180 gives normal tricuspid offset15mm children/20mm adults;PDF190 uses exceeding15/20mm as an Ebstein criterion. Numeric teaching from these statements requires specialist checking.",
+      "handling": "No numeric offset threshold is used in authored items; teach morphologic displacement,atrialization and flow assessment.",
+      "status": "flagged to coordinator; not silently corrected"
+    }
+  ],
+  "resolved_extraction_context": "Earlier styled-text omissions were corrected by the root visible-text/geometry extraction; they are not reported as an unresolved clinical issue.",
+  "limitations": [
+    "Selected supporting passages and selected original page views were checked; no claim of exhaustive line-by-line review of every chapter page.",
+    "No external current-guideline or drug-dose update layer was researched.",
+    "No assessment psychometric or clinical performance validation was performed."
+  ]
+}

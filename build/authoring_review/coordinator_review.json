@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-22",
+  "role": "Coordinator model review of selected second-author material, not clinical specialist review",
+  "chapters_001_005": {
+    "authored_cards": 30,
+    "authored_mcqs": 25,
+    "outcomes": 25,
+    "cases": 3,
+    "case_decisions": 9,
+    "selected_source_pages": [
+      15,
+      16,
+      20,
+      21,
+      22,
+      27,
+      30,
+      31,
+      33,
+      53,
+      55,
+      56,
+      59,
+      63,
+      64
+    ],
+    "method": "Direct selected visible-source passage review and original page renders during authoring; definitions, physiologic transitions, murmur differentiation, segmental relationships, conduction and pericardial recognition."
+  },
+  "second_author_spot_check": [
+    {
+      "chapter": 6,
+      "question_id": "q-006-1",
+      "pdf_page": 68,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 7,
+      "question_id": "q-007-3",
+      "pdf_page": 101,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 8,
+      "question_id": "q-008-4",
+      "pdf_page": 116,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 9,
+      "question_id": "q-009-5",
+      "pdf_page": 149,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 10,
+      "question_id": "q-010-4",
+      "pdf_page": 164,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 11,
+      "question_id": "q-011-1",
+      "pdf_page": 180,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 12,
+      "question_id": "q-012-5",
+      "pdf_page": 239,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 13,
+      "question_id": "q-013-4",
+      "pdf_page": 257,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 14,
+      "question_id": "q-014-3",
+      "pdf_page": 268,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 15,
+      "question_id": "q-015-3",
+      "pdf_page": 309,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 16,
+      "question_id": "q-016-5",
+      "pdf_page": 326,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 17,
+      "question_id": "q-017-4",
+      "pdf_page": 355,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 18,
+      "question_id": "q-018-1",
+      "pdf_page": 373,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 19,
+      "question_id": "q-019-3",
+      "pdf_page": 386,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 20,
+      "question_id": "q-020-5",
+      "pdf_page": 403,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 21,
+      "question_id": "q-021-4",
+      "pdf_page": 410,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 22,
+      "question_id": "q-022-4",
+      "pdf_page": 430,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 23,
+      "question_id": "q-023-4",
+      "pdf_page": 441,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 24,
+      "question_id": "q-024-3",
+      "pdf_page": 461,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 25,
+      "question_id": "q-025-4",
+      "pdf_page": 475,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 26,
+      "question_id": "q-026-5",
+      "pdf_page": 490,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 27,
+      "question_id": "q-027-5",
+      "pdf_page": 498,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 28,
+      "question_id": "q-028-4",
+      "pdf_page": 506,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    },
+    {
+      "chapter": 29,
+      "question_id": "q-029-5",
+      "pdf_page": 518,
+      "finding": "Selected correct claim and rationale supported by cited visible-source page."
+    }
+  ],
+  "sample_findings": "No substantive mismatch identified in the24selected correct-claim/rationale pairs. This sample does not establish validity of all options or all teaching objects.",
+  "source_concerns": [
+    {
+      "pdf_pages": [
+        180,
+        190
+      ],
+      "issue": "Tricuspid offset numeric statements flagged; no numeric cutoff adopted in authored teaching. See source review notes."
+    },
+    {
+      "pdf_pages": [
+        511
+      ],
+      "issue": "Historical sentence gives inconsistent interval between1513and1543; not used in teaching."
+    }
+  ],
+  "limitations": [
+    "Author-model checks are selected-passage review, not exhaustive semantic review.",
+    "A complete independent second-agent review did not finish; no claim that every question received independent second-author verification.",
+    "No independent congenital cardiology review, current-guideline reconciliation, learner pilot or psychometric validation."
+  ],
+  "editorial_fixes": [
+    "Rewrote three chapter-dependent flashcard prompts as complete standalone questions after checking the emitted course.",
+    "Used final chapter25 MCQ5 distractors from the author revision; correct DiGeorge association unchanged."
+  ]
+}

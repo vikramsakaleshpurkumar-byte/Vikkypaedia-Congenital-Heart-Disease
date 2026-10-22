@@ -1,0 +1,257 @@
+{
+  "tables": 2,
+  "boxes": 23,
+  "items": [
+    {
+      "kind": "Box",
+      "label": "1.1",
+      "caption": "BOX 1.1   Five Basic Questions",
+      "pdf_page": 16,
+      "printed_page": "2",
+      "chapter": 1,
+      "path": "tables/ch001_page0016.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Table",
+      "label": "1.1",
+      "caption": "TABLE 1.1   Typical Electrocardiogram Features in Common Forms of Adult Congenital Heart Disease",
+      "pdf_page": 18,
+      "printed_page": "4",
+      "chapter": 1,
+      "path": "tables/ch001_page0018.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "2.1",
+      "caption": "BOX 2.1   Functional Murmurs",
+      "pdf_page": 21,
+      "printed_page": "7",
+      "chapter": 2,
+      "path": "tables/ch002_page0021.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "3.1",
+      "caption": "BOX 3.1   Right Isomerism",
+      "pdf_page": 44,
+      "printed_page": "30",
+      "chapter": 3,
+      "path": "tables/ch003_page0044.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "3.2",
+      "caption": "BOX 3.2   Right Isomerism: Congenital Cardiac Malformations",
+      "pdf_page": 44,
+      "printed_page": "30",
+      "chapter": 3,
+      "path": "tables/ch003_page0044.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "3.3",
+      "caption": "BOX 3.3   Left Isomerism",
+      "pdf_page": 44,
+      "printed_page": "30",
+      "chapter": 3,
+      "path": "tables/ch003_page0044.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "3.4",
+      "caption": "BOX 3.4   Left Isomerism: Congenital Cardiac Malformations",
+      "pdf_page": 44,
+      "printed_page": "30",
+      "chapter": 3,
+      "path": "tables/ch003_page0044.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "7.1",
+      "caption": "BOX 7.1   Congenitally Abnormal Aortic Valves: Number and Types",
+      "pdf_page": 89,
+      "printed_page": "75",
+      "chapter": 7,
+      "path": "tables/ch007_page0089.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "7.2",
+      "caption": "BOX 7.2   Types of Congenital Aortic Regurgitation",
+      "pdf_page": 105,
+      "printed_page": "91",
+      "chapter": 7,
+      "path": "tables/ch007_page0105.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "7.3",
+      "caption": "BOX 7.3   Malformations Associated With Pure Congenital Aortic",
+      "pdf_page": 105,
+      "printed_page": "91",
+      "chapter": 7,
+      "path": "tables/ch007_page0105.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Table",
+      "label": "8.1",
+      "caption": "TABLE 8.1   Recommended Bladder Dimensions for Blood Pressure",
+      "pdf_page": 122,
+      "printed_page": "108",
+      "chapter": 8,
+      "path": "tables/ch008_page0122.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "9.1",
+      "caption": "BOX 9.1   Congenital Obstruction to Left Atrial Flow With",
+      "pdf_page": 140,
+      "printed_page": "126",
+      "chapter": 9,
+      "path": "tables/ch009_page0140.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "10.1",
+      "caption": "BOX 10.1   Congenitally Dysplastic Pulmonary Valve",
+      "pdf_page": 155,
+      "printed_page": "141",
+      "chapter": 10,
+      "path": "tables/ch010_page0155.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "11.1",
+      "caption": "BOX 11.1   Major Electrophysiologic Abnormalities in Ebstein’s",
+      "pdf_page": 188,
+      "printed_page": "174",
+      "chapter": 11,
+      "path": "tables/ch011_page0188.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "12.1",
+      "caption": "BOX 12.1   Atrial Septal Defect Secundum—Diagnostic",
+      "pdf_page": 220,
+      "printed_page": "206",
+      "chapter": 12,
+      "path": "tables/ch012_page0220.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "12.2",
+      "caption": "BOX 12.2   Atrial Septal Defect Secundum: Diagnostic",
+      "pdf_page": 220,
+      "printed_page": "206",
+      "chapter": 12,
+      "path": "tables/ch012_page0220.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "12.3",
+      "caption": "BOX 12.3   Atrial Septal Defect Secundum: Diagnostic",
+      "pdf_page": 220,
+      "printed_page": "206",
+      "chapter": 12,
+      "path": "tables/ch012_page0220.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "16.1",
+      "caption": "BOX 16.1   Double Outlet Right Ventricle: Clinical Classification",
+      "pdf_page": 327,
+      "printed_page": "313",
+      "chapter": 16,
+      "path": "tables/ch016_page0327.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "16.2",
+      "caption": "BOX 16.2   Double Outlet Right Ventricle: Major Clinical Patterns",
+      "pdf_page": 327,
+      "printed_page": "313",
+      "chapter": 16,
+      "path": "tables/ch016_page0327.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "26.1",
+      "caption": "BOX 26.1   Congenital Anomalies of Vena Caval Connection",
+      "pdf_page": 487,
+      "printed_page": "473",
+      "chapter": 26,
+      "path": "tables/ch026_page0487.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "29.1",
+      "caption": "BOX 29.1   Classification of Congenital Anomalies of the Coronary",
+      "pdf_page": 511,
+      "printed_page": "497",
+      "chapter": 29,
+      "path": "tables/ch029_page0511.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "29.2",
+      "caption": "BOX 29.2   Congenital Anomalies of Coronary Arteries Unassociated With Congenital Heart Disease",
+      "pdf_page": 516,
+      "printed_page": "502",
+      "chapter": 29,
+      "path": "tables/ch029_page0516.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "29.3",
+      "caption": "BOX 29.3   Congenital Anomalies of the Coronary Sinus",
+      "pdf_page": 518,
+      "printed_page": "504",
+      "chapter": 29,
+      "path": "tables/ch029_page0518.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "29.4",
+      "caption": "BOX 29.4   Congenital Anomalies of Coronary Arteries Associated",
+      "pdf_page": 519,
+      "printed_page": "505",
+      "chapter": 29,
+      "path": "tables/ch029_page0519.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    },
+    {
+      "kind": "Box",
+      "label": "29.5",
+      "caption": "BOX 29.5   Anomalies of Coronary Arteries Secondary to",
+      "pdf_page": 522,
+      "printed_page": "508",
+      "chapter": 29,
+      "path": "tables/ch029_page0522.jpg",
+      "representation": "Complete original source page; not a reconstructed semantic table. Caption heading may wrap beyond detected first line."
+    }
+  ],
+  "note": "Inventory detects explicit uppercase numbered TABLE/BOX headings. Full original page views preserve cells, context and wrapped headings."
+}
